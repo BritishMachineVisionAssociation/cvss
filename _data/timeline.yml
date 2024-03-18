@@ -1,0 +1,48 @@
+deadlines:
+  - title: Registration Opens
+    date: 2021-06-18
+    tags:
+      - key: authors
+  - title: Registration Closes
+    date: 2021-06-25
+    tags:
+      - key: authors
+  - title: School Starts
+    date: 2021-11-22
+    tags:
+      - key: everyone
+  - title: Virutal Conference Ends
+    date: 2021-11-25
+    tags:
+      - key: everyone
+
+
+
+# - type: Paper Abstract Deadline
+#   title: 
+#   date: 2021-06-08
+
+# - type: Paper Submission Deadline
+#   title: 
+#   date: 2021-06-25
+
+# - type: BMVC Virtual Conference Starts
+#   title: 
+#   date: 2021-11-22
+
+# - type: BMVC Virtual Conference Ends
+#   title: 
+#   date: 2021-11-25
+
+
+# - type: Virtual Conference Video Submission
+#   title: 
+#   date: 2020-08-20
+
+# - type: Deadline for Event Enabling Fees
+#   title: 
+#   date: 2020-08-27
+
+# - type: BMVC Virtual Conference Starts
+#   title: 
+#   date: 2021-11-22

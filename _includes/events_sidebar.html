@@ -1,0 +1,43 @@
+
+<div class="card">
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link dates.md %}">Important Dates</a> : <a href="{{site.baseurl}}{% link dates.md %}">(Whole Timeline)</a></h5>
+  {% assign meeting_events = site.pages | where_exp:"page", "page.url contains '/meetings/'" %}
+  {% assign filtered_meeting_events = meeting_events | where_exp:"page", "page.meeting-title" %}
+  
+  {% assign all_events = site.data.events | concat: filtered_meeting_events %}
+  
+  {% assign sorted_events = all_events | sort: "date" %}
+
+  <table class="table table-borderless mt-0 mb-0"><tbody>
+  {% for item in sorted_events %}
+  {% assign data_format = item.date | date: '%d/%m/%Y' %}
+    <tr class="card-body clearfix pb-0 pt-0 mb-1 date-filter" data-date-filter="{{ data_format }}">
+        <td><b>{{ item.date | date: '%d %b %Y' }}</b></td>
+        <td>{{ item.type }}</td>
+    </tr>
+  {% endfor %}
+  </tbody></table>
+</div>
+
+{% comment %}
+
+<div class="card mt-2">
+  <h5 class="card-header" style="text-align: center;"><a href="{{site.baseurl}}{% link sponsorship.md %}">Sponsors</a></h5>
+  {% assign grouped_sponsors = site.data.sponsors.sponsors | group_by:"type" %}
+  <div class="container">
+  {% for group in grouped_sponsors %}
+    <div class="row mt-1 mb-1 justify-content-around align-items-center">
+      <div class="col-12">
+        <b>{{-group.name-}}</b>
+      </div>
+    {% for item in group.items %}
+      <div class="col mb-1 text-center">
+        <a href="{{item.url}}"><img src="{{ site.baseurl }}/assets/images/sponsors/{{item.logo}}" class="img-fluid" alt="{{ item.id }}" style="max-height: 100px;"></a>
+      </div>
+    {% endfor %}
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% endcomment %}

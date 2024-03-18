@@ -1,0 +1,20 @@
+<div class="container">
+	<div class="row align-items-center footer-row">
+		<div class="col-xs-6 col-sm-6 col-lg-3 pb-2 pt-2">
+			© <b>{{ site.brand }}</b><br />
+			<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+		</div>
+		<div class="col-xs-6 col-sm-6 col-lg-4 col-xl-4 pb-2 pt-2">
+			{% if site.github_username %}<i class="fab fa-github fa-1x" style="color: gray;"></i> <a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a><br />{% endif %}
+			{% if site.twitter_username %}<i class="fab fa-twitter fa-1x" style="color: gray;"></i> <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>{% endif %}
+		</div>
+		<div class="w-100 d-xs-block d-lg-none"></div>
+		<div class="col-xs-12 col-sm-12 col-lg-5 col-xl-5 pb-2 pt-2">
+			<b>{{ site.formatted-title }}<br />
+			{{ site.dates }}
+			<!--<br />Senior Lecturer in Visual Computing and Machine Learning,
+			<br class="d-none d-sm-block d-md-none d-lg-block d-xl-none"/> University of Bath-->
+		</div>
+	</div>
+	<!--<span class="text-muted">© 2019 Copyright: Neill Campbell</span>-->
+</div>

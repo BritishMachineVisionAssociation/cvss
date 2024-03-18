@@ -1,0 +1,19 @@
+pages:
+  - title: Home
+    url: /
+  - title: School
+    url: /school/
+  - title: Speakers
+    url: /speakers/
+  - title: Attending
+    url: /attending/
+    dropdown: true
+  - title: Programme
+    url: /programme/schedule/
+    dropdown: false
+  # - title: Authors
+  #   url: /authors/
+  #   dropdown: true
+  - title: People
+    url: /people/organisers/
+    dropdown: false
