@@ -13,12 +13,12 @@ Non-residential rates: includes all sessions, lunches and refreshments, Summer S
 
 ##### Summer School Rates
 Early bird registration until **23 Jun 2023**:
-- Summer School + Residential: 650 GBP
-- Summer School + Non-Residential (No accommodation provided): 275 GPB
+- Summer School + Residential: 650 GBP (£)
+- Summer School + Non-Residential (No accommodation provided): 275 GBP (£)
 
 Late registration until **2 Jul 2023**:
-- Summer School + Residential: 830 GBP
-- Summer School + Non-Residential (No accommodation provided): 355 GPB
+- Summer School + Residential: 830 GBP (£)
+- Summer School + Non-Residential (No accommodation provided): 355 GBP (£)
 
 
 <a href="#" class="btn btn-primary" role="button">Register here</a>
