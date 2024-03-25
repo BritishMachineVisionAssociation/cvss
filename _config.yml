@@ -28,6 +28,7 @@ title: BMVA Computer Vision Summer School 2024
 formatted-title: BMVA Computer Vision Summer School 2024
 brand: CVSS&thinsp;2024
 short-title: "CVSS 2024"
+host-name: Durham University
 conf_year: 2021
 email: cvss2024_pcs@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -42,6 +43,8 @@ url: "http://127.0.0.1:4000"
 conf-url: "https://cvss.bmva.org/"
 chat-url: "https://chat.cvss.bmva.org/"
 logo: "/assets/images/layout/CVSS_Logo.png"
+logo-host: "/assets/images/layout/durham-uni-trans.png"
+logo-host-alt: "/assets/images/layout/durham-uni-purple.png"
 pc-email: "cvss2024_pcs@googlegroups.com"
 twitter_username: BmvaCvss
 #github_username:  BritishMachineVisionAssociation
