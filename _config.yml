@@ -24,15 +24,15 @@
 
 
 timezone: Europe/London
-title: BMVA Computer Vision Summer School 2024
-formatted-title: BMVA Computer Vision Summer School 2024
+title: BMVA Computer Vision Summer School
+formatted-title: BMVA Computer Vision Summer School
 brand: CVSS&thinsp;2024
 short-title: "CVSS 2024"
 host-name: Durham University
-conf_year: 2021
-email: cvss2024_pcs@googlegroups.com
+conf_year: 2024
+email: bmva_cvss@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the 27th BMVA Computer Vision Summer School 2024, 15th - 19th July 2024.
+  The website for the 27<sup>th</sup> BMVA Computer Vision Summer School 2024, 15<sup>th</sup> - 19<sup>th</sup> July 2024.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/"
@@ -45,7 +45,8 @@ chat-url: "https://chat.cvss.bmva.org/"
 logo: "/assets/images/layout/CVSS_Logo.png"
 logo-host: "/assets/images/layout/durham-uni-trans.png"
 logo-host-alt: "/assets/images/layout/durham-uni-purple.png"
-pc-email: "cvss2024_pcs@googlegroups.com"
+logo-link: "https://vivid.webspace.durham.ac.uk/"
+pc-email: "bmva_cvss@googlegroups.com"
 twitter_username: BmvaCvss
 #github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
@@ -53,10 +54,10 @@ twitter_username: BmvaCvss
 
 deadline-time: "23:59 GMT"
 
-cmt-url: "https://cmt3.research.microsoft.com/BMVC2021/"
+cmt-url: "#"
 bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
 
-dates:  15th - 19th July 2024
+dates:  15<sup>th</sup> - 19<sup>th</sup> July 2024
 
 author: BMVC PCs
 

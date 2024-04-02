@@ -6,23 +6,84 @@ permalink: /attending/location/
 
 
 # Directions
-## Public transport
+
+
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h3>
+          <i class="bi bi-train-freight-front"></i>Public Transport</h3>
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
 There are several express coach services daily from most major cities. Durham is well served by both regional express services and the local bus network. From the city bus station - a short walk from the railway station - a bus service runs every 15 minutes past the Colleges on South Road.
 <iframe title="Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.8521686704826!2d-1.5803915839038651!3d54.76498588030083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e8766f63fce73%3A0x64e7c2aa7cbc8af!2sDurham%20University!5e0!3m2!1sen!2suk!4v1595435404927!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h3>Getting here by Train</h3>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+      A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. A taxi will take you from the station to any College in about 5 minutes and you can walk to the city centre in 10 minutes.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <h3>Getting here by road</h3>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+        Durham city centre is only two miles from the A1(M). Leave the motorway at Junction 62 on the A690 Durham - Sunderland road and follow signs to Durham City Centre. Durham is 264 miles from London, 187 miles from Birmingham, 125 miles from Edinburgh and 67 miles from York.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h3>Getting here by air</h3>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+        Durham is 30 minutes' drive from&nbsp;<a href="http://www.newcastleairport.com/">Newcastle International Airport</a>&nbsp;and about 40 minutes from&nbsp;<a href="https://www.teessideinternational.com/">Teesside International Airport</a>. Both have regular domestic and international flights. Durham is linked to Newcastle Airport by rail and metro.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFive">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          <h3>Getting here by sea</h3>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+      <div class="card-body">
+        Scheduled ferry services link the River Tyne to The Netherlands.
 
-
-## Getting here by train
-A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. A taxi will take you from the station to any College in about 5 minutes and you can walk to the city centre in 10 minutes.
-
-## Getting here by road
-Durham city centre is only two miles from the A1(M). Leave the motorway at Junction 62 on the A690 Durham - Sunderland road and follow signs to Durham City Centre. Durham is 264 miles from London, 187 miles from Birmingham, 125 miles from Edinburgh and 67 miles from York.
-
-
-## Getting here by air
-Durham is 30 minutes' drive from&nbsp;<a href="http://www.newcastleairport.com/">Newcastle International Airport</a>&nbsp;and about 40 minutes from&nbsp;<a href="https://www.teessideinternational.com/">Teesside International Airport</a>. Both have regular domestic and international flights. Durham is linked to Newcastle Airport by rail and metro.
-
-## Getting here by sea
-Scheduled ferry services link the River Tyne to The Netherlands.
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <hr>
