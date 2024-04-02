@@ -5,7 +5,6 @@ permalink: /school/
 ---
 
 
-## School
 British Machine Vision Association runs an annual Computer Vision Summer School aimed at PhD students in their first year, though it will be beneficial to other researchers at an early stage in their careers. Despite the title, students from non-UK universities are welcome to attend, as well as students from UK universities. Places are limited to ensure good interaction in lab classes.
 
 The 2024 Summer School will take place at the Durham University, Durham, UK, between {{ site.dates }}. It will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in field from some of the most active research groups in the UK and abroad.

@@ -17,3 +17,6 @@ pages:
   - title: People
     url: /people/organisers/
     dropdown: false
+  - title: Contact
+    url: /contact/
+    dropdown: false
