@@ -23,4 +23,4 @@ Late registration until **30<sup>th</sup> Jun 2024**:
 - Summer School + Non-Residential (No accommodation provided): 355 GBP (£)
 
 
-<a href="#" class="btn btn-primary" role="button">Register here</a>
+<a href="{{ site.payment-link }} " class="btn btn-primary" role="button">Register here</a>
