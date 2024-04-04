@@ -30,7 +30,7 @@ brand: CVSS&thinsp;2024
 short-title: "CVSS 2024"
 host-name: Durham University
 conf_year: 2024
-email: bmva_cvss@googlegroups.com
+email: bmva-cvss@durham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 27<sup>th</sup> BMVA Computer Vision Summer School 2024, 15<sup>th</sup> - 19<sup>th</sup> July 2024.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
@@ -46,7 +46,7 @@ logo: "/assets/images/layout/CVSS_Logo.png"
 logo-host: "/assets/images/layout/durham-uni-trans.png"
 logo-host-alt: "/assets/images/layout/durham-uni-purple.png"
 logo-link: "https://vivid.webspace.durham.ac.uk/"
-pc-email: "bmva_cvss@googlegroups.com"
+pc-email: "bmva-cvss@durham.ac.uk"
 twitter_username: BmvaCvss
 #github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
