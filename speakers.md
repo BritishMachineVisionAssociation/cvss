@@ -21,7 +21,8 @@ index: 10
 {% endfor %}
 </div>
 <hr />
-{% for person in sorted_keynotes %}
+{% assign sorted_topic = site.data.programme.keynotes | sort: "topic" %}
+{% for person in sorted_topic %}
 {% unless person.topic contains  "TBC" %}
 <a class="btn btn-xs btn-primary tag" href="#{{ person.id }}">{{ person.topic }} </a>
 {% endunless %}

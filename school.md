@@ -14,7 +14,7 @@ In addition to the academic content, the Summer School provides a networking opp
 Durham University is situated about twenty miles south-west of Newcastle in the North East of England. A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. Durham University is an internationally renowned university based across Durham that provides top-quality academic, social and cultural facilities to over 20,000 students. 
 
 The school covers the following topics:
-{% assign sorted_keynotes = site.data.programme.keynotes | sort: "id" %}
+{% assign sorted_keynotes = site.data.programme.keynotes | sort: "topic" %}
 <ul class="list-group">
 {% for person in sorted_keynotes %}
   {% unless person.topic contains  "TBC" %}
