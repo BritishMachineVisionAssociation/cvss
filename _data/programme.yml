@@ -97,7 +97,7 @@ keynotes:
     topic: "Multimodal Behaviour Understanding and Generation for Human-Robot Interaction"
     job: King's College London
 
-  - name: Dr Victor Sanchez
+  - name: Prof. Victor Sanchez
     id: keynote-13
     img: /assets/images/mugshots/victor-sanchez.jpg
     url: "https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html"
@@ -111,4 +111,4 @@ keynotes:
     url: "https://www.cl.cam.ac.uk/~fz261/"
     bio: "Dr Fangcheng Zhong joined the Graphics & Interaction (Rainbow) Group at the University of Cambridge in 2018 as a Marie-Curie ITN Early Stage Researcher as part of the European ITN RealVision Project and completed a PhD in computer science advised by Prof. Rafał Mantiuk in 2021. Dr Fangcheng Zhong's PhD was fully funded by the Marie Skłodowska-Curie Fellowship. <br />Dr Fangcheng Zhong is currently a senior researcher in the CORE Lab and an affiliated lecturer in the Department of Computer Science and Technology. Dr Zhong recently developed and led a new course on extended reality."
     topic: "TBC"
-    job: University of Warwick
+    job: University of Cambridge
