@@ -228,3 +228,8 @@ The historic city of Durham is compact, yet varied. Easy to get around, it offer
 
 <iframe title="Google map" src="https://www.google.com/maps/d/embed?mid=1eCjmls6ON9J54CmE8_G4hcnFHSX2PTLD" width="100%" height="480" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
+
+<hr />
+
+{% include venue_carousel.html %}
+

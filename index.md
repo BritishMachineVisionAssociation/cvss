@@ -37,3 +37,4 @@ Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for 
 </div>
 
 
+<img src="{{ site.baseurl }}/assets/images/venue/86156.png" class="img-fluid" style="max-width: 100%;">

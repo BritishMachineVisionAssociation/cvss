@@ -24,7 +24,7 @@ index: 0
 
 <hr />
 <br />
-<h2> Support from the <a href="https://www.bmva.org/">BMVA</a> </h2>
+<h2> Supported on behalf of the  <a href="https://www.bmva.org/">BMVA</a> by </h2>
 <br />
 <div class="row pl-4 pr-4">
 {% assign bmva_list = site.data.people.bmva %}

@@ -22,3 +22,7 @@ The school covers the following topics:
   {% endunless %}
 {% endfor %}
 </ul>
+
+<hr />
+
+{% include venue_carousel.html %}
