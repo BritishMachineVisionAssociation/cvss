@@ -1,0 +1,3 @@
+questions:
+ - question: "What prior experience should attendees have?"
+   answer: "The required background knowledge is what would be covered in a level 3 undergraduate programme, specifically in the areas of computer vision and deep learning. Attendees are expected to know the basics of neural networks, backpropagation, deep learning architectures, computer vision topics like edge features, contours, feature points, stereo vision and similar."
