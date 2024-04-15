@@ -9,9 +9,9 @@ index: 0
 {% assign organiser_list = site.data.people.organisers %}
 <h2> Chairs </h2>
 <br />
-<div class="row pl-4 pr-4">
+<div class="row ">
 {% for person in organiser_list %}
-    <div class="col-3 col-md-3 col-lg-3">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-3">
         <div class="text-center">
             <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
             <h4 class="pt-2"><a href="{{ person.url }}">{{ person.name }}</a></h4>
@@ -26,10 +26,10 @@ index: 0
 <br />
 <h2> Supported on behalf of the  <a href="https://www.bmva.org/">BMVA</a> by </h2>
 <br />
-<div class="row pl-4 pr-4">
+<div class="row">
 {% assign bmva_list = site.data.people.bmva %}
 {% for person in bmva_list %}
-    <div class="col-6 col-md-3 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3">
         <div class="text-center">
             <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
             <h4 class="pt-2"><a href="{{ person.url }}">{{ person.name }}</a></h4>
