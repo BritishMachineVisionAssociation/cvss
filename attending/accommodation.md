@@ -11,7 +11,7 @@ The main accommodation for the {{ site.brand }} is provided by St Chad's College
 
 Accommodation is situated in one of their historic houses on North Bailey, which are far older than their Georgian frontages suggest, some of which are approximately a 5 minute walk from the main college building and heading into town close to restaurants and bars.  Most houses have 3 floors which are accessible by stairs only.
 
-All of their rooms are individual, clean, tastefully decorated and very often contain original features. Tea and coffee-making facilities are provided, as are towels, and rooms are en-suite or have private shared facilities (Standard rooms).
+All of their rooms are individual, clean, tastefully decorated and very often contain original features. Tea and coffee-making facilities are provided, as are towels, and rooms are en-suite.
 
 Breakfast is served in the Moulsdale Hall from 08:00 – 09:30. A choice of Full English or Continental style breakfast is available. Their excellent chefs and friendly kitchen staff will be only too happy to help. 
 
