@@ -77,7 +77,7 @@ keynotes:
     id: keynote-10
     img: /assets/images/mugshots/ulrik_r_beierholm.jpg
     url: "https://www.durham.ac.uk/staff/ulrik-beierholm/"
-    bio: "Dr Ulrik Beierholm is very interested in how the nervous system deals with uncertainty, whether in perception, decision making or learning. We use computational ideas (e.g. bayesian inference or reinforcement learning) to model this and test these ideas using several techniques such as psychphysics, fMRI, pharmacology etc."
+    bio: "Dr Ulrik Beierholm is an Associate Professor in the Psychology Department at Durham University, working in Computational Neuroscience.  His work crosses the border between neuroscience and computer science, by examining how computational models from machine learning can be used to build models of human perception, decision making, and action."
     topic: "Human Vision"
     job: Durham University
 
