@@ -24,17 +24,9 @@ keynotes:
     bio: "After completing a degree in Maths and Physics at Exeter University, and a PhD in Civil Engineering (studying a storm sewer overflow) at Sheffield City Polytechnic, Prof. Tim Cootes joined the University of Manchester in 1991. <br />Prof. Tim Cootes began as an RA, working with Prof Chris Taylor on modelling industrial components. <br />Prof. Tim Cootes was awarded an SERC Postgraduate fellowship in 1993, and an EPSRC Advanced Fellowship in 1995. <br /> Prof. Tim Cootes became a Lecturer in ISBE in June 2001, and was promoted to Senior Lecturer in October 2002. <br /> Prof. Tim Cootes became a Reader in Computer Vision in August 2005, and was appointed as a Professorial Research Fellow in August 2006. <br /> Prof. Cootes research has concentrated on constructing statistical models of the shape and appearance of objects in images, and in developing algorithms to match such models to new images.  We have applied these models to many problems in the industrial and medical domains, and to the interpretation of facial images."
     topic: "Statistical Models of Shape and Appearance"
     job: University of Manchester
-    
-  - name: Dr Victor Adrian Prisacariu
-    id: keynote-04
-    img: /assets/images/mugshots/victor-adrian-prisacariu.jpg
-    url: "https://www.robots.ox.ac.uk/~victor/"
-    bio: "I am an Associate Professor in Information Engineering with the Department of Engineering Science, University of Oxford, co-leading the Active Vision Lab and Chief Scientist of Niantic, Inc.. <br />Dr Victor Adrian Prisacariu current focus is on computer vision methods for real-time (semantic) AR on mobile and wearable platforms, but Dr Victor Adrian Prisacariu also take an interest in other fields of computer vision and machine learning, such as quantization, one shot learning and network architecture search. <br />Within the Active Vision Lab, we work on computational vision, with an emphasis on 3D reconstruction and motion analysis, for applications in location and mapping, surveillance, wearable and assistive computing, augmented reality, navigation, and teleoperation. <br />Dr Victor Adrian Prisacariu co-founded 6D.ai, where they built APIs to help developers augment reality in ways that users would find meaningful, useful and exciting. The 6D.ai SDK used a standard built-in smartphone camera to build a cloud-based, crowdsourced three-dimensional semantic map of the world all in real-time, in the background. 6D.ai was aquired by Niantic in March 2020. <br />At Niantic Dr Victor Adrian Prisacariu continue his work on augmented reality."
-    topic: "Active Vision"
-    job:  University of Oxford
 
   - name: Dr Oisin Mac Aodha
-    id: keynote-05
+    id: keynote-04
     img: /assets/images/mugshots/oisin-mac-aodha.jpg
     url: "https://homepages.inf.ed.ac.uk/omacaod/"
     bio: "Dr Oisin Mac Aodha is an Lecturer (aka Assistant Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). Dr Oisin Mac Aodha is also a Turing Fellow and ELLIS Scholar. His current research interests are in the areas of computer vision and machine learning, with an specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring. <br />From 2016-2019 Dr Oisin Mac Aodha was fortunate to be a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech working with the Visipedia team. Previous to Caltech, Dr Oisin Mac Aodha spent three great years (2013-2016) as a postdoc in the Department of Computer Science at University College London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones. There Dr Oisin Mac Aodha worked on interactive machine learning, where our goal was to design algorithms to enable non-programming scientists to semi-automatically explore events of interest in vast quantities of audio and visual data. <br />Dr Oisin Mac Aodha did both MSc (with Dr. Simon Prince) and PhD (with Prof. Gabriel Brostow) at UCL and have an undergraduate degree in electronic engineering from the University of Galway in Ireland. Before his PhD, Dr Oisin Mac Aodha was a research assistant for one year in Prof. Marc Pollefeys' group at ETH Zurich."
@@ -42,23 +34,15 @@ keynotes:
     job:  University of Edinburgh
 
   - name: Prof. Krystian Mikolajczyk
-    id: keynote-06
+    id: keynote-05
     img: /assets/images/mugshots/krystian-mikolajczyk.jpg
     url: "https://www.imperial.ac.uk/people/k.mikolajczyk"
     bio: "Krystian Mikolajczyk did his undergraduate study at the University of Science and Technology (AGH) in Krakow, Poland. He completed his PhD degree at the Institute National Polytechnique de Grenoble, France. He then worked as a research assistant in INRIA, University of Oxford and Technical University of Darmstadt (Germany), before joining the University of Surrey as a Lecturer, and Imperial College London as a Reader in 2015. His main area of expertise is in image and video recognition, in particular in problems related to matching, representation and learning. He participated in a number of EU and UK projects in the area of image and video analysis. He publishes in computer vision, pattern recognition and machine learning forums. He has served in various roles at major international conferences co-chairing British Machine Vision Conference 2012, 2017 and IEEE International Conference on Advanced Video and Signal-Based Surveillance 2013. In 2014 he received Longuet-Higgins Prize awarded by the Technical Committee on Pattern Analysis and Machine Intelligence of the IEEE Computer Society."
     topic: "Stereo Vision & Feature Matching"
     job: Imperial College London
 
-  - name: Dr Chrisantha Fernando
-    id: keynote-07
-    img: /assets/images/mugshots/chrisantha-fernando.jpg
-    #url: "https://www.imperial.ac.uk/people/k.mikolajczyk"
-    bio: "Dr Chrisantha Fernando is a multifaceted scientist who began his journey in medicine at Oxford and transitioned into AI research. He earned an MSc in Evolutionary and Adaptive Systems at Sussex, followed by a PhD in simulating the origin of life with Eors Szathmary. Currently at DeepMind, he specializes in the intersection of evolution and learning in AI, with a particular interest in open-ended evolution. In addition to his research, Chrisantha is an avid enthusiast of art and technology. He maintains a blog dedicated to the pursuit of creating artificial artists, or tools that facilitate his artistic endeavors. Through his work and contributions, Chrisantha Fernando continues to be at the forefront of AI research and innovation."
-    topic: "Creativity in Large Language Models"
-    job: Google Deep Mind
-
   - name: Prof. Neill Campbell
-    id: keynote-08
+    id: keynote-06
     img: /assets/images/mugshots/neill_campbell_headshot.jpg
     url: "https://www.ndfcampbell.org/"
     bio: "Before moving to Bath Prof. Neill Campbell was a Research Associate in the Virtual Environments and Computer Graphics Group at University College London working with Jan Kautz and Simon Prince on synthesizing and editing photorealistic visual objects funded by the EPSRC.<br />Previously Prof. Campbell was a Research Associate in the Computer Vision Group of the Machine Intelligence Laboratory, in the Department of Engineering at the University of Cambridge working on the EU Hydrosys Project led by Ed Rosten. <br />Prof. Neill Campbell completed his PhD, in the Computer Vision Group at the University of Cambridge, under the supervision of Roberto Cipolla and the guidance of George Vogiatzis and Carlos Hernández. Prof. Neill Campbell was funded by a Schiff Foundation Scholarship and Toshiba Research Europe."
@@ -66,7 +50,7 @@ keynotes:
     job: University of Bath
 
   - name: Dr Armin Mustafa
-    id: keynote-09
+    id: keynote-07
     img: /assets/images/mugshots/armin-mustafa.jpg
     url: "https://arminmustafa.github.io/"
     bio: "Dr Armin Mustafa is a Royal Academy of Engineering Research Fellow in the Centre for Vision, Speech and Signal Processing, University of Surrey working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Dr Armin Mustafa research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare.<br /> Dr Armin Mustafa is currently a Lecturer in Computer Vision and AI at CVSSP, University of Surrey, where she finished PhD in 'General dynamic scene reconstruction from multi-view videos' in 2016, supervised by Prof. Adrian Hilton. Dr Armin Mustafa has previously worked at Samsung Research Institute, Bangalore, India for 3 years (2010 - 2013) in Computer Vision. In 2010 she received an M.Tech. degree from the Indian Institute of Technology (IIT), Kanpur, India supervised by Prof. K.S. Venkatesh in Human Computer Interaction. Please refer to CV for more information."
@@ -74,7 +58,7 @@ keynotes:
     job: University of Surrey
 
   - name: Dr Ulrik Beierholm
-    id: keynote-10
+    id: keynote-08
     img: /assets/images/mugshots/ulrik_r_beierholm.jpg
     url: "https://www.durham.ac.uk/staff/ulrik-beierholm/"
     bio: "Dr Ulrik Beierholm is an Associate Professor in the Psychology Department at Durham University, working in Computational Neuroscience.  His work crosses the border between neuroscience and computer science, by examining how computational models from machine learning can be used to build models of human perception, decision making, and action."
@@ -82,15 +66,14 @@ keynotes:
     job: Durham University
 
   - name: Dr Paul Henderson
-    id: keynote-11
+    id: keynote-09
     img: /assets/images/mugshots/paul-henderson.jpg
     url: "https://www.pmh47.net/"
-    bio: "Dr Paul Henderson is a Lecturer (roughly equivalent to Assistant Professor) in Machine Learning at the University of Glasgow. Dr Paul Henderson research focuses on building machines that understand the visual world with minimal supervision, learning aspects of its structure such as 3D geometry and decomposition into objects. This work lies at the intersection of machine learning, computer vision, and computer graphics. Dr Henderson also work on applications of machine learning and computer vision in the physical and life sciences."
-    topic: "Structured Generative models for Vision"
+    bio: "Dr Paul Henderson is a Lecturer (aka Assistant Professor) in Machine Learning at the University of Glasgow. His research focuses on building machines that understand the visual world with minimal supervision, learning aspects of its structure such as 3D geometry and decomposition into objects. This work draws on techniques from machine learning (particularly deep generative models), computer vision, and computer graphics."
     job: University of Glasgow
 
   - name: Dr Oya Celiktutan
-    id: keynote-12
+    id: keynote-10
     img: /assets/images/mugshots/oya-celiktutan.jpg
     url: "https://nms.kcl.ac.uk/oya.celiktutan/"
     bio: "Dr Oya Celiktutan is a Senior Lecturer in Robotics (Associate Professor) at the Department of Engineering, King’s College London, UK, where she leads the Social AI and Robotics Laboratory. Her research interest lies in machine learning to develop socially aware systems capable of autonomously interacting with humans. This includes addressing challenges in multimodal perception, understanding and generating human behaviour, as well as advancing navigation, manipulation, and interaction within the context of human-centric robotics. Her work has been supported by EPSRC, The Royal Society, and the EU Horizon, as well as through industrial collaborations. She received the EPSRC New Investigator Award in 2021 and her team’s research has been recognized with several awards, including the Best Paper Award at IEEE Ro-Man 2022, NVIDIA CCS Best Student Paper Award Runner Up at IEEE FG 2021, First Place Award and Honourable Mention Award at ICCV UDIVA Challenge 2021."
@@ -98,17 +81,9 @@ keynotes:
     job: King's College London
 
   - name: Prof. Victor Sanchez
-    id: keynote-13
+    id: keynote-11
     img: /assets/images/mugshots/victor-sanchez.jpg
     url: "https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html"
     bio: " Prof. Victor Sanchez is the Head of the Signal and Information Processing (SIP) Lab of The University of Warwick. He received an M.Sc. degree from the University of Alberta, Canada, in 2003, and a Ph.D. degree from The University of British Columbia, Canada, in 2010. From 2011 to 2012, he was with the Video and Image Processing Laboratory, at the University of California at Berkeley, as a Postdoctoral Researcher. In 2012, he was a Visiting Lecturer with the Group on Interactive Coding of Images, Universitat Autònoma de Barcelona. From 2018 to 2019, he was a Visiting Scholar with the School of Electrical and Information Engineering, The University of Sydney, Australia. His research interests include computer vision with applications to multimedia analysis, biometrics, forensics, and security. He has authored several technical articles and book chapters in these areas. His research has been funded by the Newton Fund; the Natural Sciences and Engineering Research Council of Canada; the Canadian Institutes of Health Research; the FP7 and the H2020 Programs of the European Union; the Engineering and Physical Sciences Research Council, U.K; Ford Motor Company, USA, the Defence and Security Accelerator, U.K., and Research England. He is the Chair of the Technical Committee on Computational Forensics under the auspices of the International Association for Pattern Recognition (IAPR). He currently serves as an associate editor of IEEE Signal Processing Letters, IEEE Access, and ACM Computing Surveys."
     topic: "Contrastive Language-Image Pretraining (CLIP) for Video Analytics"
     job: University of Warwick
-
-  - name: Dr Fangcheng Zhong
-    id: keynote-14
-    img: /assets/images/mugshots/fangcheng-zhong.jpg
-    url: "https://www.cl.cam.ac.uk/~fz261/"
-    bio: "Dr Fangcheng Zhong joined the Graphics & Interaction (Rainbow) Group at the University of Cambridge in 2018 as a Marie-Curie ITN Early Stage Researcher as part of the European ITN RealVision Project and completed a PhD in computer science advised by Prof. Rafał Mantiuk in 2021. Dr Fangcheng Zhong's PhD was fully funded by the Marie Skłodowska-Curie Fellowship. <br />Dr Fangcheng Zhong is currently a senior researcher in the CORE Lab and an affiliated lecturer in the Department of Computer Science and Technology. Dr Zhong recently developed and led a new course on extended reality."
-    topic: "TBC"
-    job: University of Cambridge
