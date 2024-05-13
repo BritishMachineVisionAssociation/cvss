@@ -70,6 +70,7 @@ keynotes:
     img: /assets/images/mugshots/paul-henderson.jpg
     url: "https://www.pmh47.net/"
     bio: "Dr Paul Henderson is a Lecturer (aka Assistant Professor) in Machine Learning at the University of Glasgow. His research focuses on building machines that understand the visual world with minimal supervision, learning aspects of its structure such as 3D geometry and decomposition into objects. This work draws on techniques from machine learning (particularly deep generative models), computer vision, and computer graphics."
+    topic: "Structured Generative models for Computer Vision"
     job: University of Glasgow
 
   - name: Dr Oya Celiktutan
