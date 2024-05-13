@@ -89,7 +89,7 @@ keynotes:
     topic: "Contrastive Language-Image Pretraining (CLIP) for Video Analytics"
     job: University of Warwick
 
-    - name: Dr. Andrew Gilbert
+  - name: Dr. Andrew Gilbert
     id: keynote-12
     img: /assets/images/mugshots/andrew_gilbert.jpg
     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
