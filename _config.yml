@@ -77,7 +77,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 
 #  - jekyll-liquid
