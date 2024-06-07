@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Frequently Asked Questions (FAQ)
 permalink: /attending/faq/
+index: 5
 ---
 
 

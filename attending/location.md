@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Location
 permalink: /attending/location/
+index: 1
 ---
 
 

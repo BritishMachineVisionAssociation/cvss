@@ -105,3 +105,25 @@ keynotes:
     topic: "Revolutionizing Medical Imaging Using Generative Models"
     job: University of Hertfordshire
 
+# Note this is a holding place, we can move it into the above structure when we have the assignment
+# Important: No sorting is applied and rendered in order!
+keynotetimes:
+  - day: Monday
+    date: 15/07/2024
+    time: "10:30 - 10:00"
+    title: "Registration"
+  - day: Monday
+    date: 15/07/2024
+    time: "12:30 - 13:30"
+    title: "Opening"
+    speaker: 
+  - day: Monday
+    date: 15/07/2024
+    time: "09:00 - 10:00"
+    title: Teaching
+    speaker: 
+  - day: Monday
+    date: 15/07/2024
+    time: "09:00 - 10:00"
+    title: Teaching
+    speaker: 

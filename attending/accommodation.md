@@ -2,6 +2,7 @@
 layout: default_sparse
 title: Accommodation
 permalink: /attending/accommodation/
+index: 2
 ---
 
 The main accommodation for the {{ site.brand }} is provided by St Chad's College\*. At St Chad’s they pride themselves on their friendly, welcoming and attentive service.
