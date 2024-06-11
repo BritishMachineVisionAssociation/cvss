@@ -105,6 +105,15 @@ keynotes:
     topic: "Revolutionizing Medical Imaging Using Generative Models"
     job: University of Hertfordshire
 
+  - name: Dr Gwangbin Bae
+    id: keynote-14
+    img: /assets/images/mugshots/gwangbin_bae.jpg
+    url: "https://www.baegwangbin.com/"
+    bio: "Gwangbin is a postdoctoral researcher at Dyson Robotics Lab (Imperial College London), supervised by Prof. Andrew Davison. He completed his PhD at the University of Cambridge under the supervision of Prof. Roberto Cipolla. His research focuses on learning and exploiting monocular cues in 3D computer vision."
+    topic: "Monocular Cues: Always-On Perception for 3D Computer Vision"
+    job: Dyson Robotics Lab, Imperial College London
+
+
 # Note this is a holding place, we can move it into the above structure when we have the assignment
 # Important: No sorting is applied and rendered in order!
 keynotetimes:
