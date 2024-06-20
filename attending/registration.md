@@ -15,11 +15,11 @@ For this year's summer school the UK and International rates are the same.
 
 ##### Summer School Rates
 Early bird registration until **21<sup>st</sup> Jun 2024**:
-- Summer School + Residential: 650 GBP (£)
+- Summer School + Residential (Single Occupant Room): 650 GBP (£)
 - Summer School + Non-Residential (No accommodation provided): 275 GBP (£)
 
 Late registration until **30<sup>th</sup> Jun 2024**:
-- Summer School + Residential: 830 GBP (£)
+- Summer School + Residential (Single Occupant Room): 830 GBP (£)
 - Summer School + Non-Residential (No accommodation provided): 355 GBP (£)
 
 
