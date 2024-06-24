@@ -6,6 +6,7 @@ keynotes:
     bio: "Professor Xianghua Xie is currently leading a research team on Computer Vision and Machine Learning (http://csvision.swan.ac.uk) in the Department of Computer Science, Swansea University. He was a recipient of an RCUK Academic Fellowship (tenure-track research focused lectureship) between September 2007 and March 2012. He was appointed as a Senior Lecturer from October 2012, then an Associate Professor in April 2013, and a full Professor from March 2019. Prior to his position at Swansea, He was a Research Associate at the Computer Vision Group, Department of Computer Science, University of Bristol, where he completed both his PhD (2006) and MSc (2002) degrees. <br />Professor Xie has strong research interests in the areas of Pattern Recognition and Machine Intelligence and their applications to real-world problems. He has been an investigator on several research projects funded by external bodies, such as EPSRC, Leverhulme, NISCHR, and WORD. Among his research works, those of significant importance include detecting abnormal patterns in complex visual and medical data, assisted diagnosis using automated image analysis, fully automated volumetric image segmentation, registration, and motion analysis, machine understanding of human action, efficient deep learning, and deep learning on irregular domains. By 2020, he has published over 150 fully refereed research publications and (co-)edited several conference proceedings. He is an associate editor of IET Computer Vision and an editorial member of a number of other international journals and has chaired and co-chaired several international conferences, e.g. BMVC2015 and BMVC2019."
     topic: "Image Segmentation"
     job: Swansea University
+    time-slot: 20124-07-16 09:00:00 +0100
     #abstract: "Event cameras are bio-inspired vision sensors with much lower latency, higher dynamic range, and much lower power consumption than standard cameras. This talk will present current trends and opportunities with event cameras, ranging from robotics to virtual reality and smartphones, as well as open challenges and the road ahead."
     #slides-id: 
 
@@ -49,6 +50,14 @@ keynotes:
     topic: "Uncertainty and Evaluation in Vision"
     job: University of Bath
 
+  - name: Prof. Neill Campbell
+    id: keynote-06
+    img: /assets/images/mugshots/neill_campbell_headshot.jpg
+    url: "https://www.ndfcampbell.org/"
+    bio: "Before moving to Bath Prof. Neill Campbell was a Research Associate in the Virtual Environments and Computer Graphics Group at University College London working with Jan Kautz and Simon Prince on synthesizing and editing photorealistic visual objects funded by the EPSRC.<br />Previously Prof. Campbell was a Research Associate in the Computer Vision Group of the Machine Intelligence Laboratory, in the Department of Engineering at the University of Cambridge working on the EU Hydrosys Project led by Ed Rosten. <br />Prof. Neill Campbell completed his PhD, in the Computer Vision Group at the University of Cambridge, under the supervision of Roberto Cipolla and the guidance of George Vogiatzis and Carlos Hernández. Prof. Neill Campbell was funded by a Schiff Foundation Scholarship and Toshiba Research Europe."
+    topic: "Python (Pytorch) for Computer Vision"
+    job: University of Bath
+
   - name: Dr Armin Mustafa
     id: keynote-07
     img: /assets/images/mugshots/armin-mustafa.jpg
@@ -80,6 +89,7 @@ keynotes:
     bio: "Dr Oya Celiktutan is a Senior Lecturer in Robotics (Associate Professor) at the Department of Engineering, King’s College London, UK, where she leads the Social AI and Robotics Laboratory. Her research interest lies in machine learning to develop socially aware systems capable of autonomously interacting with humans. This includes addressing challenges in multimodal perception, understanding and generating human behaviour, as well as advancing navigation, manipulation, and interaction within the context of human-centric robotics. Her work has been supported by EPSRC, The Royal Society, and the EU Horizon, as well as through industrial collaborations. She received the EPSRC New Investigator Award in 2021 and her team’s research has been recognized with several awards, including the Best Paper Award at IEEE Ro-Man 2022, NVIDIA CCS Best Student Paper Award Runner Up at IEEE FG 2021, First Place Award and Honourable Mention Award at ICCV UDIVA Challenge 2021."
     topic: "Multimodal Behaviour Understanding and Generation for Human-Robot Interaction"
     job: King's College London
+
 
   - name: Prof. Victor Sanchez
     id: keynote-11
@@ -113,26 +123,10 @@ keynotes:
     topic: "Monocular Cues: Always-On Perception for 3D Computer Vision"
     job: Dyson Robotics Lab, Imperial College London
 
-
-# Note this is a holding place, we can move it into the above structure when we have the assignment
-# Important: No sorting is applied and rendered in order!
-keynotetimes:
-  - day: Monday
-    date: 15/07/2024
-    time: "10:30 - 10:00"
-    title: "Registration"
-  - day: Monday
-    date: 15/07/2024
-    time: "12:30 - 13:30"
-    title: "Opening"
-    speaker: 
-  - day: Monday
-    date: 15/07/2024
-    time: "09:00 - 10:00"
-    title: Teaching
-    speaker: 
-  - day: Monday
-    date: 15/07/2024
-    time: "09:00 - 10:00"
-    title: Teaching
-    speaker: 
+  - name: Dr Oscar Mendez
+    id: keynote-14
+    img: /assets/images/mugshots/oscar_mendez.jpg 
+    url: https://www.surrey.ac.uk/people/oscar-mendez-maldonado
+    bio: Dr. Oscar Mendez is an award-winning, internationally recognised researcher specializing in robotics, computer vision, and machine learning. Currently serving as the Machine Vision Lead at Locus Robotics, he has significantly contributed to the fields of autonomous agents, collaborative robotics, and high-level scene understanding. Dr. Mendez earned his Ph.D. in Robotics and Computer Vision from the University of Surrey, where his thesis was awarded the BMVA Sullivan Thesis Prize in 2018. His postdoctoral work includes leading several innovative projects such as Autonomous Valet Parking (AVP) and the SMILE Project for sign language recognition. Dr. Mendez's research has been widely published and recognized, including an Outstanding Paper Award at IEEE ICRA 2022. He has also been involved in various professional activities, including serving on the BMVA Executive Committee and as an associate editor for IEEE ICRA. Besides his work at Locus Robotics, Dr. Mendez also extends to maintaining and enhancing robotic platforms, securing research funding, and engaging in public outreach through media appearances and events.
+    topic: Deep Learning for Computer Vision and Robotics
+    job: Machine Vision Lead at Locus Robotics
