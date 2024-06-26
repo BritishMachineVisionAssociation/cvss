@@ -19,6 +19,14 @@ Registration for the school is now open! Please make sure you register through o
 	</div>
 </div>
 
+## Already Registered?
+We know you might have lots of questions. Therefore, we have tried to provide as many answers as possible in our FAQ, but if something is missing please reach out.
+
+<div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
+	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link attending/faq.md %}">Check out the FAQ</a></p>
+	</div>
+</div>
 
 ## Programme
 
