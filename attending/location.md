@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Location
+title: Location & Venue
 permalink: /attending/location/
 index: 1
 ---
@@ -15,7 +15,7 @@ index: 1
       <h2 class="mb-0">
         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           <h3>
-          <i class="bi bi-train-freight-front"></i>Public Transport</h3>
+          <i class="bi bi-train-freight-front"></i>Durham & University</h3>
         </button>
       </h2>
     </div>
@@ -86,6 +86,15 @@ There are several express coach services daily from most major cities. Durham is
   </div>
 </div>
 
+
+<hr>
+
+# Lecture Venue
+The school lectures will be hosted at Scott Logic Lecture Theatre in MCS (Mathematical Sciences & Computer Science Building) located at the Durham University, Upper Mountjoy Campus, Stockton Road, Durham, DH1 3LE. It is within walking distance of the main accommodation at St Chad’s College.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d9206.581726044822!2d-1.5855270266236858!3d54.768620563770135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x487e87dab3baaeef%3A0x449aa3c39d44f0b6!2sDepartment%20of%20Mathematical%20and%20Computing%20Sciences%2C%20Durham%20University%20Upper%20Mountjoy%20Campus%2C%20Stockton%20Road%2C%20Durham%20DH1%203LE%2C%20United%20Kingdom!3m2!1d54.763715399999995!2d-1.5721576!4m5!1s0x487e8761894aa86b%3A0xa26777877c3c04ec!2sSt%20Chad&#39;s%20College%20%E2%80%A2%20Durham%20University%2C%20North%20Bailey%2C%20Durham!3m2!1d54.7731888!2d-1.5746092999999999!5e0!3m2!1sen!2suk!4v1719477465568!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+{% include venue.html %}
 
 <hr>
 

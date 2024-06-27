@@ -12,3 +12,13 @@ social:
     alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
   - url: /assets/images/events/Boat06.jpeg
     alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
+
+venue:
+  - url: /assets/images/venue/Scott.Logic.jpeg
+    alt: Mathematical Sciences & Computer Science Building.
+    focus: "active"
+
+poster:
+  - url: /assets/images/venue/Durham_CS3.jpg
+    alt: Mathematical Sciences & Computer Science Building.
+    focus: "active"
