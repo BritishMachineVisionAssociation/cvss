@@ -5,6 +5,10 @@ permalink: /attending/registration/
 index: 0
 ---
 
+<div class="alert alert-info">
+  <strong>Cancellations</strong>The period for cancellations has now passed. Therefore, we are unable to offer refunds for cancellation requests.
+</div>
+
 There are two options for registration: for residential and non-residential attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
 
 Residential rates: includes all sessions, accommodation (5 nights, Sunday – Friday), refreshments, breakfast and lunch (Tuesday – Thursday), Summer School Reception on Monday, and Summer School Banquet on Wednesday. The accommodation will be provided by [St Chad's College]({% link attending/accommodation.md %}), all rooms will be single occupancy en-suite rooms (single bedrooms with a private bathroom inside the room).
@@ -23,7 +27,8 @@ Late registration until **30<sup>th</sup> Jun 2024**:
 - Summer School + Non-Residential (No accommodation provided): 355 GBP (£)
 
 
-<a href="{{ site.payment-link }} " class="btn btn-primary" role="button">Register here</a>
+<!-- <a href="{{ site.payment-link }} " class="btn btn-primary" role="button">Register here</a> -->
+<a href="#" class="btn btn-primary" role="button">Register here (Closed)</a>
 <a href="/attending/faq/" class="btn btn-secondary" role="butto">Have a question? check the FAQ</a>
 
 
