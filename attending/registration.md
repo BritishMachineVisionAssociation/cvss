@@ -6,7 +6,7 @@ index: 0
 ---
 
 <div class="alert alert-info">
-  <strong>Cancellations</strong>The period for cancellations has now passed. Therefore, we are unable to offer refunds for cancellation requests.
+  <strong>Cancellations: </strong>The period for cancellations has now passed. Therefore, we are unable to offer refunds for cancellation requests.
 </div>
 
 There are two options for registration: for residential and non-residential attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
