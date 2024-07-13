@@ -1,14 +1,23 @@
 keynotes:
-  - name: Prof. Xianghua Xie 
-    id: keynote-01
-    img: /assets/images/mugshots/xianghua_xie.jpg
-    url: "https://www.swansea.ac.uk/staff/x.xie/"
     bio: "Professor Xianghua Xie is currently leading a research team on Computer Vision and Machine Learning (http://csvision.swan.ac.uk) in the Department of Computer Science, Swansea University. He was a recipient of an RCUK Academic Fellowship (tenure-track research focused lectureship) between September 2007 and March 2012. He was appointed as a Senior Lecturer from October 2012, then an Associate Professor in April 2013, and a full Professor from March 2019. Prior to his position at Swansea, He was a Research Associate at the Computer Vision Group, Department of Computer Science, University of Bristol, where he completed both his PhD (2006) and MSc (2002) degrees. <br />Professor Xie has strong research interests in the areas of Pattern Recognition and Machine Intelligence and their applications to real-world problems. He has been an investigator on several research projects funded by external bodies, such as EPSRC, Leverhulme, NISCHR, and WORD. Among his research works, those of significant importance include detecting abnormal patterns in complex visual and medical data, assisted diagnosis using automated image analysis, fully automated volumetric image segmentation, registration, and motion analysis, machine understanding of human action, efficient deep learning, and deep learning on irregular domains. By 2020, he has published over 150 fully refereed research publications and (co-)edited several conference proceedings. He is an associate editor of IET Computer Vision and an editorial member of a number of other international journals and has chaired and co-chaired several international conferences, e.g. BMVC2015 and BMVC2019."
     topic: "Image Segmentation"
-    job: Swansea University
-    time-slot: 20124-07-16 09:00:00 +0100
-    #abstract: "Event cameras are bio-inspired vision sensors with much lower latency, higher dynamic range, and much lower power consumption than standard cameras. This talk will present current trends and opportunities with event cameras, ranging from robotics to virtual reality and smartphones, as well as open challenges and the road ahead."
+  #- name: Prof. Xianghua Xie 
+  #  id: keynote-01
+  #  img: /assets/images/mugshots/xianghua_xie.jpg
+  #  url: "https://www.swansea.ac.uk/staff/x.xie/"
+  #  topic: "Image Segmentation"
+  #  job: Swansea University
+  #  time-slot: 20124-07-16 09:00:00 +0100
+  #  abstract: "Event cameras are bio-inspired vision sensors with much lower latency, higher dynamic range, and much lower power consumption than standard cameras. This talk will present current trends and opportunities with event cameras, ranging from robotics to virtual reality and smartphones, as well as open challenges and the road ahead."
     #slides-id: 
+  
+  - name: Dr Amir Atapour-Abarghouei 
+    id: keynote-01
+    img: /assets/images/mugshots/amir-atapour.jpg
+    url: "https://www.durham.ac.uk/staff/amir-atapour-abarghouei/"
+    bio: "Dr. Amir Atapour-Abarghouei is currently an Assistant Professor within the VIViD Research Group (Vision, Imaging and Visualisation in Durham) in the Department of Computer Science at Durham University in the UK. He has previously worked as a Lecturer in Computer Science at the School of Computing Science at Newcastle University in the UK. He received his Ph.D. degree from the Department of Computer Science at Durham University. His primary research is focused on machine learning, deep learning, computer vision, image processing, 3D scene analysis, semantic and geometric scene understanding, scene depth prediction, natural language processing and multimodal data analysis. His work includes the generalised high-impact GANomaly anomaly detection approach, which is now a part of Intel’s AI product line and used as the underlying method for anomaly detection in over 40 international patents. Amir has co-organised the CVPR-NAS workshop as well as workshops at IEEE Conf. BigData (BDA4CID and BDA4HM). He is currently the Chair of the BMVA Summer School in 2024 at Durham."
+    topic: "Challenges of Deep Learning in Modern Computer Vision"
+    job: Durham University
 
   - name: Dr Michael Wray
     id: keynote-02
