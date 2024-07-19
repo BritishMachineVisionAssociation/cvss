@@ -1,5 +1,79 @@
 # Programme Schedule..
+default_minutes_length: 90
+# Note this is a holding place, we can move it into the above structure when we have the assignment
+# Important: No sorting is applied and rendered in order!
+sessions:
+  # Day One
+  - date: 2024-07-15 13:30:00 +0100
+    special_title: 
+    speaker: keynote-08
+    minutes_length: 90
+  - date: 2024-07-15 15:30:00 +0100
+    special_title: 
+    speaker: keynote-03
+  # Day Two
+  - date: 2024-07-16 09:00:00 +0100
+    special_title: 
+    speaker: keynote-01
+  - date: 2024-07-16 11:00:00 +0100
+    special_title: 
+    speaker: keynote-04
+  - date: 2024-07-16 13:30:00 +0100
+    special_title: 
+    speaker: keynote-05 
+  - date: 2024-07-16 15:30:00 +0100
+    special_title: 
+    speaker: keynote-13
+  # Day Three
+  - date: 2024-07-17 09:00:00 +0100
+    special_title: 
+    speaker: keynote-06
+  - date: 2024-07-17 11:00:00 +0100
+    special_title: 
+    speaker: keynote-02
+  - date: 2024-07-17 13:30:00 +0100
+    special_title: Python (Pytorch) for Computer Vision
+    speaker: keynote-06
+  - date: 2024-07-17 15:30:00 +0100
+    special_title: 
+    speaker: keynote-10
+  # Day Four
+  - date: 2024-07-18 09:00:00 +0100
+    special_title: 
+    speaker: keynote-11
+  - date: 2024-07-18 11:00:00 +0100
+    special_title: 
+    speaker: keynote-12
+  - date: 2024-07-18 13:30:00 +0100
+    special_title: 
+    speaker: keynote-09
+  - date: 2024-07-18 15:30:00 +0100
+    special_title: 
+    speaker: keynote-07
+  # Day Five
+  - date: 2024-07-19 09:00:00 +0100
+    special_title: 
+    speaker: keynote-14
+  - date: 2024-07-19 11:00:00 +0100
+    special_title: 
+    speaker: keynote-12
+  - date: 2024-07-19 13:30:00 +0100
+    special_title: 
+    speaker: keynote-09
+  - date: 2024-07-19 15:30:00 +0100
+    special_title: 
+    speaker: keynote-07
 
+extraeventtimes:
+  - day: Monday
+    date: 15/07/2024
+    time: "10:30 - 10:00"
+    title: "Registration"
+  - day: Monday
+    date: 15/07/2024
+    time: "12:30 - 13:30"
+    title: "Opening"
+    speaker: 
 
 schedule:
 #   - day: Monday 22nd November

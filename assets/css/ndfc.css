@@ -177,3 +177,59 @@ height: 100%;
   margin-right: 5px;
   margin-bottom: 5px;
 }
+
+
+
+/* SChedule Table CSS */
+.scheduletable {
+	margin: 5px;
+  width: 100%;
+	border-collapse: collapse;
+	> thead {
+		> tr {
+			> th {
+				border-top: 4px solid black;
+				border-bottom: 3px solid black;
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+				width: 167px;
+				&:first-of-type {
+					width: 130px;
+					border: 4px solid black;
+				}
+				&:last-of-type {
+					border-right-width: 4px;
+				}
+			}
+		}
+	}
+	> tbody {
+		> tr {
+			> td, th {
+				text-align: center;
+				border: 2px solid black;
+				font-weight: bold;
+				height:28px;
+			}
+			th {
+				border-left-width: 4px;
+			}
+			td:last-of-type, th {
+				border-right-width: 4px;
+			}
+			&:nth-of-type(odd) {
+				th:first-of-type {
+					border-bottom: 1px dotted black;
+				}
+			}
+			&:nth-of-type(even) {
+				th:first-of-type {
+					border-top: none;
+				}
+			}
+		}
+	}
+	.wittling { background-color: rgb(196, 215, 155); }
+	.peanuts { background-color: rgb(252, 213, 180); }
+	.office { background-color: rgb(255, 255, 154); }
+}

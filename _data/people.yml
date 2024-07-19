@@ -26,3 +26,34 @@ bmva:
     img: /assets/images/mugshots/andrew_gilbert.jpg
     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
     job: Payments Master General
+
+
+helpers:
+  - name: Shuang (Chris) Chen
+    img: /assets/images/mugshots/helpers/shuang_chen.jpg
+    job: PhD Student @ Durham University
+  - name: Yixin Sun
+    img: /assets/images/mugshots/helpers/Yixin_Sun.jpg
+    job: PhD Student @ Durham University
+  - name: Li (Luis) Li
+    img: /assets/images/mugshots/helpers/LI_LI.jpg
+    job: PhD Student @ Durham University
+  - name: Wenke E
+    img: /assets/images/mugshots/helpers/Wenke_E.jpg
+    job: PhD Student @ Durham University
+  - name: Francis Xiatian Zhang
+    img: /assets/images/mugshots/none.jpg
+    job: PhD Student @ Durham University
+  - name: Tobias Threlfall-Holmes
+    img: /assets/images/mugshots/none.jpg
+    job: Intern @ Durham University
+  - name: Mohammed Alshammari
+    img: /assets/images/mugshots/helpers/Mohammed_Alshammari.jpg
+    job: PhD Student @ Durham University
+  - name: Ghada Alosaimi
+    img: /assets/images/mugshots/helpers/Ghada_Alosaimi.jpg
+    job: PhD Student @ Durham University
+  - name: Maha Alsayyari
+    img: /assets/images/mugshots/none.jpg
+    job: PhD Student @ Durham University
+    
