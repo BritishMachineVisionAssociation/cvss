@@ -56,4 +56,12 @@ helpers:
   - name: Maha Alsayyari
     img: /assets/images/mugshots/none.jpg
     job: PhD Student @ Durham University
-    
+  - name: Anna Briotto
+    img: /assets/images/mugshots/anna_briotto.jpg
+    job: Intern @ Durham University  
+  - name: Xiaoshi Lu
+    img: /assets/images/mugshots/Xiaoshi_Lu.jpg
+    job: PhD Student @ Durham University
+  - name: Jiaying Li
+    img: /assets/images/mugshots/jiaying_li.jpg
+    job: PhD Student @ Durham University
