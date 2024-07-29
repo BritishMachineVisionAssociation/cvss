@@ -43,7 +43,7 @@ index: 0
 <h2> With the fantastic support of our helpers:</h2>
 <br  />
 <div class="row">
-{% assign helper_list = site.data.people.helpers %}
+{% assign helper_list = site.data.people.helpers | sort: "name" %}
 {% for person in helper_list %}
     <div class="col-sm-12 col-md-3 col-lg-2">
         <div class="text-center">
