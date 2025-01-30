@@ -6,7 +6,7 @@ layout: default_sidebar
 title: Home
 ---
 
-The 27th BMVA Computer Vision Summer School (CVSS) will take place between 15th - 19th July 2024 at {{site.host-name}}, {{site.host-name-city}}. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad.
+The 28th BMVA Computer Vision Summer School (CVSS) will take place between 7th - 11th July 2025 at {{site.host-name}}, {{site.host-name-city}}. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad.
 
 
 ## Attending
