@@ -1,20 +1,20 @@
 organisers:
-  - name: Amir Atapour-Abarghouei
-    img: /assets/images/mugshots/amir_atapour-abarghouei.jpg
-    url: "https://www.durham.ac.uk/staff/amir-atapour-abarghouei/"
+  - name: Georgios Leontidis
+    img: /assets/images/mugshots/georgios-leontidis.jpeg
+    url: "https://www.abdn.ac.uk/people/georgios.leontidis"
     job: Chair
-  - name: Jingjing Deng
-    img: /assets/images/mugshots/jinging-deng.webp
-    url: "https://www.durham.ac.uk/staff/jingjing-deng/"
-    job: Co-Chair
-  - name: Ulrik R Beierholm
-    img: /assets/images/mugshots/ulrik_r_beierholm.jpg
-    url: "https://www.durham.ac.uk/staff/ulrik-beierholm/"
-    job: Co-Chair
-  - name: Stuart James
-    img: /assets/images/mugshots/stuart_james.png
-    url: "https://stuart-james.com/"
-    job: Co-Chair
+  - name: Carlos Moreno-Garcia
+    img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
+    url: "https://cfmgcomputing.blogspot.com/p/home.html"
+    job: Chair
+  - name: Aiden Durrant
+    img: /assets/images/mugshots/aiden-durrant.jpeg
+    url: "https://www.abdn.ac.uk/people/aiden.durrant"
+    job: Chair
+  - name: Tryphon Lambrou
+    img: /assets/images/mugshots/tryphon-lambrou.jpeg
+    url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
+    job: Chair
 
 bmva:
   - name: Toby Breckon
@@ -29,39 +29,39 @@ bmva:
 
 
 helpers:
-  - name: Shuang (Chris) Chen
-    img: /assets/images/mugshots/helpers/shuang_chen.jpg
-    job: PhD Student @ Durham University
-  - name: Yixin Sun
-    img: /assets/images/mugshots/helpers/Yixin_Sun.jpg
-    job: PhD Student @ Durham University
-  - name: Li (Luis) Li
-    img: /assets/images/mugshots/helpers/LI_LI.jpg
-    job: PhD Student @ Durham University
-  - name: Wenke E
-    img: /assets/images/mugshots/helpers/Wenke_E.jpg
-    job: PhD Student @ Durham University
-  - name: Francis Xiatian Zhang
-    img: /assets/images/mugshots/none.jpg
-    job: PhD Student @ Durham University
-  - name: Tobias Threlfall-Holmes
-    img: /assets/images/mugshots/none.jpg
-    job: Intern @ Durham University
-  - name: Mohammed Alshammari
-    img: /assets/images/mugshots/helpers/Mohammed_Alshammari.jpg
-    job: PhD Student @ Durham University
-  - name: Ghada Alosaimi
-    img: /assets/images/mugshots/helpers/Ghada_Alosaimi.jpg
-    job: PhD Student @ Durham University
-  - name: Maha Alsayyari
-    img: /assets/images/mugshots/none.jpg
-    job: PhD Student @ Durham University
-  - name: Anna Briotto
-    img: /assets/images/mugshots/helpers/anna_briotto.jpg
-    job: Intern @ Durham University  
-  - name: Xiaoshi Lu
-    img: /assets/images/mugshots/helpers/Xiaoshi_Lu.jpg
-    job: PhD Student @ Durham University
-  - name: Jiaying Li
-    img: /assets/images/mugshots/helpers/jiaying_li.jpg
-    job: PhD Student @ Durham University
+  # - name: Shuang (Chris) Chen
+  #   img: /assets/images/mugshots/helpers/shuang_chen.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Yixin Sun
+  #   img: /assets/images/mugshots/helpers/Yixin_Sun.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Li (Luis) Li
+  #   img: /assets/images/mugshots/helpers/LI_LI.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Wenke E
+  #   img: /assets/images/mugshots/helpers/Wenke_E.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Francis Xiatian Zhang
+  #   img: /assets/images/mugshots/none.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Tobias Threlfall-Holmes
+  #   img: /assets/images/mugshots/none.jpg
+  #   job: Intern @ Durham University
+  # - name: Mohammed Alshammari
+  #   img: /assets/images/mugshots/helpers/Mohammed_Alshammari.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Ghada Alosaimi
+  #   img: /assets/images/mugshots/helpers/Ghada_Alosaimi.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Maha Alsayyari
+  #   img: /assets/images/mugshots/none.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Anna Briotto
+  #   img: /assets/images/mugshots/helpers/anna_briotto.jpg
+  #   job: Intern @ Durham University  
+  # - name: Xiaoshi Lu
+  #   img: /assets/images/mugshots/helpers/Xiaoshi_Lu.jpg
+  #   job: PhD Student @ Durham University
+  # - name: Jiaying Li
+  #   img: /assets/images/mugshots/helpers/jiaying_li.jpg
+  #   job: PhD Student @ Durham University
