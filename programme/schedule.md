@@ -5,4 +5,6 @@ permalink: /programme/schedule/
 index: 0
 ---
 
-<img src="{{ site.baseurl }}/assets/images/timetable.png" class="img-fluid" style="max-width: 100%;">
+TBA
+
+<!-- <img src="{{ site.baseurl }}/assets/images/timetable.png" class="img-fluid" style="max-width: 100%;"> -->

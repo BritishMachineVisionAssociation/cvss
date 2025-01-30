@@ -6,7 +6,7 @@ layout: default_sidebar
 title: Home
 ---
 
-The 27th BMVA Computer Vision Summer School (CVSS) will take place between 15th - 19th July 2024 at Durham University, Durham, UK. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad.
+The 27th BMVA Computer Vision Summer School (CVSS) will take place between 15th - 19th July 2024 at {{site.host-name}}, {{site.host-name-city}}. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad.
 
 
 ## Attending
@@ -45,4 +45,4 @@ Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for 
 </div>
 
 
-<img src="{{ site.baseurl }}/assets/images/venue/86156.png" class="img-fluid" style="max-width: 100%;">
+<img src="{{ site.baseurl }}/assets/images/venue/2025-aberdeen-summer-school.png" class="img-fluid" style="max-width: 100%;">

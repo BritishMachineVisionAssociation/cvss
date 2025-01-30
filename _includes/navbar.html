@@ -43,6 +43,16 @@
           </li>
         {% endif %}
       {% endfor %}
+      <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ site.year_folder }}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Years</a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        <a class="dropdown-item" href="{{ site.conf-url }}">Current</a>
+        {% for years in site.data.previous_editions.editions %}
+            <a class="dropdown-item" href="{{site.conf-url}}/{{ site.baseurl }}{{ site.years_folder }}{{ years.year }}/">{{ years.year }}</a>
+
+        {% endfor %}
+      </div>
+      </li>
       <!--<a class="d-none d-lg-block nav-item nav-link disabled" href="{{ site.baseurl }}{{ item.url }}">Debug : {{page.url}}</a>-->
     </ul>
   </div>

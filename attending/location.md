@@ -5,8 +5,10 @@ permalink: /attending/location/
 index: 1
 ---
 
+TBA
 
-# Directions
+
+<!-- # Directions
 
 
 <div class="accordion" id="accordionExample">
@@ -236,7 +238,7 @@ Durham University is home to internationally important collections from across h
 ## Explore Durham University
 The historic city of Durham is compact, yet varied. Easy to get around, it offers a wide range of cultural and sporting pursuits, and also a huge number of places to eat, drink and meet friends. So whatever your interests, you are certain to find your place here.
 
-<iframe title="Google map" src="https://www.google.com/maps/d/embed?mid=1eCjmls6ON9J54CmE8_G4hcnFHSX2PTLD" width="100%" height="480" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe title="Google map" src="https://www.google.com/maps/d/embed?mid=1eCjmls6ON9J54CmE8_G4hcnFHSX2PTLD" width="100%" height="480" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
 
 
 <hr />

@@ -5,6 +5,9 @@ permalink: /attending/registration/
 index: 0
 ---
 
+TBA
+
+<!-- 
 <div class="alert alert-info">
   <strong>Cancellations: </strong>The period for cancellations has now passed. Therefore, we are unable to offer refunds for cancellation requests.
 </div>
@@ -27,11 +30,10 @@ Late registration until **30<sup>th</sup> Jun 2024**:
 - Summer School + Non-Residential (No accommodation provided): 355 GBP (£)
 
 
-<!-- <a href="{{ site.payment-link }} " class="btn btn-primary" role="button">Register here</a> -->
 <a href="#" class="btn btn-primary" role="button">Register here (Closed)</a>
 <a href="/attending/faq/" class="btn btn-secondary" role="butto">Have a question? check the FAQ</a>
+-->
 
-
-<hr />
+<hr /> 
 
 {% include venue_carousel.html %}

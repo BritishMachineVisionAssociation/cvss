@@ -26,15 +26,16 @@
 timezone: Europe/London
 title: BMVA Computer Vision Summer School
 formatted-title: BMVA Computer Vision Summer School
-edition: 27
-formattd-edition: 27<sup>th</sup>
-brand: CVSS&thinsp;2024
-short-title: "CVSS 2024"
-host-name: Durham University
-conf_year: 2024
-email: bmva-cvss@durham.ac.uk
+edition: 28
+formattd-edition: 28<sup>th</sup>
+brand: CVSS&thinsp;2025
+short-title: "CVSS 2025"
+host-name: University of Aberdeen
+host-name-city: Aberdeen, Scotland, UK
+conf_year: 2025
+email: bmva-cvss2025@abdn.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the 27<sup>th</sup> BMVA Computer Vision Summer School 2024, 15<sup>th</sup> - 19<sup>th</sup> July 2024.
+  The website for the 28<sup>th</sup> BMVA Computer Vision Summer School 2025, 7<sup>th</sup> - 11<sup>th</sup> July 2024.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/"
@@ -44,13 +45,14 @@ baseurl: ""
 url: "https://cvss.bmva.org/"
 # "https://www.bmvc2021.com"
 conf-url: "https://cvss.bmva.org/"
+#conf-url: "https://127.0.0.1:4000"
 chat-url: "https://chat.cvss.bmva.org/"
-logo: "/assets/images/layout/cvss_logo_2024.png"
-logo-host: "/assets/images/layout/durham-uni-trans.png"
-logo-host-alt: "/assets/images/layout/durham-uni-purple.png"
-logo-link: "https://vivid.webspace.durham.ac.uk/"
+logo: "/assets/images/layout/cvss_logo_2025.png"
+logo-host: "/assets/images/layout/university-of-aberdeen-logo-trans.png"
+logo-host-alt: "/assets/images/layout/university-of-aberdeen-logo.png"
+logo-link: "https://www.abdn.ac.uk/"
 payment-link: "https://bmva.charitysuite.com/events/dpcdw95c?tickets=FoGDO4icYJK1qnal"
-pc-email: "bmva-cvss@durham.ac.uk"
+pc-email: "bmva-cvss2025@abdn.ac.uk"
 twitter_username: BmvaCvss
 #github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva
@@ -61,9 +63,9 @@ deadline-time: "23:59 GMT"
 cmt-url: "#"
 bmva-event-url: "https://britishmachinevisionassociation.github.io/meetings/21-09-06-september-event"
 
-dates:  15<sup>th</sup> - 19<sup>th</sup> July 2024
+dates:  7<sup>th</sup> - 11<sup>th</sup> July 2025
 
-author: BMVC PCs
+author: BMCA CVSSS Chairs
 
 #flickr_user: '131006004@N06'
 #flickr_api_key: adb4be93419edab991522b4fa92b7029
@@ -72,6 +74,8 @@ author: BMVC PCs
 safe: true
 encoding: utf-8
 # markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+years_folder: previous/
 
 # Build settings
 markdown: kramdown

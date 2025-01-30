@@ -16,15 +16,15 @@
 a.anchor { display: block; position: relative; top: -150px; visibility: hidden; }
 
 .ndfc-brand {
-	color: #68246D;/*#555676; /*#EF8232;*/ /*Dark colour - 7F004B*/
+	color: #800020;/*#555676; /*#EF8232;*/ /*Dark colour - 7F004B*/
 }
 
 a {
-	color: #68246D;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
+	color: 	#800020;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
 }
 
 a:hover {
-	color: #DC0082;/*#555676; /*#3D5B67;/*#3D5B67;*/
+	color: #d30035;/*#555676; /*#3D5B67;/*#3D5B67;*/
 }
 
 /*
