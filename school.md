@@ -52,11 +52,11 @@ The school covers the following topics:
   
 
   
-  <li>Revolutionizing Medical Imaging Using Generative Models</li>
+  <li>Deep Learning for Medical Imaging</li>
   
 
   
-  <li>Self-supervised Learning</li>
+  <li>Self-Supervised Learning</li>
   
 
   
