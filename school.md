@@ -11,6 +11,75 @@ The 2025 Summer School will take place at the {{site.host-name}}, {{site.host-na
 
 In addition to the academic content, the Summer School provides a networking opportunity for students to interact with their peers, and to make contacts among those who will be the active researchers of their own generation.
 
+<ul class="list-group">
+
+  
+  <li>4D Video Scene Understanding in the Wild</li>
+  
+
+  
+  <li>Multimodal Behaviour Understanding and Generation for Human-Robot Interaction</li>
+  
+
+  
+  <li>Contrastive Language-Image Pretraining (CLIP) for Video Analytics</li>
+  
+
+  
+  <li>Computer Vision in Robotics and SLAM</li>
+  
+
+  
+  <li>Egocentric Vision - Making Sense of the First-Person Perspective</li>
+  
+
+  
+  <li>Human vs Computer Vision</li>
+  
+
+  
+  <li>Efficient Models - Neural Architecture Search</li>
+  
+
+  
+  <li>Graph and Geometric Computer Vision</li>
+  
+
+  
+  <li>Python (Pytorch) for Computer Vision</li>
+  
+
+  
+  <li>Revolutionizing Medical Imaging Using Generative Models</li>
+  
+
+  
+  <li>Self-supervised Learning</li>
+  
+
+  
+  <li>Classical Computer Vision</li>
+  
+
+  
+  <li>Hyperbolic and Hyperspherical Learning</li>
+  
+
+  
+  <li>Structured Generative models for Computer Vision</li>
+  
+
+  
+  <li>Uncertainty and Evaluation in Vision</li>
+  
+
+  
+  <li>Video Understanding</li>
+  
+
+</ul>
+
+<hr />
 <!-- TODO: Add in Aberdeen Blurb -->
 
 <!-- Durham University is situated about twenty miles south-west of Newcastle in the North East of England. A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. Durham University is an internationally renowned university based across Durham that provides top-quality academic, social and cultural facilities to over 20,000 students.  -->
