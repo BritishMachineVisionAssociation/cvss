@@ -11,6 +11,8 @@ The 2025 Summer School will take place at the {{site.host-name}}, {{site.host-na
 
 In addition to the academic content, the Summer School provides a networking opportunity for students to interact with their peers, and to make contacts among those who will be the active researchers of their own generation.
 
+The school covers the following topics:
+
 <ul class="list-group">
 
   
@@ -84,7 +86,6 @@ In addition to the academic content, the Summer School provides a networking opp
 
 <!-- Durham University is situated about twenty miles south-west of Newcastle in the North East of England. A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. Durham University is an internationally renowned university based across Durham that provides top-quality academic, social and cultural facilities to over 20,000 students.  -->
 
-The school covers the following topics:
 {% if site.data.programme.keynotes %}
 {% assign sorted_keynotes = site.data.programme.keynotes | sort: "topic" %}
 <ul class="list-group">
@@ -95,7 +96,7 @@ The school covers the following topics:
 {% endfor %}
 </ul>
 {% else %}
-TBA
+
 {% endif %}
 <hr />
 
