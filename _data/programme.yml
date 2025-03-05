@@ -77,7 +77,7 @@ keynotes:
     url: "https://www.sheffield.ac.uk/cs/people/academic/michael-mangan"
     bio: "Dr Mike Mangan is currently VP of Research at Opteran – a UK deep-tech pioneering the application of natural intelligence solutions to create machine minds that are both effective and efficient allowing deployment across markets. Dr Mangan’s is recipient of a UKRI Future Leader Fellowship, and his commercial research is also supported by external partners including the European Space Agency. Dr Mangan also holds an academic position at the University of Sheffield, UK where he is Senior Lecturer in Machine Learning and Robotics, and member of Sheffield Robotics. Dr Mangan has received formal training in engineering (MEng in Avoinics, University of Glasgow, 2004), data science (MSc in Neuroinformatics, University of Edinburgh, 2006), biorobotics (PhD in Biorobotics, University of Edinburgh, 2011), and his research has been published across disciplines from neuroscience (Current Biology) to robotics (Science Robotics)."
     topic: "Computer Vision in Robotics and SLAM"
-    job: University of Sheffield & Research Director Opteran Technologies
+    job: VP of Research at Opteran Technologies
   
   - name: Dr Armin Mustafa
     id: keynote-12
@@ -114,7 +114,7 @@ keynotes:
   
   - name: Dr Oya Celiktutan
     id: keynote-16
-    img: /assets/images/mugshots/oya-celiktutan.jpg
+    img: /assets/images/mugshots/oya_celiktutan.JPG
     url: "https://nms.kcl.ac.uk/oya.celiktutan/"
     bio: "Dr Oya Celiktutan is a Reader in AI & Robotics at the Centre for Robotics Research in the Department of Engineering and leads the Social AI & Robotics Laboratory. She received a BSc degree in Electronics Engineering from Uludag University, and an MSc and PhD degree in Electrical and Electronics Engineering from Bogazici University, Turkiye. During her doctoral studies, she was a visiting researcher at the National Institute of Applied Sciences of Lyon, France. After completing her PhD, she moved to the United Kingdom and worked on several projects as a postdoctoral researcher at Queen Mary University London, the University of Cambridge, and Imperial College London, respectively. Oya’s research focuses on multimodal machine learning to develop autonomous agents, such as robots and virtual agents, capable of seamlessly interacting with humans. This encompasses tackling challenges in multimodal perception, understanding and forecasting human behaviour, as well as advancing the navigation, manipulation, and social awareness skills of these agents. Her work has been supported by EPSRC, The Royal Society, and the EU Horizon, as well as through industrial collaborations. She received the EPSRC New Investigator Award in 2020. Her team’s research has been recognised with several awards, including the Best Paper Award at IEEE Ro-Man 2022, NVIDIA CCS Best Student Paper Award Runner Up at IEEE FG 2021, First Place Award and Honourable Mention Award at ICCV UDIVA Challenge 2021."
     topic: "Multimodal Behaviour Understanding and Generation for Human-Robot Interaction"
