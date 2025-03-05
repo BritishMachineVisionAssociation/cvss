@@ -5,9 +5,24 @@ permalink: /people/organisers/
 index: 0
 ---
 
+{% assign chairs_list = site.data.people.chairs %}
+<h2> Chairs </h2>
+<br />
+<div class="row ">
+{% for person in chairs_list %}
+    <div class="col-12 col-sm-12 col-md-6 col-lg-3">
+        <div class="text-center">
+            <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
+            <h4 class="pt-2"><a href="{{ person.url }}">{{ person.name }}</a></h4>
+            <p class="pb-2">{{ person.job }}</p>
+        </div>
+    </div>
+{% endfor %}
+</div>
+
 
 {% assign organiser_list = site.data.people.organisers %}
-<h2> Chairs </h2>
+<h2> Co-Chairs </h2>
 <br />
 <div class="row ">
 {% for person in organiser_list %}
