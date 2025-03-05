@@ -1,4 +1,4 @@
-organisers:
+chairs:
   - name: Georgios Leontidis
     img: /assets/images/mugshots/georgios-leontidis.jpeg
     url: "https://www.abdn.ac.uk/people/georgios.leontidis"
@@ -7,6 +7,8 @@ organisers:
     img: /assets/images/mugshots/aiden-durrant.jpeg
     url: "https://www.abdn.ac.uk/people/aiden.durrant"
     job: Chair
+
+organisers:
   - name: Carlos Moreno-Garcia
     img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
     url: "https://cfmgcomputing.blogspot.com/p/home.html"
