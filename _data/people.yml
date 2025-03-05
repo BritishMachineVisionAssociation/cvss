@@ -3,18 +3,18 @@ organisers:
     img: /assets/images/mugshots/georgios-leontidis.jpeg
     url: "https://www.abdn.ac.uk/people/georgios.leontidis"
     job: Chair
-  - name: Carlos Moreno-Garcia
-    img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
-    url: "https://cfmgcomputing.blogspot.com/p/home.html"
-    job: Chair
   - name: Aiden Durrant
     img: /assets/images/mugshots/aiden-durrant.jpeg
     url: "https://www.abdn.ac.uk/people/aiden.durrant"
     job: Chair
+  - name: Carlos Moreno-Garcia
+    img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
+    url: "https://cfmgcomputing.blogspot.com/p/home.html"
+    job: Co-Chair
   - name: Tryphon Lambrou
     img: /assets/images/mugshots/tryphon-lambrou.jpeg
     url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
-    job: Chair
+    job: Co-Chair
 
 bmva:
   - name: Toby Breckon
