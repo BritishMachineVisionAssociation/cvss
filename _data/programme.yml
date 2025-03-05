@@ -1,4 +1,119 @@
 keynotes:
+- name: Dr Iris Groen
+  id: keynote-01
+  img: /assets/images/mugshots/iris_groen.png
+  url: “https://sites.google.com/view/irisgroen"
+  bio: "Iris Groen is an Assistant Professor (tenured) and MacGillavry Fellow at the Video & Image Sense Lab at the Informatics Institute at the University of Amsterdam (UvA). She is also affiliated with the Department of Brain and Cognition at the Psychology Research Institute at the UvA. Iris studies vision in the human brain using brain imaging techniques such as EEG, fMRI and ECoG, in combination with computational models, including deep neural networks. The goal of her research is to find out how the human brain perceives and understands real-world images and videos. "
+  topic: "Human Vs Machine Vision"
+  job: Video & Image Sense Lab, University of Amsterdam
+
+- name: Dr Michael Wray
+  id: keynote-03
+  img: /assets/images/mugshots/michael_wray.jpg
+  url: "https://mwray.github.io/"
+  bio: "Dr Michael Wray is a lecturer/Assistant Professor of Computer Vision at the School of Computer Science at the University of Bristol. Dr Wray's research interests are in multi-modal video understanding, particularly for egocentric videos — focusing on how both vision and language can be tied together towards tasks such as cross-modal retrieval, grounding and captioning. Dr Wray is part of MaVi and ViLab."
+  topic: "Egocentric Vision - Making Sense of the First-Person Perspective"
+  job: Bristol University
+
+- name: Prof. Victor Sanchez
+  id: keynote-04
+  img: /assets/images/mugshots/victor-sanchez.jpg
+  url: "https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html"
+  bio: " Prof. Victor Sanchez is the Head of the Signal and Information Processing (SIP) Lab of The University of Warwick. He received an M.Sc. degree from the University of Alberta, Canada, in 2003, and a Ph.D. degree from The University of British Columbia, Canada, in 2010. From 2011 to 2012, he was with the Video and Image Processing Laboratory, at the University of California at Berkeley, as a Postdoctoral Researcher. In 2012, he was a Visiting Lecturer with the Group on Interactive Coding of Images, Universitat Autònoma de Barcelona. From 2018 to 2019, he was a Visiting Scholar with the School of Electrical and Information Engineering, The University of Sydney, Australia. His research interests include computer vision with applications to multimedia analysis, biometrics, forensics, and security. He has authored several technical articles and book chapters in these areas. His research has been funded by the Newton Fund; the Natural Sciences and Engineering Research Council of Canada; the Canadian Institutes of Health Research; the FP7 and the H2020 Programs of the European Union; the Engineering and Physical Sciences Research Council, U.K; Ford Motor Company, USA, the Defence and Security Accelerator, U.K., and Research England. He is the Chair of the Technical Committee on Computational Forensics under the auspices of the International Association for Pattern Recognition (IAPR). He currently serves as an associate editor of IEEE Signal Processing Letters, IEEE Access, and ACM Computing Surveys."
+  topic: "Contrastive Language-Image Pretraining (CLIP) for Video Analytics"
+  job: University of Warwick
+
+- name: Dr Andrew Gilbert
+  id: keynote-05
+  img: /assets/images/mugshots/andrew_gilbert.jpg
+  url: "https://www.surrey.ac.uk/people/andrew-gilbert"
+  bio: "Dr Andrew Gilbert is an Associate Professor at the University of Surrey. His academic pursuits are primarily focused on video understanding and Generative Models. His research portfolio comprises over 65 articles published in the leading international vision conferences and journals, and he co-leads the C-CATS research group at Surrey. Dr Gilbert's extensive research work ranges from intelligent creative arts, such as fine-grained style search, movie trailer genre understanding, and 4D performance capture, to enabling computers to perceive and understand their complex and cluttered surroundings using multiple training techniques, including self-supervised and multiple data modes. Previously, his research work encompassed 3D human pose estimation and complex real-world activity recognition, with early work on tracking people on vast surveillance networks. Moreover, Dr Gilbert is an active British Machine Vision Association (BMVA) Executive Committee member and coordinates the national BMVA technical meetings. These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning."
+  topic: "Video Understanding"
+  job: University of Surrey
+
+- name: Dr Oisin Mac Aodha
+  id: keynote-06
+  img: /assets/images/mugshots/oisin_aodha.jpg
+  url: "https://homepages.inf.ed.ac.uk/omacaod/t"
+  bio: "Dr Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently am an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin’s current research interests are in the areas of computer vision and machine learning, with an specific emphasis on 3D understanding, human-in-the-loop methods, and AI for conservation and biodiversity monitoring. From 2016-2019 Oisin was fortunate to be a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech working with the Visipedia team. Previous to Caltech, he spent three great years (2013-2016) as a postdoc in the Department of Computer Science at University College London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones. There Oisin worked on interactive machine learning, where our goal was to design algorithms to enable non-programming scientists to semi-automatically explore events of interest in vast quantities of audio and visual data."
+  topic: "Self-Supervised Learning"
+  job: University of Edinburgh
+  
+ - name: Prof. Neill Campbell
+  id: keynote-07
+  img: /assets/images/mugshots/neill_campbell_headshot.jpg
+  url: "https://www.ndfcampbell.org/"
+  bio: "Before moving to Bath Prof. Neill Campbell was a Research Associate in the Virtual Environments and Computer Graphics Group at University College London working with Jan Kautz and Simon Prince on synthesizing and editing photorealistic visual objects funded by the EPSRC.<br />Previously Prof. Campbell was a Research Associate in the Computer Vision Group of the Machine Intelligence Laboratory, in the Department of Engineering at the University of Cambridge working on the EU Hydrosys Project led by Ed Rosten. <br />Prof. Neill Campbell completed his PhD, in the Computer Vision Group at the University of Cambridge, under the supervision of Roberto Cipolla and the guidance of George Vogiatzis and Carlos Hernández. Prof. Neill Campbell was funded by a Schiff Foundation Scholarship and Toshiba Research Europe."
+  topic: "Uncertainty and Evaluation in Vision"
+  job: University of Bath
+
+- name: Dr Paul Henderson
+  id: keynote-09
+  img: /assets/images/mugshots/paul-henderson.jpg
+  url: "https://www.pmh47.net/"
+  bio: "Dr Paul Henderson is a Lecturer (aka Assistant Professor) in Machine Learning at the University of Glasgow. His research focuses on building machines that understand the visual world with minimal supervision, learning aspects of its structure such as 3D geometry and decomposition into objects. This work draws on techniques from machine learning (particularly deep generative models), computer vision, and computer graphics."
+  topic: "Structured Generative models for Computer Vision"
+  job: University of Glasgow
+
+- name: Dr Elliot Crowley
+  id: keynote-10
+  #     img: /assets/images/mugshots/paul-henderson.jpg
+  url: "https://elliotjcrowley.com/"
+  #     bio: ""
+  topic: "Efficient Models for Computer Vision"
+  job: University of Edinburgh
+
+- name: Dr Mike Mangan
+  id: keynote-11
+  img: /assets/images/mugshots/mike_mangan.jpg
+  url: "https://www.sheffield.ac.uk/cs/people/academic/michael-mangan"
+  bio: "Dr Mike Mangan is currently VP of Research at Opteran – a UK deep-tech pioneering the application of natural intelligence solutions to create machine minds that are both effective and efficient allowing deployment across markets. Dr Mangan’s is recipient of a UKRI Future Leader Fellowship, and his commercial research is also supported by external partners including the European Space Agency. Dr Mangan also holds an academic position at the University of Sheffield, UK where he is Senior Lecturer in Machine Learning and Robotics, and member of Sheffield Robotics. Dr Mangan has received formal training in engineering (MEng in Avoinics, University of Glasgow, 2004), data science (MSc in Neuroinformatics, University of Edinburgh, 2006), biorobotics (PhD in Biorobotics, University of Edinburgh, 2011), and his research has been published across disciplines from neuroscience (Current Biology) to robotics (Science Robotics)."
+  topic: "Computer Vision in Robotics and SLAM"
+  job: University of Sheffield & Research Director Opteran Technologies
+
+- name: Dr Armin Mustafa
+  id: keynote-12
+  #     img: /assets/images/mugshots/paul-henderson.jpg
+  url: "https://arminmustafa.github.io/"
+  bio: "Dr Armin Mustafa is Royal Academy of Engineering Research Fellow in the Centre for Vision, Speech and Signal Processing, University of Surrey working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Armin’s research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare. 
+  Currently Armin is a Lecturer in Computer Vision and AI at CVSSP, University of Surrey, where they finished PhD in 'General dynamic scene reconstruction from multi-view videos' in 2016, supervised by Prof. Adrian Hilton. They have previously worked at Samsung Research Institute, Bangalore, India for 3 years (2010 - 2013) in Computer Vision. In 2010 Armin received M.Tech. degree from the Indian Institute of Technology (IIT), Kanpur, India supervised by Prof. K.S. Venkateshin Human Computer Interaction."
+  topic: "4D Computer Vision in the wild"
+  job: University of Surrey
+
+- name: Dr Tolga Birdal
+  id: keynote-13
+  img: /assets/images/mugshots/tolga_birdal.jpg
+  url: "https://tolgabirdal.github.io/"
+  bio: "Dr Tolga Birdal is an Assistant Professor at Imperial College London. UKRI Future Leaders Fellow. Previously StanfordAILab and TUMunich. Building an artificial visual cortex for spatial intelligence through geometry and topology by day. Indulging in music and philosophy by night. As a computer scientist and PI of the CIRCLE group, Tolga strives to understand visual perception and build machines that can see. To do so, he leverages tools from differential geometry and algebraic topology, in conjunction with deep neural networks. My research focuses on: 3D Computer Vision; 3D/4D Generative Priors; Geometric/Topological Deep Learning; Statistical and Topological Learning Theory; Quantum Computer Vision. As a science advocate, Tolga is committed to breaking down barriers to education, making knowledge accessible to all—especially those from underrepresented and underprivileged communities. Through initiatives like Bilimler Koyu, Nesin Maths Village, Arkhé and Poedat, he actively contributes to this mission. He envisions the possibility of an alternative, transformative academia. As an entrepreneur, Tolga has co-founded multiple startups, including BeFunky, an online photo editing platform that empowers creativity worldwide."
+  topic: "Graph and Geometric Computer Vision"
+  job: Imperial College London
+
+- name: Dr Binod Bhattarai
+  id: keynote-14
+  #     img: /assets/images/mugshots/paul-henderson.jpg
+  url: "https://sites.google.com/view/bbinod/home"
+  #     bio: ""
+  topic: "Medical Imaging"
+  job: University of Aberdeen
+
+- name: Dr Pascal Mettes
+  id: keynote-15
+  img: /assets/images/mugshots/pascal_mettes.jpg
+  url: "https://staff.fnwi.uva.nl/p.s.m.mettes/"
+  bio: "Dr Pascal Mettes is an Assistant Professor at the University of Amsterdam. Pascal and his team focus on deep learning in hyperbolic space. Within deep learning, we tend to question all aspects of training neural networks, from architectures and optimization to data and tricks. The most fundamental assumption, namely to operate in Euclidean space, is however rarely questioned. We believe that opening our scope beyond Euclid opens an entirely new worlds for deep learning. Specifically, Pascal focuses on hyperbolic deep learning. Learning in hyperbolic space enables us to learn hierarchical representations, with stronger robustness (with respect to OOD and adversarial samples), more compactness, and with the possibility of incorporating prior knowledge. His team also considers it the native space for vision-language models. In Pascal’s lab, they are therefore spearheading hyperbolic deep learning through algorithmic advances, open-source developments, and international workshops, tutorials, and talks."
+  topic: "Hyperbolic and Hyperspherical Learning"
+  job: University of Amsterdam
+
+- name: Dr Oya Celiktutan
+  id: keynote-16
+  img: /assets/images/mugshots/oya_celiktutan.jpg
+  url: "https://nms.kcl.ac.uk/oya.celiktutan/"
+  bio: "Dr Oya Celiktutan is a Reader in AI & Robotics at the Centre for Robotics Research in the Department of Engineering and leads the Social AI & Robotics Laboratory. She received a BSc degree in Electronics Engineering from Uludag University, and an MSc and PhD degree in Electrical and Electronics Engineering from Bogazici University, Turkiye. During her doctoral studies, she was a visiting researcher at the National Institute of Applied Sciences of Lyon, France. After completing her PhD, she moved to the United Kingdom and worked on several projects as a postdoctoral researcher at Queen Mary University London, the University of Cambridge, and Imperial College London, respectively. Oya’s research focuses on multimodal machine learning to develop autonomous agents, such as robots and virtual agents, capable of seamlessly interacting with humans. This encompasses tackling challenges in multimodal perception, understanding and forecasting human behaviour, as well as advancing the navigation, manipulation, and social awareness skills of these agents. Her work has been supported by EPSRC, The Royal Society, and the EU Horizon, as well as through industrial collaborations. She received the EPSRC New Investigator Award in 2020. Her team’s research has been recognised with several awards, including the Best Paper Award at IEEE Ro-Man 2022, NVIDIA CCS Best Student Paper Award Runner Up at IEEE FG 2021, First Place Award and Honourable Mention Award at ICCV UDIVA Challenge 2021."
+  topic: "Multimodal Behaviour Understanding and Generation for Human-Robot Interaction"
+  job: King's College London
+
+
+
 #   #- name: Prof. Xianghua Xie 
 #   #  id: keynote-01
 #   #  img: /assets/images/mugshots/xianghua_xie.jpg
