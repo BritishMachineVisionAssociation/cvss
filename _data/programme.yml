@@ -38,8 +38,8 @@ keynotes:
     bio: "Dr Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently am an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin’s current research interests are in the areas of computer vision and machine learning, with an specific emphasis on 3D understanding, human-in-the-loop methods, and AI for conservation and biodiversity monitoring. From 2016-2019 Oisin was fortunate to be a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech working with the Visipedia team. Previous to Caltech, he spent three great years (2013-2016) as a postdoc in the Department of Computer Science at University College London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones. There Oisin worked on interactive machine learning, where our goal was to design algorithms to enable non-programming scientists to semi-automatically explore events of interest in vast quantities of audio and visual data."
     topic: "Self-Supervised Learning"
     job: University of Edinburgh
-    
-   - name: Prof. Neill Campbell
+  
+  - name: Prof. Neill Campbell
     id: keynote-07
     img: /assets/images/mugshots/neill_campbell_headshot.jpg
     url: "https://www.ndfcampbell.org/"
