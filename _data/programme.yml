@@ -2,7 +2,7 @@ keynotes:
   - name: Dr Iris Groen
     id: keynote-01
     img: /assets/images/mugshots/iris_groen.png
-    url: “https://sites.google.com/view/irisgroen"
+    url: "https://sites.google.com/view/irisgroen"
     bio: "Iris Groen is an Assistant Professor (tenured) and MacGillavry Fellow at the Video & Image Sense Lab at the Informatics Institute at the University of Amsterdam (UvA). She is also affiliated with the Department of Brain and Cognition at the Psychology Research Institute at the UvA. Iris studies vision in the human brain using brain imaging techniques such as EEG, fMRI and ECoG, in combination with computational models, including deep neural networks. The goal of her research is to find out how the human brain perceives and understands real-world images and videos. "
     topic: "Human Vs Machine Vision"
     job: Video & Image Sense Lab, University of Amsterdam
