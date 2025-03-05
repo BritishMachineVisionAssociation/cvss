@@ -73,7 +73,7 @@ keynotes:
   
   - name: Dr Armin Mustafa
     id: keynote-12
-    #     img: /assets/images/mugshots/paul-henderson.jpg
+    img: /assets/images/mugshots/armin-mustafa.jpg
     url: "https://arminmustafa.github.io/"
     bio: "Dr Armin Mustafa is Royal Academy of Engineering Research Fellow in the Centre for Vision, Speech and Signal Processing, University of Surrey working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Armin’s research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare. 
     Currently Armin is a Lecturer in Computer Vision and AI at CVSSP, University of Surrey, where they finished PhD in 'General dynamic scene reconstruction from multi-view videos' in 2016, supervised by Prof. Adrian Hilton. They have previously worked at Samsung Research Institute, Bangalore, India for 3 years (2010 - 2013) in Computer Vision. In 2010 Armin received M.Tech. degree from the Indian Institute of Technology (IIT), Kanpur, India supervised by Prof. K.S. Venkateshin Human Computer Interaction."
