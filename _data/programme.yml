@@ -106,7 +106,7 @@ keynotes:
   
   - name: Dr Binod Bhattarai
     id: keynote-14
-    #     img: /assets/images/mugshots/paul-henderson.jpg
+    img: /assets/images/mugshots/binod_bhattarai.jpg
     url: "https://sites.google.com/view/bbinod/home"
     #     bio: ""
     topic: "Medical Imaging"
