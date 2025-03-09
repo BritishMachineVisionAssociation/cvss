@@ -5,7 +5,11 @@ permalink: /attending/dinner/
 index: 4
 ---
 
-TBA
+## Summer School Dinner
+
+The Summer School Dinner will take place on **Wednesday 9th July** from **18:30** in the **Northern Lights Room** at the **Aberdeen Beach Ballroom**.
+
+The Beach Ballroom is a Category B listed Art-Deco building on the seafront of Aberdeen.
 
 <!-- 
 The summer school dinner will be hosted in St Chad Moulsdale Hall. Moulsdale Hall in St Chad's is a beautiful venue for hosting events. It offers a spacious and elegant setting, perfect for a summer school dinner. The hall is well-maintained and provides a comfortable atmosphere for guests to enjoy their meal. With its charming architecture and picturesque surroundings, Moulsdale Hall adds a touch of sophistication to any event held there.
