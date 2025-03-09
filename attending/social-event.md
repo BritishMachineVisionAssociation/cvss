@@ -4,7 +4,13 @@ title: Social Event
 permalink: /attending/social/
 index: 3
 ---
-TBA
+## Social Event
+
+The Summer School Social will take place at the **Aberdeen Maritime Museum** on **Tuesday 8th of July** from **18:00 to 20:00**.
+
+Close to the busy harbour on the historic Shiprow, the Aberdeen Maritime Museum tells the story of the city’s long and often dramatic relationship with the sea. From the earliest days of trading, fishing, and shipbuilding, to offshore energy and life in the industry, and Aberdeen’s current role as a leader in the global energy transition, your voyage of discovery starts here.
+
+[Find out more about the Maritime Museum](https://www.aberdeencity.gov.uk/whatson/aberdeen-maritime-museum)
 
 
 <!-- The Prince Bishop River Cruiser offers cruises with spectacular views of historic Durham City, Cathedral, Castle and Bridges and evening cruises with a difference twelve months of the year.
