@@ -5,7 +5,16 @@ permalink: /attending/accommodation/
 index: 2
 ---
 
-TBA
+## Accommodation
+
+Accommodation is situated at **Hillhead Student Village** on the south bank of the **River Don**, close to **Seaton Park**, and is a 15-minute walk from the Old Aberdeen campus. It is on the main route into town, near restaurants and bars, and a regular bus service takes residents to the city centre and campus.
+
+[Hillhead, Central Building | The University of Aberdeen](https://www.abdn.ac.uk/students/accommodation/hillhead/)
+
+People staying in accommodation will be located in single standard rooms in corridor-style houses with shared showers and toilets, a kitchen, and a social area.
+
+Visitors can access free Wi-Fi, and a continental breakfast will also be provided.
+
 
 <!-- 
 The main accommodation for the {{ site.brand }} is provided by St Chad's College\*. At St Chad’s they pride themselves on their friendly, welcoming and attentive service.
