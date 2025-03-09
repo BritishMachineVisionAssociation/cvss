@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: What's on in Durham
+title: What's on in Aberdeen
 permalink: /attending/whats-on-in-durham/
 index: 4
 ---
