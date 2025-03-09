@@ -5,7 +5,85 @@ permalink: /attending/location/
 index: 1
 ---
 
-TBA
+# About the University of Aberdeen
+
+Founded in 1495, the University of Aberdeen is Scotland’s 3rd oldest university and the fifth oldest in the UK.
+
+At Aberdeen, we have been going beyond traditional ways of working, proactively collaborating to break boundaries—whether it’s leading the global transition to a cleaner energy future, pioneering preventative healthcare for all, harnessing cultural diversity for a more equitable world, protecting the environment and biodiversity, or driving innovation forward through Data and AI. At Aberdeen, there are no limits to your ideas or their impact.
+
+Find out more about the University of Aberdeen:  
+[Facts & Figures](https://www.abdn.ac.uk/about/facts-figures.php) | [About](https://www.abdn.ac.uk/about/) | [The University of Aberdeen](https://www.abdn.ac.uk/)
+
+While on campus, visit one of our impressive visitor attractions:
+- [Cruickshank Botanic Gardens](https://www.abdn.ac.uk/about/visit/cruickshank-botanic-gardens)
+- [Zoology Museum](https://www.abdn.ac.uk/about/visit/zoology-museum)
+- [Sir Duncan Rice Library – Special Collections Gallery](https://www.abdn.ac.uk/about/visit/sir-duncan-rice-library)
+- [St Machar’s Cathedral](https://www.abdn.ac.uk/about/visit/st-machars-cathedral)
+
+---
+
+## Getting to the University of Aberdeen
+
+The Summer School will take place at the Old Aberdeen Campus in the city.
+
+[Campus Maps](https://www.abdn.ac.uk/about/maps.php) | [About](https://www.abdn.ac.uk/about/) | [The University of Aberdeen](https://www.abdn.ac.uk/)
+
+### By Local Bus
+
+- **City Centre to Old Aberdeen Campus via FirstBus:**
+  - **Number 20:** From Guild Street (near Aberdeen Bus and Train stations), links the city centre with the main Old Aberdeen campus and the Hillhead Halls of Residence.
+  - **Number 19:** From Broad Street, opposite Marischal College, passes to the west of the University along Bedford Road and stops near the Sir Duncan Rice Library.
+  - **Numbers 1/1/A/1B and 2:** Travel along Union Street (the city's main thoroughfare), King Street, and pass the University. Alight just after the King's playing fields on your left.
+
+**Nearest Stops to Old Aberdeen Campus:**
+- **Old Aberdeen (bus no. 20)**
+- **Bedford Road (bus no. 19)**
+- **King Street (bus no. 1/1A/1B and 2)**
+
+You can also use the Stagecoach services from Adelphi or Union Square Bus station up King Street past the University.
+
+---
+
+## About Aberdeen
+
+A compact city with open spaces, a mile-long beach, and granite architecture, Aberdeen has something for everyone.
+
+Voted one of the Best Places to Go in the UK in 2025 by Conde Nast Traveller magazine, it has moved beyond its well-known reputation as Europe’s energy hotspot to be recognised for its historic sites, natural beauty, and vibrant food scene.
+
+While in Aberdeen, consider visiting some of its attractions:
+- [Aberdeen Science Centre](https://www.aberdeensciencecentre.com/)
+- [Aberdeen Art Gallery](https://www.aberdeencity.gov.uk/whatson/aberdeen-art-gallery)
+- [Duthie Park & Winter Gardens](https://www.aberdeencity.gov.uk/services/parks-and-greenspaces/parks-and-gardens/duthie-park)
+- [Provost Skene’s House](https://www.aberdeencity.gov.uk/whatson/provost-skenes-house)
+
+You can also learn more on the [VisitAberdeenshire website](https://www.visitaberdeenshire.com/).
+
+---
+
+## Getting to Aberdeen
+
+Aberdeen is easily accessible by Train, Air, Coach, and Car.
+
+### By Air
+
+Aberdeen's international airport is served by a number of major carriers, providing an extensive network of routes throughout the UK, direct to Europe, and worldwide through major hubs. There is a frequent bus link and taxis available to take you to the city centre.
+
+[Aberdeen Airport](https://www.aberdeenairport.com/)
+
+### By Coach
+
+Fast coach services connect Aberdeen with major UK cities, thanks to first-class roads running south to Edinburgh, Glasgow, and beyond. Competitive return fares and Travelcard schemes make coach travel popular with students.
+- [Citylink](https://www.citylink.co.uk/)
+- [Megabus](https://uk.megabus.com/)
+- [National Express](https://www.nationalexpress.com/en)
+- [Flixbus](https://www.flixbus.co.uk/)
+
+### By Train
+
+Rail services connect Aberdeen both north and south. There are regular direct trains to London, and services from Edinburgh and Glasgow link with other mainline routes. Northwards, you can reach Inverness, the scenic West Coast, and the Highlands.
+- [National Rail Enquiries - Aberdeen Station](https://www.nationalrail.co.uk/stations/abd/details.html)
+- [Trainline](https://www.thetrainline.com/)
+
 
 
 <!-- # Directions
