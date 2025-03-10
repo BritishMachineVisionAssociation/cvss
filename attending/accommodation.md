@@ -11,7 +11,7 @@ Accommodation is situated at **Hillhead Student Village** on the south bank of t
 
 [Hillhead, Central Building](https://www.abdn.ac.uk/students/accommodation/hillhead/)
 
-<!--People staying in accommodation will be located in single standard rooms in corridor-style houses with shared showers and toilets, a kitchen, and a social area.-->
+People staying in accommodation will be located in single standard rooms in corridor-style houses with en-suite bathrooms, a shared kitchen, and a social area.
 
 Visitors can access free Wi-Fi, and a continental breakfast will also be provided.
 
