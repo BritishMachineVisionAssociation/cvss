@@ -7,11 +7,11 @@ index: 2
 
 ## Accommodation
 
-Accommodation is situated at **Hillhead Student Village** on the south bank of the **River Don**, close to **Seaton Park**, and is a 15-minute walk from the Old Aberdeen campus. It is on the main route into town, near restaurants and bars, and a regular bus service takes residents to the city centre and campus.
+New Carnegie Court is in the heart of the **Hillhead student village** on the south bank of the **River Don**, close to **Seaton Park**, and is a 15-minute walk from the Old Aberdeen campus. It is on the main route into town, near restaurants and bars, and a regular bus service takes residents to the city centre and campus.
 
-[Hillhead, Central Building](https://www.abdn.ac.uk/students/accommodation/hillhead/)
+[Hillhead, New Carnegie Court]([https://www.abdn.ac.uk/students/accommodation/hillhead/](https://www.abdn.ac.uk/accommodation/our-accommodation/new-carnegie-court))
 
-People staying in accommodation will be located in single standard rooms in corridor-style houses with en-suite bathrooms, a shared kitchen, and a social area.
+The property offers ensuite rooms in 5 bedroom flats, all with 3/4 size beds (small double bed). Included within the cost of accommodation is a continental breakfast.
 
 Visitors can access free Wi-Fi, and a continental breakfast will also be provided.
 
