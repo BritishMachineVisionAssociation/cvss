@@ -5,7 +5,7 @@ permalink: /attending/registration/
 index: 0
 ---
 
-<!-- <p style="text-align: center;"><a class="btn btn-primary" role="button" href="#">Register Here!</a></p> -->
+<p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://bmva.charitysuite.com/events/kdyiki0u">Register Here!</a></p>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) **and Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers
 
