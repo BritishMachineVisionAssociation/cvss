@@ -73,9 +73,9 @@ keynotes:
   
   - name: Dr Elliot Crowley
     id: keynote-10
-    #     img: /assets/images/mugshots/paul-henderson.jpg
+    img: /assets/images/mugshots/elliot_crowley.jpg
     url: "https://elliotjcrowley.com/"
-    #     bio: ""
+    bio: "Dr Elliot J. Crowley is a Senior Lecturer (Associate Professor) at the School of Engineering, University of Edinburgh. He co-leads the Bayesian and Neural Systems research group and is broadly interested in simple, efficient, and automated machine learning algorithms. Dr Crowley holds an EPSRC New Investigator Award and is an investigator on the DAIEdge Horizon Network. He obtained his Doctorate in Computer Vision from the University of Oxford."
     topic: "Efficient Models for Computer Vision"
     job: University of Edinburgh
   
@@ -108,7 +108,7 @@ keynotes:
     id: keynote-14
     img: /assets/images/mugshots/binod_bhattarai.jpg
     url: "https://sites.google.com/view/bbinod/home"
-    #     bio: ""
+    bio: "Dr. Binod Bhattarai is a Lecturer (US equivalent: Assistant Professor) at the University of Aberdeen, UK, and an Honorary Lecturer at University College London, specializing in machine learning, computer vision, and medical image analysis. His research focuses on developing advanced algorithms for processing multimodal data, with applications in healthcare and beyond. Before this, Dr. Bhattarai gained extensive post-doctoral experience as a Senior Research Fellow at University College London and a Postdoctoral Research Associate at Imperial College London,UK.  He earned his PhD from Université de Caen, France. He is actively involved in the academic community, serving as Program Chair for MIUA 2025, Program Chair for BMVC 2023, and Chair of DEMI Workshop at MICCAI 2023 and 2024. His publications span top-tier conferences and journals, and he has received numerous awards, including the Google Cloud Research Innovator Award, Outstanding Reviewer at BMVC 2019 and BMVC 2021, Winner of MICCAI 2021 Challenge, and Best Paper and Runner-Up awards."
     topic: "Medical Imaging"
     job: University of Aberdeen
   
