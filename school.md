@@ -5,7 +5,7 @@ permalink: /school/
 ---
 
 
-The British Machine Vision Association runs an annual Computer Vision Summer School aimed at MSc and PhD students, though it will also be beneficial to other researchers at an early stage in their careers as well as professionals working in industry. Despite the title, students from non-UK universities are welcome to attend, as are students and professionals from UK universities and industry. Places are limited, so we encourage early registration.
+The British Machine Vision Association runs an annual Computer Vision Summer School aimed at PhD students, though it will also be beneficial to other researchers at an early stage in their careers as well as professionals working in industry. Despite the title, students from non-UK universities are welcome to attend, as are students and professionals from UK universities and industry. Places are limited, so we encourage early registration.
 
 The 2025 Summer School will take place at the {{site.host-name}}, {{site.host-name-city}}, between {{ site.dates }}. It will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad.
 
