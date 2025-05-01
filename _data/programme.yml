@@ -7,13 +7,13 @@ keynotes:
     topic: "Human Vs Machine Vision"
     job: Video & Image Sense Lab, University of Amsterdam
 
-  - name: TBC
+  - name: Prof. Andrew French
     id: keynote-02
-    # img: /assets/images/mugshots/iris_groen.png
-    # url: "https://sites.google.com/view/irisgroen"
-    # bio: "Iris Groen is an Assistant Professor (tenured) and MacGillavry Fellow at the Video & Image Sense Lab at the Informatics Institute at the University of Amsterdam (UvA). She is also affiliated with the Department of Brain and Cognition at the Psychology Research Institute at the UvA. Iris studies vision in the human brain using brain imaging techniques such as EEG, fMRI and ECoG, in combination with computational models, including deep neural networks. The goal of her research is to find out how the human brain perceives and understands real-world images and videos. "
+    img: /assets/images/mugshots/andrew_french.jpeg
+    url: "https://www.nottingham.ac.uk/biosciences/people/andrew.p.french"
+    bio: "Andy is a Professor of Computer Science at the University of Nottingham, where he leads the Computer Vision Laboratory and teaches a Computer Vision module.  Along with several researchers in the lab, he focuses on developing AI approaches to understanding and interpreting biological images, including cells, plants and agricultural images. He holds an interdisciplinary position at Nottingham between the Schools of Computer Science and Biosciences. Andy has 20 years of experience developing novel AI approaches to computer vision in biological images, and has extensive experience developing data science learning resources for biologists.  He co-created the Image Analysis for Biologists summer school, and has built online courses to teach computer vision and AI approaches to researchers in other disciplines. He currently leads AIBIO-UK, (Artificial intelligence in the Biosciences),  a BBSRC-funded community building network. "
     topic: "Classical Computer Vision"
-    job: TBC
+    job: University of Nottingham
   
   - name: Dr Michael Wray
     id: keynote-03
