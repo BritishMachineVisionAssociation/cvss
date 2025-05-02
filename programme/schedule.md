@@ -67,7 +67,6 @@ Click here to see a detailed list of the speakers.
 - **09:00–10:30** — **Lecture 15:** Hyperbolic and Hyperspherical Learning - [Pascal Mettes](https://cvss.bmva.org/speakers/#keynote-15)  
 - **10:30–11:00** — Coffee  
 - **11:00–12:30** — **Lecture 16:** Multimodal Behaviour Understanding and Generation for Human-Robot Interaction - [Oya Celiktutan](https://cvss.bmva.org/speakers/#keynote-16)  
-- **12:30–13:30** — Closing  
-- **13:30–Evening** — Socal Event - Castle Visit *(Optional)*
+- **12:30–13:30** — Closing 
 
 <!--  -->
