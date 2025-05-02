@@ -11,7 +11,7 @@ New Carnegie Court is in the heart of the **Hillhead student village** on the so
 
 [Hillhead, New Carnegie Court](https://www.abdn.ac.uk/accommodation/our-accommodation/new-carnegie-court)
 
-The property offers ensuite rooms in 5 bedroom flats, all with 3/4 size beds (small double bed). Included within the cost of accommodation is a continental breakfast.
+The property offers ensuite rooms in 5 bedroom flats, all with 3/4 size beds (small double bed). Included within the cost of accommodation is a continental breakfast. All rooms are single ensuite rooms in mixed-sex 5 bedroomed flats with shared kitchen and social area. If you require further information or assistance, please email [bmva-cvss2025@abdn.ac.uk](mailto:bmva-cvss2025@abdn.ac.uk)
 
 Visitors can access free Wi-Fi, and a continental breakfast will also be provided.
 
