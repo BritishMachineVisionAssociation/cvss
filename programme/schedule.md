@@ -15,8 +15,8 @@ Click here to see a detailed list of the speakers.
 
 ### Monday
 
-- **10:30–12:30** — Arrival / Registration
-- **12:30–13:30** — Opening  
+- **11:30–13:00** — Arrival / Registration
+- **13:00–13:30** — Opening Remarks 
 - **13:30–15:00** — **Lecture 1:** Human vs Machine Vision - [Iris Groen](https://cvss.bmva.org/speakers/#keynote-01)  
 - **15:00–15:30** — Coffee Break  
 - **15:30–17:00** — **Lecture 2:** Classical Computer Vision - [Andrew French](https://cvss.bmva.org/speakers/#keynote-02)  
