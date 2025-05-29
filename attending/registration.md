@@ -16,13 +16,15 @@ Non-residential rates: includes all sessions, lunches and refreshments, Summer S
 For this year's summer school the UK and International rates are the same.
 
 ##### Summer School Rates
-Early bird Academic registration until **15<sup>th</sup> Jun 2025**:
+Early bird Academic registration until **15<sup>th</sup> June 2025**:
 - Summer School + Residential (Single Occupant Room): 725 GBP (£)
 - Summer School + Non-Residential (No accommodation provided): 335 GBP (£)
 
-Early bird Industry registration until **15<sup>th</sup> Jun 2025**:
+Early bird Industry registration until **15<sup>th</sup> June 2025**:
 - Summer School + Residential (Single Occupant Room): 880 GBP (£)
 - Summer School + Non-Residential (No accommodation provided): 450 GBP (£)
+
+From **16<sup>th</sup> June 2025** to **29<sup>th</sup> June 2025**, the registration rates will increase slightly. We encourage everyone to register as soon as possible to take advantage of the low registration fees.
 
 <!-- Late registration until **30<sup>th</sup> Jun 2024**:
 - Summer School + Residential (Single Occupant Room): 830 GBP (£) -->
