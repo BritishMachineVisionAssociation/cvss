@@ -60,10 +60,15 @@ There are two laundry buildings on site. These are operated using the Circuit Go
  
 ### Useful Contact Numbers
 Hillhead Reception - 01224 274000
+
 NHS24 (in case of health issues) - 111
+
 Police (emergency) - 999
+
 Police (non emergency) - 101
+
 Camcabs (taxi service) - 01224 353535
+
 Rainbow City (taxi service) 01224 878787
 
 <!-- 
