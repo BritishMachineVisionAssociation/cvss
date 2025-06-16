@@ -4,6 +4,9 @@ title: Registration
 permalink: /attending/registration/
 index: 0
 ---
+Thank you for your interest in the summer school; we have now reached capacity and have no tickets remaining, but please email us to state your interest and we will add you to our reservation list should a place become available.
+
+<p style="text-align: center;"><a class="btn btn-primary" role="button" href="mailto:bmva-cvss2025@abdn.ac.uk">bmva-cvss2025@abdn.ac.uk</a></p>
 
 <p style="text-align: center;"><a class="btn btn-primary" role="button" href="https://bmva.charitysuite.com/events/kdyiki0u">Register Here!</a></p>
 
