@@ -6,9 +6,9 @@ index: 4
 ---
 
 
-Summer School Location - The University of Aberdeen 
+## Summer School Location - The University of Aberdeen 
 
-Address: University of Aberdeen, King's College, Aberdeen, AB24 3FX 
+### Address: University of Aberdeen, King's College, Aberdeen, AB24 3FX 
 
 [Click to View/Download the Campus Map](https://www.abdn.ac.uk/about/campus/maps/)
 
@@ -20,11 +20,11 @@ Refreshments during the tea and coffee breaks will be served in the New King's B
 
 Lunch will be served on Tuesday, Wednesday and Thursday in the [Science Teaching Hub](https://www.abdn.ac.uk/about/campus/maps/view/206/). Friday will be a packed lunch and will also be picked up from the Science Teaching Hub.
 
-**Summer School Social Event, Maritime Museum **
+### Summer School Social Event, Maritime Museum
 
 Address: Shiprow, Aberdeen AB11 5BY 
 
-**Summer School Dinner, Aberdeen Beach Ballroom **
+### Summer School Dinner, Aberdeen Beach Ballroom
 
 Address: Beach Promenade, Aberdeen AB24 5NR 
 
