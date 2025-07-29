@@ -13,7 +13,9 @@ The standard of research presented during our poster session was truly outstandi
 
 ### First Place Winner
 **Name:** Mihnea-Bogdan Jurca
+
 **Affiliation:** Vrije Universiteit Brussel
+
 **Poster Title:** RT-GS2: Real Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields.
 
 <img src="{{ site.baseurl }}/assets/images/poster_winners/1st_2025.JPG" class="img-fluid" style="max-width: 50%;">
@@ -22,7 +24,9 @@ The standard of research presented during our poster session was truly outstandi
 
 ### Second Place Winner
 **Name:** Emma Poliakova
+
 **Affiliation:** University of Essex
+
 **Poster Title:** Exploring the Seabed One Species at a Time.
 
 <img src="{{ site.baseurl }}/assets/images/poster_winners/2nd_2025.JPG" class="img-fluid" style="max-width: 50%;">
@@ -31,7 +35,9 @@ The standard of research presented during our poster session was truly outstandi
 
 ### Third Place Winner
 **Name:** Helena Raymond-Hayling
+
 **Affiliation:** BBC
+
 **Poster Title:** AI for Television and Video Production at the BBC.
 
 <img src="{{ site.baseurl }}/assets/images/poster_winners/3rd_2025.JPG" class="img-fluid" style="max-width: 50%;">
