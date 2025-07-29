@@ -21,7 +21,7 @@ To see the highlight of the poster session see here:
 
 <div class="row no-gutters pt-0 d-xs-block {%comment%}d-xl-none{%endcomment%}">
 	<div class="mb-1 pl-2 pr-2 mx-auto mx-sm-left col-xs-auto">
-		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link attending/poster-reception.md %}">Poster Session Highlights!</a></p>
+		<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.baseurl}}{% link /attending/posters_reception.md %}">Poster Session Highlights!</a></p>
 	</div>
 </div>
 
