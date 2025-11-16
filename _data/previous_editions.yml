@@ -1,4 +1,10 @@
 editions:
+  - year: 2025
+    title: "CVSS 2025"
+    formatted-title: "CVSS 2025"
+    host-name: "University of Aberdeen"
+    description: "The website for the 28<sup>th</sup> BMVA Computer Vision Summer School 2025, 7<sup>th</sup> - 11<sup>th</sup> July 2025."
+    url: "https://cvss.bmva.org/previous/2025/"
   - year: 2024
     title: "CVSS 2024"
     formatted-title: "CVSS 2024"

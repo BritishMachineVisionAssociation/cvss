@@ -48,7 +48,7 @@
       <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
         <a class="dropdown-item" href="{{ site.conf-url }}">Current</a>
         {% for years in site.data.previous_editions.editions %}
-            <a class="dropdown-item" href="{{site.conf-url}}/{{ site.baseurl }}{{ site.years_folder }}{{ years.year }}/">{{ years.year }}</a>
+            <a class="dropdown-item" href="{{site.conf-url}}/{{ site.years_folder }}{{ years.year }}/">{{ years.year }}</a>
 
         {% endfor %}
       </div>

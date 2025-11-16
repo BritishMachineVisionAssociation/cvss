@@ -31,7 +31,7 @@ OUTPUT_DIR="$PREV_DIR/$conf_year"
 mkdir -p "$OUTPUT_DIR"
 
 # Build the Jekyll site into the output directory
-jekyll build --destination "$OUTPUT_DIR"
+bundle exec jekyll build --destination "$OUTPUT_DIR"
 
 # Restore the original config file
 mv "${CONFIG_FILE}" "$CONFIG_FILE-generated.bak"

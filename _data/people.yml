@@ -1,38 +1,41 @@
 chairs:
-  - name: Georgios Leontidis
-    img: /assets/images/mugshots/georgios-leontidis.jpeg
-    url: "https://www.abdn.ac.uk/people/georgios.leontidis"
-    job: Chair
-  - name: Aiden Durrant
-    img: /assets/images/mugshots/aiden-durrant.jpeg
-    url: "https://www.abdn.ac.uk/people/aiden.durrant"
-    job: Chair
-
-organisers:
-  - name: Carlos Moreno-Garcia
-    img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
-    url: "https://cfmgcomputing.blogspot.com/p/home.html"
-    job: Co-Chair
-  - name: Tryphon Lambrou
-    img: /assets/images/mugshots/tryphon-lambrou.jpeg
-    url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
-    job: Co-Chair
-  - name: Pam Johnston
-    img: /assets/images/mugshots/pam-johnston.jpeg
-    url: "https://rgu-repository.worktribe.com/person/355897/pam-johnston"
-    job: Co-Chair
-  - name: Miles Everett
-    img: /assets/images/mugshots/miles-everett.jpeg
-    url: "https://www.abdn.ac.uk/people/miles.everett"
-    job: Co-Chair
-  - name: Stuart James
-    img: /assets/images/mugshots/stuart_james.png
-    url: "https://stuart-james.com"
-    job: Co-Chair
   - name: Amir Atapour-Abarghouei
     img: /assets/images/mugshots/amir_atapour-abarghouei.jpg
     url: "http://www.atapour.co.uk"
+    job: Chair
+  - name: Stuart James
+    img: /assets/images/mugshots/stuart_james.png
+    url: "https://stuart-james.com"
+    job: Chair
+
+
+
+organisers:
+  # - name: Carlos Moreno-Garcia
+  #   img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
+  #   url: "https://cfmgcomputing.blogspot.com/p/home.html"
+  #   job: Co-Chair
+  # - name: Tryphon Lambrou
+  #   img: /assets/images/mugshots/tryphon-lambrou.jpeg
+  #   url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
+  #   job: Co-Chair
+  # - name: Pam Johnston
+  #   img: /assets/images/mugshots/pam-johnston.jpeg
+  #   url: "https://rgu-repository.worktribe.com/person/355897/pam-johnston"
+  #   job: Co-Chair
+  # - name: Miles Everett
+  #   img: /assets/images/mugshots/miles-everett.jpeg
+  #   url: "https://www.abdn.ac.uk/people/miles.everett"
+  #   job: Co-Chair
+  - name: Georgios Leontidis
+    img: /assets/images/mugshots/georgios-leontidis.jpeg
+    url: "https://www.abdn.ac.uk/people/georgios.leontidis"
     job: Co-Chair
+  - name: Aiden Durrant
+    img: /assets/images/mugshots/aiden-durrant.jpeg
+    url: "https://www.abdn.ac.uk/people/aiden.durrant"
+    job: Co-Chair
+
 
 bmva:
   - name: Toby Breckon
