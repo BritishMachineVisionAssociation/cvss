@@ -1,12 +1,20 @@
 chairs:
   - name: Amir Atapour-Abarghouei
-    img: /assets/images/mugshots/amir_atapour-abarghouei.jpg
+    img: /assets/images/mugshots/amir_atapour-abarghouei.png
     url: "http://www.atapour.co.uk"
     job: Chair
+  - name: Cuong V. Nguyen
+    img: /assets/images/mugshots/Cuong_V_Nguyen.jpg
+    url: "https://nvcuong.github.io/"
+    job: Co-Chair
   - name: Stuart James
     img: /assets/images/mugshots/stuart_james.png
     url: "https://stuart-james.com"
-    job: Chair
+    job: Co-Chair
+  - name: Ulrik Beierholm
+    img: /assets/images/mugshots/ulrik_r_beierholm.jpg
+    url: "https://sites.google.com/site/beierh/"
+    job: Co-Chair
 
 
 

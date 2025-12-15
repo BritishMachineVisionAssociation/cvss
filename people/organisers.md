@@ -18,13 +18,7 @@ index: 0
         </div>
     </div>
 {% endfor %}
-</div>
-
-
 {% assign organiser_list = site.data.people.organisers %}
-<h2> Co-Chairs </h2>
-<br />
-<div class="row ">
 {% for person in organiser_list %}
     <div class="col-12 col-sm-12 col-md-6 col-lg-3">
         <div class="text-center">
@@ -35,7 +29,6 @@ index: 0
     </div>
 {% endfor %}
 </div>
-
 
 <hr />
 <br />
