@@ -1,17 +1,11 @@
 social:
-  - url: /assets/images/events/Boat01.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham. 
+  - url: /assets/images/events/social/Credit-Gavin-Selby-Durham-Cathedral-Riverbank-WEB-03.webp
+    alt: Durham Cathedral from the Riverbank.
     focus: "active"
-  - url: /assets/images/events/Boat02.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
-  - url: /assets/images/events/Boat03.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
-  - url: /assets/images/events/Boat04.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
-  - url: /assets/images/events/Boat05.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
-  - url: /assets/images/events/Boat06.jpeg
-    alt: Prince Bishop River Cruiser and Browns Rowing Boats. This is Durham.
+  - url: /assets/images/events/social/DURHAM-CATHEDRAL_01-09-16_DW441.webp
+    alt: Durham Cathedral
+  - url: /assets/images/events/social/Quire.webp
+    alt: Durham Cathedral Quire.
 
 venue:
   - url: /assets/images/venue/Scott.Logic.jpeg

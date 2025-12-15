@@ -27,6 +27,7 @@ The Durham Cathedral is located approximately 0.1 miles (about a 5-minute walk) 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3041.50687427872!2d-1.5783778227368759!3d54.773692566976365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x487e8761894aa86b%3A0xa26777877c3c04ec!2sSt%20Chad&#39;s%20College%20%E2%80%A2%20Durham%20University%2C%20North%20Bailey%2C%20Durham!3m2!1d54.773202899999994!2d-1.5747052!4m5!1s0x487e8761c6e51a15%3A0xed2897f8e29acfcb!2sDurham%20Cathedral%2C%20Durham%20DH1%203EH!3m2!1d54.7732329!2d-1.5763920999999999!5e1!3m2!1sen!2suk!4v1765790968941!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+
 ### Getting there from Maths and Computer Science Building at Durham University
 The Durham Cathedral is located approximately 1.1 miles (about a 25-minute walk) from the Maths and Computer Science Building at Durham University.
 
@@ -34,4 +35,5 @@ The Durham Cathedral is located approximately 1.1 miles (about a 25-minute walk)
 
 
 <hr />
-{% include venue_carousel.html %}
+{% include event_social_carousel.html %}
+(Images courtesy of Durham Cathedral)
