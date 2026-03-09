@@ -13,6 +13,8 @@ venue:
     focus: "active"
 
 poster:
-  - url: /assets/images/venue/Durham_CS3.jpg
+  - url: /assets/images/events/poster-24/CVSS24_Poster1.jpg
     alt: Mathematical Sciences & Computer Science Building.
     focus: "active"
+  - url: /assets/images/events/poster-24/CVSS24_Poster2.jpg
+    alt: Mathematical Sciences & Computer Science Building.

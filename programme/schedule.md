@@ -45,4 +45,6 @@ Transfer / low-shot / continual / long-tail learning (domain shift, adaptation, 
 Self-, semi-, meta- and unsupervised learning (self-supervised pretraining, weak supervision, meta-learning)
 
 
+<img src="{{ site.baseurl }}/assets/images/timetable.png" class="img-fluid" style="max-width: 100%;">
+
 <!--  -->
