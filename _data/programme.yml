@@ -53,14 +53,14 @@ keynotes:
     id: keynote-07
     img: /assets/images/mugshots/neill_campbell_headshot.jpg
     url: "https://www.ndfcampbell.org/"
-    bio: "Before moving to Bath Prof. Neill Campbell was a Research Associate in the Virtual Environments and Computer Graphics Group at University College London working with Jan Kautz and Simon Prince on synthesizing and editing photorealistic visual objects funded by the EPSRC.Previously Prof. Campbell was a Research Associate in the Computer Vision Group of the Machine Intelligence Laboratory, in the Department of Engineering at the University of Cambridge working on the EU Hydrosys Project led by Ed Rosten. Prof. Neill Campbell completed his PhD, in the Computer Vision Group at the University of Cambridge, under the supervision of Roberto Cipolla and the guidance of George Vogiatzis and Carlos Hernández. Prof. Neill Campbell was funded by a Schiff Foundation Scholarship and Toshiba Research Europe."
+    bio: "Before moving back to UCL, Prof. Neill Campbell was a Professor in the Department of Computer Science at the University of Bath and a member of the Visual Computing and Artifical Intelligence and Machine Learning Research Groups. Prior to Bath, he was a Research Associate in the Virtual Environments and Computer Graphics Group at University College London working with Jan Kautz and Simon Prince on synthesizing and editing photorealistic visual objects funded by the EPSRC. Previously he was a Research Associate in the Computer Vision Group of the Machine Intelligence Laboratory, in the Department of Engineering at the University of Cambridge working on the EU Hydrosys Project led by Ed Rosten. He completed my PhD, in the Computer Vision Group at the University of Cambridge, under the supervision of Roberto Cipolla and the guidance of George Vogiatzis and Carlos Hernández. He was funded by a Schiff Foundation Scholarship and Toshiba Research Europe."
     topic: "Uncertainty and Evaluation"
-    job: University of Bath
+    job: University College London
 
   - name: Dr. Deblina Bhattacharjee
     id: keynote-08
     img: /assets/images/mugshots/deblina_bhattacharjee.jpg
-    url: "https://www.deblinabhattacharjee.com/"
+    url: "https://deblinaml.github.io/"
     bio: "Dr. Deblina Bhattacharjee is an interdisciplinary AI researcher, currently an Assistant Professor at the University of Bath. Her work bridges Computer Vision with Arts, developing AI-driven solutions for creative domains. Her research focuses on generative models, 3D reconstruction, multimodal large language models, depth estimation, visual saliency, and multitask learning, aiming to push the boundaries of AI integration into society. Beyond research, she is passionate about Cognitive Systems & AI Ethics, exploring how AI interacts with human cognition and understanding its ethical and societal impacts. Her goal is to develop AI systems that are responsible and inclusive. She has recently been awarded three prestigious fellowships: Perplexity AI Business Fellowship (international), Elevate Leadership Fellowship (UK-wide recognition) and Impact and Knowledge Exchange Fellowship."
     topic: "Multimodal Computer Vision"
     job: University of Bath
@@ -87,7 +87,7 @@ keynotes:
     id: keynote-11
     img: /assets/images/mugshots/armin-mustafa.jpg
     url: "https://arminmustafa.github.io/"
-    bio: "Dr Armin Mustafa is a Associate Professor in Computer Vision and AI at CVSSP, University of Surrey. Previously I held a Royal Academy of Engineering Research Fellowship, working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Her research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare. "
+    bio: "Dr Armin Mustafa is a Associate Professor in Computer Vision and AI at CVSSP, University of Surrey. Previously she held a Royal Academy of Engineering Research Fellowship, working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Her research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare. "
     topic: "4D Spatial AI for General Scenes"
     job: University of Surrey
 
@@ -103,7 +103,7 @@ keynotes:
     id: keynote-13
     img: /assets/images/mugshots/samet-akcay.jpg
     url: "https://www.linkedin.com/in/sametakcay/"
-    bio: "Dr Samet Akcay is an AI Research Engineer/Scientist at Intel, specifically working on self-supervised anomaly detection and localization for industrial, medical and security applications. His primary research interests are real-time image classification, detection, anomaly detection, and unsupervised feature learning via deep/machine learning algorithms. We recently open-sourced anomalib, one of the largest anomaly detection libraries in the field.  Prior to joining Intel, he worked as a Deep Learning Engineer at COSMONiO where I designed and developed the self-supervised anomaly classification, detection, and segmentation in NOUS, world's first interactive deep learning box for subject matter experts."
+    bio: "Dr Samet Akcay is an AI Research Engineer/Scientist at Intel, specifically working on self-supervised anomaly detection and localization for industrial, medical and security applications. His primary research interests are real-time image classification, detection, anomaly detection, and unsupervised feature learning via deep/machine learning algorithms. We recently open-sourced anomalib, one of the largest anomaly detection libraries in the field.  Prior to joining Intel, he worked as a Deep Learning Engineer at COSMONiO where hedesigned and developed the self-supervised anomaly classification, detection, and segmentation in NOUS, world's first interactive deep learning box for subject matter experts."
     topic: "Full-Stack Robotics with VLAs: From Data Collection and Training to Edge Deployment"
     job: Intel
 
