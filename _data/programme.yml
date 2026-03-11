@@ -84,10 +84,10 @@ keynotes:
 
   - name: Dr Armin Mustafa
     id: keynote-11
-    img: /assets/images/mugshots/armin-mustafa.jpg
+    img: /assets/images/mugshots/armin-mustafa.png
     url: "https://arminmustafa.github.io/"
-    bio: "Dr Armin Mustafa is a Associate Professor in Computer Vision and AI at CVSSP, University of Surrey. Previously she held a Royal Academy of Engineering Research Fellowship, working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Her research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare. "
-    topic: "4D Spatial AI for General Scenes"
+    bio: "Dr Armin Mustafa is an Associate Professor in Computer Vision and AI at CVSSP, University of Surrey and an AI Fellow and Department of Science. Innovation and Technology (DSIT), UK. Previously she held a Royal Academy of Engineering Research Fellowship, working in 4D Vision for perceptive machines. The emergence of machines that interact with their environment has led to an increasing demand for automatic visual understanding of real-world scenes. Her research exploits Artificial Intelligence (AI) to better understand complex scenes so that machines can efficiently model and interpret real-world for a range of socially beneficial applications including autonomous systems, augmented reality and healthcare."
+    topic: "4D Machine Perception for Real-World Applications"
     job: University of Surrey
 
   - name: Dr Oliver Hamilton
