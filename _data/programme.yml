@@ -32,7 +32,6 @@ keynotes:
     topic: "From Detection to Understanding: Synthetic Images in Computer Vision"
     job: University of Warwick
 
-    # TODO
   - name: Dr Tanaya Guha
     id: keynote-05
     img: /assets/images/mugshots/tanaya-guha.jpg
@@ -79,7 +78,7 @@ keynotes:
     id: keynote-10
     img: /assets/images/mugshots/andrew_gilbert.jpg
     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
-    bio: "Dr Andrew Gilbert is an Associate Professor at the University of Surrey. His academic pursuits are primarily focused on video understanding and Generative Models. His research portfolio comprises over 65 articles published in the leading international vision conferences and journals, and he co-leads the C-CATS research group at Surrey. Dr Gilbert's extensive research work ranges from intelligent creative arts, such as fine-grained style search, movie trailer genre understanding, and 4D performance capture, to enabling computers to perceive and understand their complex and cluttered surroundings using multiple training techniques, including self-supervised and multiple data modes. Previously, his research work encompassed 3D human pose estimation and complex real-world activity recognition, with early work on tracking people on vast surveillance networks. Moreover, Dr Gilbert is an active British Machine Vision Association (BMVA) Executive Committee member and coordinates the national BMVA technical meetings. These meetings offer a forum for key experts from industry and academia to discuss and identify solutions to current problems in specialist areas of computer vision and machine learning."
+    bio: "Dr. Andrew Gilbert is an Associate Professor at the University of Surrey, specializing in computer vision and machine learning. He has over 15 years of experience leading research on self-supervised video understanding, 3D human pose estimation, and human-centric generative AI, and has authored more than 60 papers in venues such as CVPR, ICCV, ECCV, and IJCV. His recent work focuses on interpretable human-inspired video understanding, long-form video captioning, and human image generation. Andrew is passionate about mentoring the next generation of researchers and fostering interdisciplinary collaborations across creative arts, robotics, and AI."
     topic: "Video Understanding"
     job: University of Surrey
 
