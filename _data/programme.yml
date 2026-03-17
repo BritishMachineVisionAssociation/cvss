@@ -29,7 +29,7 @@ keynotes:
     img: /assets/images/mugshots/victor-sanchez.jpg
     url: "https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html"
     bio: "Prof. Victor Sanchez is the Head of the Signal and Information Processing (SIP) Lab of The University of Warwick and a Distinguished Investigator at Universitat Autonoma de Barcelona, Spain. He received an M.Sc. degree from the University of Alberta, Canada, in 2003, and a Ph.D. degree from the University of British Columbia, Canada, in 2010. From 2011 to 2012, he was a Postdoctoral Researcher in the Video and Image Processing Laboratory at the University of California, Berkeley. From 2018 to 2019, he was a Visiting Scholar with the School of Electrical and Information Engineering, The University of Sydney, Australia. His research interests include computer vision with applications to multimedia analysis, biometrics, forensics, and security. He has authored several technical articles and book chapters in these areas. His research has been funded by several agencies in North America, the EU, the UK, including the Defence and Security Accelerator, UK, and Research England. He is the Chair of the Technical Committee on Computational Forensics under the auspices of the International Association for Pattern Recognition (IAPR). He currently serves as a Senior Editor of IEEE Signal Processing Letters and IEEE Transactions on Information Forensics and Security."
-    topic: "From Detection to Understanding: Synthetic Images in Computer Vision"
+    topic: "From Detection to Use: Unlocking the Potential of Synthetic Images in Computer Vision"
     job: University of Warwick
 
   - name: Dr Tanaya Guha
@@ -94,7 +94,7 @@ keynotes:
     id: keynote-12
     img: /assets/images/mugshots/oliver-hamilton.jpg
     url: "https://www.linkedin.com/in/droliverhamilton/"
-    bio: "Dr Oliver Hamilton worked on a wonderfully varied range of SW & HW projects. In sectors from military to automotive, from medical to agri-tech in various physical environments, from land to sea to air and various deployment environments from cloud to edge to air-gapped systems. Using data from 1D to 4D, static or temporal, from real to synthetic in AR/VR for AI."
+    bio: "Dr. Oliver Hamilton is the Head of Intelligence and Autonomy at OpenWorks Engineering, where he focuses on pioneering technologies for counter-unmanned aerial systems (C-UAS) and air defense. His expertise lies in developing innovative solutions that enable real-time detection, tracking, and effective mitigation of emerging aerial threats. Before joining OpenWorks, Dr. Hamilton held the role of Product Owner for Geti at Intel, overseeing its evolution and development. Earlier in his career, he co-founded COSMONiO, where he played a pivotal role in building the initial version of the NOUS platform. Through Intel's acquisition of COSMONiO, the NOUS platform was further refined and evolved into Geti."
     topic: "From Pixels to Pursuit: Multi-Sensor Vision for Small Aerial Threats"
     job: OpenWorks Engineering
 
