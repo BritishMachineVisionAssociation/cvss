@@ -58,10 +58,10 @@ keynotes:
 
   - name: Dr. Deblina Bhattacharjee
     id: keynote-08
-    img: /assets/images/mugshots/deblina_bhattacharjee.jpg
+    img: /assets/images/mugshots/deblina_bhattacharjee.jpeg
     url: "https://deblinaml.github.io/"
-    bio: "Dr. Deblina Bhattacharjee is an interdisciplinary AI researcher, currently an Assistant Professor at the University of Bath. Her work bridges Computer Vision with Arts, developing AI-driven solutions for creative domains. Her research focuses on generative models, 3D reconstruction, multimodal large language models, depth estimation, visual saliency, and multitask learning, aiming to push the boundaries of AI integration into society. Beyond research, she is passionate about Cognitive Systems & AI Ethics, exploring how AI interacts with human cognition and understanding its ethical and societal impacts. Her goal is to develop AI systems that are responsible and inclusive. She has recently been awarded three prestigious fellowships: Perplexity AI Business Fellowship (international), Elevate Leadership Fellowship (UK-wide recognition) and Impact and Knowledge Exchange Fellowship."
-    topic: "Multimodal Computer Vision"
+    bio: "Dr Deblina Bhattacharjee is a Lecturer/Assistant Professor in the Department of Computer Science at the University of Bath, UK, affiliated with the Visual Intelligence Group. Her research bridges computer vision, multimodal AI, and visual arts, focusing on domain adaptation, depth understanding, multitask learning, generative models, 3D reconstruction, and visual saliency. Prior to joining Bath, she completed her PhD and postdoctoral research at EPFL, Switzerland, and worked with Samsung in South Korea, Google in Germany, and Intel in Taiwan. Her work explores how AI systems can learn richer and more transferable visual representations across creative and applied domains, including filmography, comics, animation, cultural heritage, and medical applications. She has published in, presented at, and reviewed for leading venues including CVPR, ICCV, ECCV, WACV, NeurIPS, ICML, MICCAI, ACM Transactions, and TPAMI. She has chaired the Women in Computer Vision Workshop at CVPR, leads the AI for Visual Arts Workshop across ECCV, ICCV, and CVPR, and serves on the organising committee of CVPR."
+    topic: "World Models for Visual Intelligence"
     job: University of Bath
     
   - name: Prof. Xianghua Xie
