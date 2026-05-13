@@ -1,0 +1,263 @@
+<!-- Global Search Modal -->
+<div class="modal fade" id="globalSearchModal" tabindex="-1" role="dialog" aria-labelledby="globalSearchLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="globalSearchLabel">
+          <i class="fas fa-search"></i> Search
+        </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <input type="search" id="globalSearchInput" class="form-control form-control-lg" placeholder="Search pages, speakers, FAQ..." autofocus>
+        </div>
+        <div id="globalSearchResults">
+          <p class="text-muted">Start typing to search...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  // Build search index from pages and selected data files.
+  var searchIndex = [];
+
+  {% for page in site.pages %}
+    {% if page.title and page.url != "/feed.xml" %}
+    searchIndex.push({
+      title: {{ page.title | jsonify }},
+      url: {{ page.url | jsonify }},
+      excerpt: {{ page.excerpt | strip_html | normalize_whitespace | truncatewords: 20 | jsonify }},
+      type: "page"
+    });
+    {% endif %}
+  {% endfor %}
+
+  {% for faq in site.data.faq.questions %}
+  searchIndex.push({
+    title: {{ faq.question | jsonify }},
+    url: {{ "/attending/faq/#q" | append: forloop.index0 | jsonify }},
+    excerpt: {{ faq.answer | strip_html | normalize_whitespace | truncatewords: 20 | jsonify }},
+    type: "faq"
+  });
+  {% endfor %}
+
+  {% for keynote in site.data.programme.keynotes %}
+  searchIndex.push({
+    title: {{ keynote.name | jsonify }},
+    url: "/programme/schedule/",
+    excerpt: {{ keynote.topic | default: keynote.job | default: "Programme item" | jsonify }},
+    type: "programme"
+  });
+  {% endfor %}
+
+  {% for person in site.data.people.organisers %}
+  searchIndex.push({
+    title: {{ person.name | jsonify }},
+    url: "/people/organisers/",
+    excerpt: {{ person.job | default: "Organiser" | jsonify }},
+    type: "people"
+  });
+  {% endfor %}
+
+  {% for person in site.data.people.chairs %}
+  searchIndex.push({
+    title: {{ person.name | jsonify }},
+    url: "/people/organisers/",
+    excerpt: {{ person.job | default: "Chair" | jsonify }},
+    type: "people"
+  });
+  {% endfor %}
+
+  {% for person in site.data.people.bmva %}
+  searchIndex.push({
+    title: {{ person.name | jsonify }},
+    url: "/people/organisers/",
+    excerpt: {{ person.job | default: "BMVA" | jsonify }},
+    type: "people"
+  });
+  {% endfor %}
+
+  var searchInput = document.getElementById('globalSearchInput');
+  var searchResults = document.getElementById('globalSearchResults');
+  var modal = document.getElementById('globalSearchModal');
+  var openButton = document.querySelector('[data-target="#globalSearchModal"]');
+
+  if (!searchInput || !searchResults || !modal) {
+    return;
+  }
+
+  function resetAndFocusSearch() {
+    searchInput.value = '';
+    searchResults.innerHTML = '<p class="text-muted">Start typing to search...</p>';
+    searchInput.focus();
+  }
+
+  // Focus when the modal is fully visible.
+  if (window.jQuery && window.jQuery.fn && window.jQuery.fn.modal) {
+    window.jQuery(modal).on('shown.bs.modal', function() {
+      resetAndFocusSearch();
+    });
+  } else if (openButton) {
+    // Fallback if Bootstrap/jQuery modal events are unavailable.
+    openButton.addEventListener('click', function() {
+      setTimeout(function() {
+        resetAndFocusSearch();
+      }, 100);
+    });
+  }
+
+  // Perform search
+  function performSearch(query) {
+    if (!query.trim()) {
+      searchResults.innerHTML = '<p class="text-muted">Start typing to search...</p>';
+      return;
+    }
+
+    var lowerQuery = query.toLowerCase();
+    var matches = searchIndex.filter(function(page) {
+      var title = (page.title || '').toString().toLowerCase();
+      var excerpt = (page.excerpt || '').toString().toLowerCase();
+      return title.indexOf(lowerQuery) !== -1 || excerpt.indexOf(lowerQuery) !== -1;
+    });
+
+    if (matches.length === 0) {
+      searchResults.innerHTML = '<p class="text-muted">No results found.</p>';
+      return;
+    }
+
+    var html = '<ul class="list-group">';
+    matches.forEach(function(page) {
+      var url = page.url || page.permalink;
+      var badgeColor = 'badge-secondary';
+      var badgeText = 'Page';
+      
+      if (page.type === 'faq') {
+        badgeColor = 'badge-info';
+        badgeText = 'FAQ';
+      } else if (page.type === 'programme') {
+        badgeColor = 'badge-warning';
+        badgeText = 'Programme';
+      } else if (page.type === 'people') {
+        badgeColor = 'badge-success';
+        badgeText = 'People';
+      }
+      
+      html += '<li class="list-group-item"><a href="' + url + '" class="global-search-result-link">' +
+              '<span class="badge ' + badgeColor + '" style="margin-right: 8px;">' + badgeText + '</span>' +
+              '<strong>' + page.title + '</strong><br>' +
+              '<small class="text-muted">' + page.excerpt + '</small>' +
+              '</a></li>';
+    });
+    html += '</ul>';
+
+    searchResults.innerHTML = html;
+  }
+
+  // Listen for input
+  searchInput.addEventListener('input', function() {
+    performSearch(this.value);
+  });
+
+  // Handle result clicks explicitly so navigation works across Bootstrap modal behaviors.
+  searchResults.addEventListener('click', function(e) {
+    var link = e.target.closest('a.global-search-result-link');
+    if (!link) {
+      return;
+    }
+
+    e.preventDefault();
+    window.location.href = link.getAttribute('href');
+  });
+
+  // Allow Enter to close modal
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      var closeButton = modal.querySelector('[data-dismiss="modal"]');
+      if (closeButton) {
+        closeButton.click();
+      }
+    }
+  });
+
+  function scrollToHashWithOffset() {
+    if (!window.location.hash) {
+      return;
+    }
+
+    var target = document.querySelector(window.location.hash);
+    if (!target) {
+      return;
+    }
+
+    var navbar = document.querySelector('.navbar.sticky-top');
+    var offset = navbar ? navbar.offsetHeight + 12 : 80;
+    var top = target.getBoundingClientRect().top + window.pageYOffset - offset;
+
+    window.scrollTo({ top: top });
+  }
+
+  // Adjust in-page anchor jumps (including search result links) for sticky header height.
+  window.addEventListener('hashchange', function() {
+    setTimeout(scrollToHashWithOffset, 0);
+  });
+
+  // On page load with a hash, wait a tick for layout/content then adjust.
+  window.addEventListener('load', function() {
+    setTimeout(scrollToHashWithOffset, 0);
+    setTimeout(scrollToHashWithOffset, 150);
+  });
+})();
+</script>
+
+<style>
+#globalSearchModal .list-group-item {
+  border: none;
+  border-bottom: 1px solid #dee2e6;
+  padding: 0;
+}
+
+#globalSearchModal .list-group-item:last-child {
+  border-bottom: none;
+}
+
+#globalSearchModal .list-group-item a {
+  display: block;
+  padding: 0.75rem 1.25rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+#globalSearchModal .list-group-item a:hover {
+  background-color: #f8f9fa;
+  color: inherit;
+}
+
+#globalSearchModal .list-group-item a:hover strong {
+  color: #007bff;
+}
+
+@media (max-width: 576px) {
+  #globalSearchModal .modal-dialog {
+    margin: 0;
+    max-width: 100%;
+  }
+
+  #globalSearchModal .modal-content {
+    border-radius: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #globalSearchModal .modal-body {
+    overflow-y: auto;
+    flex: 1;
+  }
+}
+</style>
