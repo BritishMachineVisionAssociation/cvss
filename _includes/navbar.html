@@ -2,7 +2,7 @@
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-primary">
 <div class="container">
   <a class="navbar-brand" href="{{ site.baseurl }}/"><b class="ndfc-brand-light">{{ site.brand }}</b></a>
-   <a class="nav-link text-white px-2" href="#" data-toggle="modal" data-target="#globalSearchModal" role="button" aria-label="Search" style="display:flex;align-items:center;">
+  <a class="nav-link text-white px-2 d-md-none" href="#" data-toggle="modal" data-target="#globalSearchModal" role="button" aria-label="Search" style="display:flex;align-items:center;">
     <i class="fas fa-search"></i>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,6 +50,11 @@
 
       <li class="nav-item">
         <a class="nav-link font-weight-bold text-info" href="/attending/faq/">FAQ</a>
+      </li>
+      <li class="nav-item d-none d-md-flex align-items-center">
+        <a class="nav-link text-white px-2" href="#" data-toggle="modal" data-target="#globalSearchModal" role="button" aria-label="Search" style="display:flex;align-items:center;">
+          <i class="fas fa-search"></i>
+        </a>
       </li>
       <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ site.year_folder }}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Years</a>
