@@ -5,7 +5,9 @@ permalink: /attending/registration/
 index: 0
 ---
 
-
+<div class="alert alert-info">
+  <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are working to increase the numbers, please check back soon. If you have any questions about accommodation, please contact the organisers.
+</div>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) and **Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
 
