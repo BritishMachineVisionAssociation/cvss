@@ -23,7 +23,7 @@ index: 0
   - Directly to <a href='https://www.stchads.ac.uk/commercial/bed-breakfast/'>St Chad's</a>, this is the standard accommodation; however, non-ensuite rooms may be available. <br />
   -  <a href='https://www.durham.ac.uk/event-durham/our-venues/durham-castle/#d.en.980492'>Other University Colleges</a><br />
 
-  Please note, we are unable to offer support for the above suggested options and you should contact the venues directly for any queries.
+  Please note, we are unable to offer booking support for the above suggested options and you should contact the venues directly for any queries.
 
 </div>
 
