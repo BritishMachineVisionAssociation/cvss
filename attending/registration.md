@@ -23,6 +23,8 @@ index: 0
   - Directly to <a href='https://www.stchads.ac.uk/commercial/bed-breakfast/'>St Chad's</a>, this is the standard accommodation; however, non-ensuite rooms may be available. <br />
   -  <a href='https://www.durham.ac.uk/event-durham/our-venues/durham-castle/#d.en.980492'>Other University Colleges</a><br />
 
+  Please note, we are unable to offer support for the above suggested options and you should contact the venues directly for any queries.
+
 </div>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) and **Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
