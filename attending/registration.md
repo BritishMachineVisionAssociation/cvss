@@ -37,11 +37,11 @@ For this year's summer school the UK and International rates are the same.
 
 ##### Summer School Rates
 Early bird Academic registration until **31<sup>st</sup> May 2026**:
-- Summer School + Residential (Single Occupant Room): 725 GBP (£)
+- <s>Summer School + Residential (Single Occupant Room): 725 GBP (£)</s>
 - Summer School + Non-Residential (No accommodation provided): £375 GBP (£)
 
 Early bird Industry registration until **31<sup>st</sup> May 2026**:
-- Summer School + Residential (Single Occupant Room): 880 GBP (£)
+- <s>Summer School + Residential (Single Occupant Room): 880 GBP (£)</s>
 - Summer School + Non-Residential (No accommodation provided): £500 GBP (£)
 
 From **1<sup>st</sup> June 2026** to **29<sup>th</sup> June 2026**, the registration rates will increase. We encourage everyone to register as soon as possible to take advantage of the low registration fees and secure a spot at the summer school.
