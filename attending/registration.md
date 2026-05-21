@@ -6,7 +6,10 @@ index: 0
 ---
 
 <div class="alert alert-info">
-  <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are trying to increase the numbers; however, this is VERY unlikely. It is important to also note we are also almost at full capacity for all options. 
+<strong>Registration Paused: </strong> Due to strong demand we have stopped registrations until the current invoices have been processed. If there are any spaces we will reopen registration in a few days (Expected Saturday/Sunday).
+
+
+  <!-- <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are trying to increase the numbers; however, this is VERY unlikely. It is important to also note we are also almost at full capacity for all options. 
 
   Therefore, we recommend booking non-residential and finding your own accommodation:
 
@@ -23,7 +26,7 @@ index: 0
   - Directly to <a href='https://www.stchads.ac.uk/commercial/bed-breakfast/'>St Chad's</a>, this is the standard accommodation; however, non-ensuite rooms may be available. <br />
   -  <a href='https://www.durham.ac.uk/event-durham/our-venues/durham-castle/#d.en.980492'>Other University Colleges</a><br />
 
-  Please note, we are unable to offer booking support for the above suggested options and you should contact the venues directly for any queries.
+  Please note, we are unable to offer booking support for the above suggested options and you should contact the venues directly for any queries. -->
 
 </div>
 
@@ -38,11 +41,11 @@ For this year's summer school the UK and International rates are the same.
 ##### Summer School Rates
 Early bird Academic registration until **31<sup>st</sup> May 2026**:
 - <s>Summer School + Residential (Single Occupant Room): 725 GBP (£)</s>
-- Summer School + Non-Residential (No accommodation provided): £375 GBP (£)
+- <s>Summer School + Non-Residential (No accommodation provided): £375 GBP (£)</s>
 
 Early bird Industry registration until **31<sup>st</sup> May 2026**:
 - <s>Summer School + Residential (Single Occupant Room): 880 GBP (£)</s>
-- Summer School + Non-Residential (No accommodation provided): £500 GBP (£)
+- <s>Summer School + Non-Residential (No accommodation provided): £500 GBP (£)</s>
 
 From **1<sup>st</sup> June 2026** to **29<sup>th</sup> June 2026**, the registration rates will increase. We encourage everyone to register as soon as possible to take advantage of the low registration fees and secure a spot at the summer school.
 
