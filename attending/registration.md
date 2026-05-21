@@ -6,7 +6,7 @@ index: 0
 ---
 
 <div class="alert alert-info">
-<strong>Registration Paused: </strong> Due to strong demand we have stopped registrations until the current invoices have been processed. If there are any spaces we will reopen registration in a few days (Expected Saturday/Sunday).
+<strong>Registration Paused: </strong> Due to strong demand we have stopped registrations until the current invoices have been processed. If there are any spaces remaining after, we will reopen registration, this is expected in a few days (approx. Saturday/Sunday).
 
 
   <!-- <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are trying to increase the numbers; however, this is VERY unlikely. It is important to also note we are also almost at full capacity for all options. 
