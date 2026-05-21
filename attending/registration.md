@@ -6,9 +6,9 @@ index: 0
 ---
 
 <div class="alert alert-info">
-  <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are working to increase the numbers, please check back soon; however we are also almost at full capacity for all options.
+  <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are trying to increase the numbers; however, this is VERY unlikely. It is important to also note we are also almost at full capacity for all options. 
 
-  We recommend you consider finding your own accommodation:
+  Therefore, we recommend booking non-residential and finding your own accommodation:
 
   - <a href='https://www.ihg.com/hotelindigo/hotels/gb/en/durham/mmedh/hoteldetail'>Hotel Indigo</a> <br />
   - <a href='https://www.premierinn.com/gb/en/hotels/england/county-durham/durham/durham-city-centre-walkergate.html?ARRdd=21&ARRmm=05&ARRyyyy=2024&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI'>Premier Inn</a><br />
@@ -22,9 +22,6 @@ index: 0
   In addition, there are various University options for accommodation:<br />
   - Directly to <a href='https://www.stchads.ac.uk/commercial/bed-breakfast/'>St Chad's</a>, this is the standard accommodation; however, non-ensuite rooms may be available. <br />
   -  <a href='https://www.durham.ac.uk/event-durham/our-venues/durham-castle/#d.en.980492'>Other University Colleges</a><br />
-
-  
-  If you have any questions about accommodation, please contact the organisers.
 
 </div>
 
