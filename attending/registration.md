@@ -6,28 +6,7 @@ index: 0
 ---
 
 <div class="alert alert-info">
-<strong>Registration Paused: </strong> Due to strong demand we have stopped registrations until the current invoices have been processed. If there are any spaces remaining after, we will reopen registration, this is expected in a few days (approx. Saturday/Sunday).
-
-
-  <!-- <strong>Residential Accommodation: </strong>We have currently sold out of pre-purchased residential accommodation. We are trying to increase the numbers; however, this is VERY unlikely. It is important to also note we are also almost at full capacity for all options. 
-
-  Therefore, we recommend booking non-residential and finding your own accommodation:
-
-  - <a href='https://www.ihg.com/hotelindigo/hotels/gb/en/durham/mmedh/hoteldetail'>Hotel Indigo</a> <br />
-  - <a href='https://www.premierinn.com/gb/en/hotels/england/county-durham/durham/durham-city-centre-walkergate.html?ARRdd=21&ARRmm=05&ARRyyyy=2024&NIGHTS=1&ROOMS=1&ADULT1=1&CHILD1=0&COT1=0&INTTYP1=DB&BRAND=PI'>Premier Inn</a><br />
-  - <a href='https://www.radissonhotels.com/en-us/hotels/radisson-blu-durham?cid=a%3Ase+b%3Agmb+c%3Aemea+i%3Alocal+e%3Ardb+d%3Aukirwe+h%3AGBXVU1'>Radisson Blu</a><br />
-  - <a href='https://www.marriott.com/en-us/hotels/ncldd-delta-hotels-durham-royal-county/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0'>Delta</a><br />
-  
-  If we go a bit further away, then we have:<br />
-  - <a href='https://www.ramsidehallhotel.co.uk/'>Ramside Hall</a><br />
-  - <a href='https://www.lumleycastle.com/'>Lumley Castle</a><br />
-  
-  In addition, there are various University options for accommodation:<br />
-  - Directly to <a href='https://www.stchads.ac.uk/commercial/bed-breakfast/'>St Chad's</a>, this is the standard accommodation; however, non-ensuite rooms may be available. <br />
-  -  <a href='https://www.durham.ac.uk/event-durham/our-venues/durham-castle/#d.en.980492'>Other University Colleges</a><br />
-
-  Please note, we are unable to offer booking support for the above suggested options and you should contact the venues directly for any queries. -->
-
+<strong>Registration Waiting List: </strong> <a href="https://forms.cloud.microsoft/e/i97jc8TMEb">Join the waiting list here</a> to be notified if any spots become available due to cancellations. We will contact you via email if a spot opens up and provide instructions on how to register with a tight deadline. Please note that being on the waiting list does not guarantee a spot.
 </div>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) and **Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
