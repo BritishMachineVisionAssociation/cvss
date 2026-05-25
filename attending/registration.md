@@ -5,8 +5,12 @@ permalink: /attending/registration/
 index: 0
 ---
 
+<div class="alert alert-danger">
+<strong>Registration is now closed.</strong> We have reached our maximum capacity for attendees. If you would like to be added to the waiting list, please see the information below.
+</div>
+
 <div class="alert alert-info">
-<strong>Registration Waiting List: </strong> <a href="https://forms.cloud.microsoft/e/i97jc8TMEb">Join the waiting list here</a> to be notified if any spots become available due to cancellations. We will contact you via email if a spot opens up and provide instructions on how to register with a tight deadline. Please note that being on the waiting list does not guarantee a spot.
+<strong>Registration Waiting List.</strong> <a href="https://forms.cloud.microsoft/e/i97jc8TMEb">Join the waiting list here</a> to be notified if any spots become available due to cancellations. We will contact you via email if a spot opens up and provide instructions on how to register with a tight deadline. Please note that being on the waiting list does not guarantee a spot.
 </div>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) and **Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
@@ -19,14 +23,14 @@ For this year's summer school the UK and International rates are the same.
 
 ##### Summer School Rates
 Early bird Academic registration until **31<sup>st</sup> May 2026**:
-- <s>Summer School + Residential (Single Occupant Room): 725 GBP (£)</s>
-- <s>Summer School + Non-Residential (No accommodation provided): £375 GBP (£)</s>
+- <s>Summer School + Residential (Single Occupant Room): 725 GBP (£)</s> (Sold out)
+- <s>Summer School + Non-Residential (No accommodation provided): £375 GBP (£)</s> (Sold out)
 
 Early bird Industry registration until **31<sup>st</sup> May 2026**:
-- <s>Summer School + Residential (Single Occupant Room): 880 GBP (£)</s>
-- <s>Summer School + Non-Residential (No accommodation provided): £500 GBP (£)</s>
+- <s>Summer School + Residential (Single Occupant Room): 880 GBP (£)</s> (Sold out)
+- <s>Summer School + Non-Residential (No accommodation provided): £500 GBP (£)</s> (Sold out)
 
-From **1<sup>st</sup> June 2026** to **29<sup>th</sup> June 2026**, the registration rates will increase. We encourage everyone to register as soon as possible to take advantage of the low registration fees and secure a spot at the summer school.
+<s>From **1<sup>st</sup> June 2026** to **29<sup>th</sup> June 2026**, the registration rates will increase. We encourage everyone to register as soon as possible to take advantage of the low registration fees and secure a spot at the summer school.</s>
 
 <!-- Late registration until **30<sup>th</sup> Jun 2024**:
 - Summer School + Residential (Single Occupant Room): 830 GBP (£) -->
