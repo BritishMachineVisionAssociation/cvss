@@ -36,7 +36,7 @@ Early bird Industry registration until **31<sup>st</sup> May 2026**:
 - Summer School + Residential (Single Occupant Room): 830 GBP (£) -->
 
 
-<p style="text-align: center;"><a class="btn btn-primary" role="button" href="{{site.payment-link}}">Register Here!</a>
+<p style="text-align: center;"><a class="btn btn-primary disable" role="button" href="{{site.payment-link}}">Register Here!</a>
 <a class="btn btn-secondary" role="button" href="mailto:{{site.email}}">{{site.email}}</a>
 <a href="/attending/faq/" class="btn btn-secondary" role="button">Have a question? check the FAQ</a>
 </p>
