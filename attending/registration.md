@@ -6,11 +6,11 @@ index: 0
 ---
 
 <div class="alert alert-danger">
-<strong>Registration is now closed.</strong> We have reached our maximum capacity for attendees. If you would like to be added to the waiting list, please see the information below.
+<strong>Registration is now closed.</strong> Despite increased capacity for this year (+10% on last year, +30% on 2024 CVSS in Durham), we have already reached our maximum capacity for attendees. If you would like to be added to the waiting list, please see the information below.
 </div>
 
 <div class="alert alert-info">
-<strong>Registration Waiting List.</strong> <a href="https://forms.cloud.microsoft/e/i97jc8TMEb">Join the waiting list here</a> to be notified if any spots become available due to cancellations. We will contact you via email if a spot opens up and provide instructions on how to register with a tight deadline. Please note that being on the waiting list does not guarantee a spot.
+<strong>Registration Waiting List.</strong> <a href="https://forms.cloud.microsoft/e/i97jc8TMEb">Join the waiting list here</a> to be notified if any spots become available due to cancellations. We will contact you via email if a spot opens up and provide instructions on how to register with a tight deadline. Please note that being on the waiting list does not guarantee a spot. To help us manage the waiting list fairly, please wait to hear from us by email rather than contacting us directly for updates.
 </div>
 
 There are two options for registration: for residential and non-residential attendees. There is a separate rate for **Academic** (students, academic staff, researchers, etc.) and **Industry** attendees. We will also offer a late rate for registration after the early bird deadline. If you have any questions, please contact the organisers.
