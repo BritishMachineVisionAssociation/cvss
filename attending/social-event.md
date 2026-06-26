@@ -25,8 +25,6 @@ CVSS 2026 includes two social events:
 
 The evening opens with a private guided tour of Durham Cathedral, where expert guides will introduce its Norman architecture, soaring nave, and early rib-vaulted construction. After the tour, attendees will join a drinks reception in the Cathedral's Chapter House, with time for informal networking and conversation.
 
-### About the Venue
-
 ### About Durham Cathedral
 Durham Cathedral, formally the Cathedral Church of Christ, Blessed Mary the Virgin and St Cuthbert of Durham, is a Church of England cathedral in the city of Durham, England. The cathedral is the seat of the bishop of Durham and is the mother church of the diocese of Durham. It also contains the shrines of the Anglo-Saxon saints Cuthbert and Bede. There are daily Church of England services at the cathedral, and it received 393,090 visitors in 2024. It is a grade I listed building and forms part of the Durham Castle and Cathedral World Heritage Site.
 
