@@ -1,0 +1,266 @@
+# CVSS 2026 Schedule
+# This structure is year-independent and can be easily updated for future events
+# Sessions reference speaker IDs from _data/programme.yml
+
+year: 2026
+start_date: 2026-07-13
+end_date: 2026-07-17
+
+# Time slots (in order)
+time_slots:
+  - slot: "09:30 - 11:00"
+    minutes: 90
+  - slot: "11:00 - 11:30"
+    minutes: 30
+  - slot: "11:30 - 13:00"
+    minutes: 90
+  - slot: "13:00 - 14:00"
+    minutes: 60
+  - slot: "14:00 - 15:30"
+    minutes: 90
+  - slot: "15:30 - 16:00"
+    minutes: 30
+  - slot: "16:00 - 17:30"
+    minutes: 90
+  - slot: "17:30 - 19:00"
+    minutes: 90
+  - slot: "19:00 - 21:00"
+    minutes: 120
+
+# Days and their sessions
+days:
+  - day: Monday
+    date: 2026-07-13
+    sessions:
+      - time_slot: "09:30 - 11:00"
+        title: "Registration"
+        session_type: special
+        speaker: null
+
+
+      - time_slot: "11:00 - 11:30"
+        title: "Registration"
+        session_type: special
+        speaker: null
+
+      - time_slot: "11:30 - 13:00"
+        title: "Opening and Tours"
+        session_type: special
+        speaker: null
+
+
+      - time_slot: "13:00 - 14:00"
+        title: "Lunch"
+        session_type: break
+        speaker: null
+
+      - time_slot: "14:00 - 15:30"
+        speaker_id: keynote-01
+        title: "Ulrik Beierholm"
+        session_type: keynote
+        theme: 4
+
+      - time_slot: "15:30 - 16:00"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "16:00 - 17:30"
+        speaker_id: keynote-02
+        title: "Tim Cootes"
+        session_type: keynote
+        theme: 2
+
+      - time_slot: "17:30 - 19:00"
+        title: "Posters & Reception"
+        session_type: special
+        speaker: null
+
+
+  - day: Tuesday
+    date: 2026-07-14
+    sessions:
+      - time_slot: "09:30 - 11:00"
+        speaker_id: keynote-03
+        title: "Oisin Mac Aodha"
+        session_type: keynote
+        theme: 4
+
+      - time_slot: "11:00 - 11:30"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "11:30 - 13:00"
+        speaker_id: keynote-04
+        title: "Victor Sanchez"
+        session_type: keynote
+        theme: 1
+
+      - time_slot: "13:00 - 14:00"
+        title: "Lunch"
+        session_type: break
+        speaker: null
+
+      - time_slot: "14:00 - 15:30"
+        speaker_id: keynote-05
+        title: "Tanaya Guha"
+        session_type: keynote
+        theme: 2
+
+      - time_slot: "15:30 - 16:00"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "16:00 - 17:30"
+        speaker_id: keynote-06
+        title: "Krystian Mikolajczyk"
+        session_type: keynote
+        theme: 2
+
+      - time_slot: "19:00 - 21:00"
+        title: "Social: Durham Cathedral"
+        session_type: social
+        link: /attending/social/
+        speaker: null
+
+  - day: Wednesday
+    date: 2026-07-15
+    sessions:
+      - time_slot: "09:30 - 11:00"
+        speaker_id: keynote-07
+        title: "Neill Campbell"
+        session_type: keynote
+        theme: 1
+
+      - time_slot: "11:00 - 11:30"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "11:30 - 13:00"
+        title: "Practical 1"
+        session_type: practical
+        speaker: null
+
+      - time_slot: "13:00 - 14:00"
+        title: "Lunch"
+        session_type: break
+        speaker: null
+
+      - time_slot: "14:00 - 15:30"
+        title: "Practical 2"
+        session_type: practical
+        speaker: null
+
+      - time_slot: "15:30 - 16:00"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "16:00 - 17:30"
+        speaker_id: keynote-08
+        title: "Deblina Bhattacharjee"
+        session_type: keynote
+        theme: 4
+
+      - time_slot: "19:00 - 21:00"
+        title: "Dinner"
+        session_type: dinner
+        link: /attending/dinner/
+        speaker: null
+
+  - day: Thursday
+    date: 2026-07-16
+    sessions:
+      - time_slot: "09:30 - 11:00"
+        speaker_id: keynote-09
+        title: "Xianghua Xie"
+        session_type: keynote
+        theme: 3
+
+      - time_slot: "11:00 - 11:30"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "11:30 - 13:00"
+        speaker_id: keynote-10
+        title: "Andrew Gilbert"
+        session_type: keynote
+        theme: 1
+
+      - time_slot: "13:00 - 14:00"
+        title: "Lunch"
+        session_type: break
+        speaker: null
+
+      - time_slot: "14:00 - 15:30"
+        speaker_id: keynote-11
+        title: "Armin Mustafa"
+        session_type: keynote
+        theme: 2
+
+      - time_slot: "15:30 - 16:00"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "16:00 - 17:30"
+        speaker_id: keynote-12
+        title: "Oliver Hamilton"
+        session_type: keynote
+        theme: 3
+
+      - time_slot: "19:00 - 21:00"
+        title: "Social: River Boat Cruise"
+        session_type: social
+        link: /attending/social/
+        speaker: null
+
+  - day: Friday
+    date: 2026-07-17
+    sessions:
+      - time_slot: "09:30 - 11:00"
+        speaker_id: keynote-13
+        title: "Samet Akcay"
+        session_type: keynote
+        theme: 4
+
+      - time_slot: "11:00 - 11:30"
+        title: "Coffee"
+        session_type: break
+        speaker: null
+
+      - time_slot: "11:30 - 13:00"
+        speaker_id: keynote-14
+        title: "Cheng Zhang"
+        session_type: keynote
+        theme: 4
+
+      - time_slot: "13:00 - 14:00"
+        title: "Closing"
+        session_type: special
+        speaker: null
+
+# Session types and their default styling
+session_types:
+  keynote:
+    label: "Keynote"
+    color: "var(--color-session)"
+  practical:
+    label: "Practical"
+    color: "var(--color-session)"
+  break:
+    label: "Break"
+    color: "var(--color-break)"
+  special:
+    label: "Special"
+    color: "var(--color-special)"
+  social:
+    label: "Social"
+    color: "var(--color-social)"
+  dinner:
+    label: "Dinner"
+    color: "var(--color-social)"

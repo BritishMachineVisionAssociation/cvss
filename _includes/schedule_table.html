@@ -1,0 +1,494 @@
+{% comment %}
+Dynamic Schedule Table Generator
+Usage: {% include schedule_table.html schedule_data=site.data.schedule_2026 speakers=site.data.programme.keynotes %}
+{% endcomment %}
+
+{% assign schedule = include.schedule_data %}
+{% assign all_speakers = include.speakers %}
+
+<!-- Color variables for different session types -->
+<style>
+  .schedule-table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 2rem 0;
+    --schedule-slot-height: 108px;
+  }
+
+  .schedule-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    background: white;
+    font-size: 0.95rem;
+  }
+
+  .schedule-table th:first-child {
+    width: 120px;
+    min-width: 120px;
+    max-width: 120px;
+  }
+
+  .schedule-table th {
+    background-color: #999;
+    color: white;
+    padding: 0.75rem;
+    text-align: center;
+    font-weight: 600;
+    border: 1px solid #ccc;
+  }
+
+  .schedule-table td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .schedule-table td.session-cell {
+    padding: 0;
+    vertical-align: top;
+  }
+
+  .session-cell-inner {
+    height: var(--schedule-slot-height);
+    min-height: 42px;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .session-stack-item {
+    flex: 1 1 0;
+    min-height: 0;
+    display: flex;
+  }
+
+  .session-cell-inner.has-multiple-sessions .session {
+    padding: 0.45rem;
+  }
+
+  .session-cell-inner.has-multiple-sessions .session-subtitle {
+    display: none;
+  }
+
+  .time-cell {
+    background-color: #f5f5f5;
+    font-weight: 600;
+    width: 120px;
+    min-width: 120px;
+    max-width: 120px;
+  }
+
+  .session {
+    padding: 0.75rem;
+    border-radius: 4px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
+    width: 100%;
+    height: 100%;
+    min-height: 0;
+    box-sizing: border-box;
+    flex: 1 1 auto;
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+
+  a.session {
+    color: inherit;
+  }
+
+  a.session:hover {
+    text-decoration: none;
+    filter: brightness(0.95);
+  }
+
+  .session-keynote {
+    background-color: #e8e8e8;
+    color: #333;
+    border: 1px solid #999;
+  }
+
+  /* Theme-based keynote colors */
+  .session-keynote.theme-1 {
+    background-color: #d8edd2;
+    border-color: #2d5d1f;
+  }
+
+  .session-keynote.theme-2 {
+    background-color: #f7e4c5;
+    border-color: #b8860b;
+  }
+
+  .session-keynote.theme-3 {
+    background-color: #d7e9fb;
+    border-color: #1f5a8d;
+  }
+
+  .session-keynote.theme-4 {
+    background-color: #f8d9d8;
+    border-color: #b54a45;
+  }
+
+  .session-practical {
+    background-color: #e8e8e8;
+    color: #333;
+    border: 1px solid #ccc;
+  }
+
+  .session-coffee,
+  .session-lunch {
+    background-color: #d4a574;
+    color: #333;
+  }
+
+  .session-registration,
+  .session-opening,
+  .session-closing {
+    background-color: #9966cc;
+    color: white;
+  }
+
+  .session-posters {
+    background-color: #5b3a8e;
+    color: white;
+  }
+
+  .session-social {
+    background-color: #0f766e;
+    color: white;
+  }
+
+  a.session-social,
+  a.session-dinner {
+    color: white !important;
+  }
+
+  .session-social .session-title {
+    color: white !important;
+  }
+
+  .session-dinner {
+    background-color: #00a9ce;
+    color: white;
+  }
+
+  .session-dinner .session-title {
+    color: white !important;
+  }
+
+  .session-special {
+    background-color: #9966cc;
+    color: white;
+  }
+
+  .session-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .session-subtitle {
+    font-size: 0.80rem;
+    font-style: italic;
+    margin: 0;
+    line-height: 1.1;
+  }
+
+  .session-keynote .session-subtitle {
+    color: #0066cc;
+  }
+
+  /* Mobile: Extra small phones (< 360px) */
+  @media (max-width: 359px) {
+    .schedule-table-wrapper {
+      --schedule-slot-height: 80px;
+      margin: 1rem 0;
+    }
+
+    .schedule-table {
+      font-size: 0.75rem;
+    }
+
+    .schedule-table th {
+      padding: 0.4rem 0.2rem;
+    }
+
+    .schedule-table td {
+      padding: 0.25rem;
+    }
+
+    .time-cell {
+      width: 60px;
+      min-width: 60px;
+      max-width: 60px;
+      font-size: 0.7rem;
+    }
+
+    .schedule-table th:first-child {
+      width: 60px;
+      min-width: 60px;
+      max-width: 60px;
+    }
+
+    .session-cell-inner {
+      padding: 0.2rem;
+    }
+
+    .session {
+      padding: 0.4rem;
+    }
+
+    .session-title {
+      font-size: 0.7rem;
+    }
+
+    .session-subtitle {
+      display: none;
+    }
+  }
+
+  /* Mobile: Small phones (360px - 480px) */
+  @media (min-width: 360px) and (max-width: 480px) {
+    .schedule-table-wrapper {
+      --schedule-slot-height: 85px;
+      margin: 1rem 0;
+    }
+
+    .schedule-table {
+      font-size: 0.80rem;
+    }
+
+    .schedule-table th {
+      padding: 0.5rem 0.3rem;
+      font-size: 0.75rem;
+    }
+
+    .schedule-table th small {
+      font-size: 0.65rem;
+      display: block;
+      margin-top: 0.2rem;
+    }
+
+    .schedule-table td {
+      padding: 0.3rem;
+    }
+
+    .time-cell {
+      width: 70px;
+      min-width: 70px;
+      max-width: 70px;
+      font-size: 0.75rem;
+      padding: 0.3rem;
+    }
+
+    .schedule-table th:first-child {
+      width: 70px;
+      min-width: 70px;
+      max-width: 70px;
+    }
+
+    .session-cell-inner {
+      padding: 0.25rem;
+    }
+
+    .session {
+      padding: 0.5rem;
+    }
+
+    .session-title {
+      font-size: 0.75rem;
+    }
+
+    .session-subtitle {
+      display: none;
+    }
+  }
+
+  /* Tablet: Small tablets (481px - 768px) */
+  @media (min-width: 481px) and (max-width: 768px) {
+    .schedule-table-wrapper {
+      --schedule-slot-height: 95px;
+      margin: 1.5rem 0;
+    }
+
+    .schedule-table {
+      font-size: 0.88rem;
+    }
+
+    .schedule-table th {
+      padding: 0.6rem;
+      font-size: 0.85rem;
+    }
+
+    .schedule-table th small {
+      font-size: 0.72rem;
+    }
+
+    .schedule-table td {
+      padding: 0.4rem;
+    }
+
+    .time-cell {
+      width: 90px;
+      min-width: 90px;
+      max-width: 90px;
+      font-size: 0.82rem;
+    }
+
+    .schedule-table th:first-child {
+      width: 90px;
+      min-width: 90px;
+      max-width: 90px;
+    }
+
+    .session-cell-inner {
+      padding: 0.35rem;
+    }
+
+    .session {
+      padding: 0.6rem;
+    }
+
+    .session-title {
+      font-size: 0.82rem;
+    }
+
+    .session-subtitle {
+      display: none;
+    }
+  }
+
+  /* Tablet: Medium tablets (769px - 1024px) */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .schedule-table-wrapper {
+      --schedule-slot-height: 100px;
+      margin: 1.5rem 0;
+    }
+
+    .schedule-table {
+      font-size: 0.90rem;
+    }
+
+    .time-cell {
+      width: 100px;
+      min-width: 100px;
+      max-width: 100px;
+    }
+
+    .schedule-table th:first-child {
+      width: 100px;
+      min-width: 100px;
+      max-width: 100px;
+    }
+
+    .session-title {
+      font-size: 0.88rem;
+    }
+
+    .session-subtitle {
+      font-size: 0.75rem;
+    }
+  }
+
+  /* Desktop: Large screens (1025px+) */
+  @media (min-width: 1025px) {
+    .schedule-table-wrapper {
+      --schedule-slot-height: 108px;
+    }
+  }
+</style>
+
+<div class="schedule-table-wrapper">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>Time</th>
+        {% for day in schedule.days %}
+        <th>
+          {{ day.day }}<br>
+          <small>{{ day.date | date: "%d/%m/%y" }}</small>
+        </th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for time_slot in schedule.time_slots %}
+      <tr>
+        <td class="time-cell">{{ time_slot.slot }}</td>
+        {% assign slot_minutes = time_slot.minutes | default: 90 %}
+        {% for day in schedule.days %}
+        <td class="session-cell">
+          {% assign sessions_in_slot = day.sessions | where: "time_slot", time_slot.slot %}
+          {% assign inner_classes = "session-cell-inner" %}
+          {% if sessions_in_slot.size > 1 %}{% assign inner_classes = inner_classes | append: " has-multiple-sessions" %}{% endif %}
+          <div class="{{ inner_classes }}" style="height: calc(var(--schedule-slot-height) * {{ slot_minutes }} / 90);">
+          {% for session in sessions_in_slot %}
+            <div class="session-stack-item">
+            {% if session.speaker_id %}
+              {% assign speaker = all_speakers | where: "id", session.speaker_id | first %}
+              {% if speaker %}
+                {% assign theme_class = "" %}
+                {% assign session_topic = speaker.topic %}
+                {% if session.theme %}{% assign theme_class = " theme-" | append: session.theme %}{% endif %}
+                <a href="{{ site.baseurl }}/speakers/#{{ speaker.id }}" class="session session-{{ session.session_type }}{{ theme_class }}" title="{{ speaker.name }}">
+                  <div class="session-title">{{ session.title }}</div>
+                  {% if session_topic %}<div class="session-subtitle">{{ session_topic }}</div>{% endif %}
+                </a>
+              {% else %}
+                <div class="session session-{{ session.session_type }}">
+                  <div class="session-title">{{ session.title }}</div>
+                </div>
+              {% endif %}
+            {% else %}
+              {% assign session_type_class = session.session_type | downcase | replace: " ", "-" %}
+              {% assign session_classes = "session session-" | append: session_type_class %}
+              {% if session.link %}
+                {% assign session_href = session.link %}
+                {% unless session_href contains "://" or session_href contains "mailto:" %}
+                  {% assign session_href = site.baseurl | append: session.link %}
+                {% endunless %}
+                <a href="{{ session_href }}" class="{{ session_classes }}" {% if session.link_title %}title="{{ session.link_title }}"{% endif %}>
+                  <div class="session-title">{{ session.title }}</div>
+                </a>
+              {% else %}
+                <div class="{{ session_classes }}">
+                  <div class="session-title">{{ session.title }}</div>
+                </div>
+              {% endif %}
+            {% endif %}
+            </div>
+          {% endfor %}
+          </div>
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<!-- Theme Legend -->
+<div style="margin-top: 2rem; padding: 1.5rem; background-color: #f9f9f9; border-radius: 4px;">
+  <h4>Programme Themes</h4>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+    <div style="padding: 1rem; background-color: #d8edd2; border: 1px solid #2d5d1f; border-radius: 4px;">
+      <strong>Theme 1:</strong> Image and Video Synthesis and Understanding
+    </div>
+    <div style="padding: 1rem; background-color: #f7e4c5; border: 1px solid #b8860b; border-radius: 4px;">
+      <strong>Theme 2:</strong> 3D, Geometry, and Physical Understanding
+    </div>
+    <div style="padding: 1rem; background-color: #d7e9fb; border: 1px solid #1f5a8d; border-radius: 4px;">
+      <strong>Theme 3:</strong> Vision for X
+    </div>
+    <div style="padding: 1rem; background-color: #f8d9d8; border: 1px solid #b54a45; border-radius: 4px;">
+      <strong>Theme 4:</strong> Multimodal Learning, Vision, Language and Reasoning
+    </div>
+  </div>
+</div>

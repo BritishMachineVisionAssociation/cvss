@@ -5,7 +5,14 @@ permalink: /programme/schedule/
 index: 0
 ---
 
-The CVSS 2025 programme will consist of a series of keynote lectures and  hands-on lab sessions covering a wide range of topics in computer vision. The programme is designed to provide attendees with both theoretical knowledge and practical skills in the field. The core themes which drive the programme are outlined below:
+
+
+## Schedule
+
+The CVSS 2025 programme will consist of a series of keynote lectures and  hands-on lab sessions covering a wide range of topics in computer vision. The programme is designed to provide attendees with both theoretical knowledge and practical skills in the field.
+{% include schedule_table.html schedule_data=site.data.schedule_2026 speakers=site.data.programme.keynotes %}
+
+The core themes which drive the programme are outlined below:
 
 #### Theme 1: Image and Video Synthesis
 
@@ -29,7 +36,7 @@ Scene analysis and understanding (layout, objects, relationships, affordances, p
 
 #### Theme 3: Vision for X
 
-Computer vision for robotics (perception for manipulation, navigation, inspection)
+Computer vision for robotics (conperception for manipulation, navigation, inspection)
 Embodied vision (active perception, agent learning, simulation and sim2real)
 Autonomous driving (detection, tracking, occupancy, scene understanding, robustness)
 Video: low-level analysis, motion and tracking (temporal modelling, event understanding)
@@ -43,8 +50,3 @@ Vision-language models and grounding (captioning, VQA, referring expressions, pr
 Reasoning and agentic multimodal systems (tool use, planning, compositional reasoning over images/video)
 Transfer / low-shot / continual / long-tail learning (domain shift, adaptation, incremental learning, data imbalance)
 Self-, semi-, meta- and unsupervised learning (self-supervised pretraining, weak supervision, meta-learning)
-
-
-<img src="{{ site.baseurl }}/assets/images/timetable.png" class="img-fluid" style="max-width: 100%;">
-
-<!--  -->
