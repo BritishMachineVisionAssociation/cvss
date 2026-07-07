@@ -166,7 +166,7 @@ days:
         theme: 4
 
       - time_slot: "Evening"
-        title: "Dinner <br /> (19:30-23:00)"
+        title: "Dinner <br /> (19:00-21:00)"
         session_type: dinner
         link: /attending/dinner/
         speaker: null
