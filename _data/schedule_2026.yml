@@ -24,7 +24,7 @@ time_slots:
     minutes: 90
   - slot: "17:30 - 19:00"
     minutes: 90
-  - slot: "19:00 - 21:00"
+  - slot: "Evening"
     minutes: 120
 
 # Days and their sessions
@@ -119,8 +119,8 @@ days:
         session_type: keynote
         theme: 2
 
-      - time_slot: "19:00 - 21:00"
-        title: "Social: Durham Cathedral"
+      - time_slot: "Evening"
+        title: "Social: Durham Cathedral<br /> (19:00-21:00)"
         session_type: social
         link: /attending/social/
         speaker: null
@@ -165,8 +165,8 @@ days:
         session_type: keynote
         theme: 4
 
-      - time_slot: "19:00 - 21:00"
-        title: "Dinner"
+      - time_slot: "Evening"
+        title: "Dinner <br /> (19:30-23:00)"
         session_type: dinner
         link: /attending/dinner/
         speaker: null
@@ -213,8 +213,8 @@ days:
         session_type: keynote
         theme: 3
 
-      - time_slot: "19:00 - 21:00"
-        title: "Social: River Boat Cruise"
+      - time_slot: "Evening"
+        title: "Social: River Boat Cruise<br /> (19:30-23:00)"
         session_type: social
         link: /attending/social/
         speaker: null
