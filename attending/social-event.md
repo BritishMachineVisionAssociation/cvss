@@ -25,6 +25,12 @@ CVSS 2026 includes two social events:
 
 The evening opens with a private guided tour of Durham Cathedral, where expert guides will introduce its Norman architecture, soaring nave, and early rib-vaulted construction. After the tour, attendees will join a drinks reception in the Cathedral's Chapter House, with time for informal networking and conversation.
 
+As the Cathedral visit includes a tour carefully follow the below times:
+- Arrival by 19:00
+- Guided tour 19:00-20:00
+- Drinks reception 20:00-22:00 
+
+
 ### About Durham Cathedral
 Durham Cathedral, formally the Cathedral Church of Christ, Blessed Mary the Virgin and St Cuthbert of Durham, is a Church of England cathedral in the city of Durham, England. The cathedral is the seat of the bishop of Durham and is the mother church of the diocese of Durham. It also contains the shrines of the Anglo-Saxon saints Cuthbert and Bede. There are daily Church of England services at the cathedral, and it received 393,090 visitors in 2024. It is a grade I listed building and forms part of the Durham Castle and Cathedral World Heritage Site.
 
@@ -32,6 +38,7 @@ The cathedral is the successor to the Anglo-Saxon Lindisfarne Priory, which was 
 
 A substantial part of the present building was completed between 1093 and 1133, replacing the Anglo-Saxon "White Church". It is a significant example of the Romanesque architectural style, and the nave ceiling is the earliest surviving example of a pointed rib vault. The Galilee chapel was added to the west end of the cathedral in the 1170s, and the western towers built in approximately 1200. The east end was expanded in the Early English Gothic style in the 1230s, and the Perpendicular Gothic central tower was built in two stages in the fifteenth century. Important furnishings include the medieval bishop's throne and Neville screen, Prior Castell's Clock, and the seventeenth-century choir stalls and font cover installed by Bishop Cosin. Many of the monastic buildings survive; the monks' refectory now contains part of the cathedral library, which holds significant collections dating back to the sixth century.
 (Reference: https://en.wikipedia.org/wiki/Durham_Cathedral)
+
 
 ### Getting there from St Chad's College Accommodation
 The Durham Cathedral is located approximately 0.1 miles (about a 5-minute walk) from St Chad's College accommodation.
@@ -51,6 +58,7 @@ The Durham Cathedral is located approximately 1.1 miles (about a 25-minute walk)
 **Time:** 19:30 - 23:00   
 **Venue:** Prince Bishop River Cruises, Elvet Bridge, Durham DH1 3AF
 
+### What to Expect
 The Prince Bishop River Cruise offers cruises with spectacular views of historic Durham City, Cathedral, Castle and Bridges and evening cruises with a difference twelve months of the year.
 
 One hour cruises offering the best views of the Cathedral, Castle and Bridges. The Prince Bishop river cruiser is fully heated with a 150 passenger capacity, twin decks, open viewing deck, bar, toilets, and telephone.
@@ -62,6 +70,7 @@ As the boat will move timing is important, therefore carefully follow the below 
 - Sailing 20:00  
 - Finishing 23:00
 
+### Getting there from Maths and Computer Science Building at Durham University
 <iframe src="https://www.google.com/maps/embed?pb=!1m33!1m12!1m3!1d9206.234644335347!2d-1.584009429707164!3d54.7701460418649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m18!3e2!4m5!1s0x487e87dab3baaeef%3A0x449aa3c39d44f0b6!2sDepartment%20of%20Mathematical%20and%20Computing%20Sciences%2C%20Durham%20University%20Upper%20Mountjoy%20Campus%2C%20Stockton%20Road%2C%20Durham%20DH1%203LE%2C%20United%20Kingdom!3m2!1d54.763715399999995!2d-1.5721576!4m5!1s0x487e8761894aa86b%3A0xa26777877c3c04ec!2sSt%20Chad's%20College%20%E2%80%A2%20Durham%20University%2C%20North%20Bailey%2C%20Durham!3m2!1d54.7731888!2d-1.5746092999999999!4m4!1s0x487e7d89ecb30b11%3A0x6b1e0edce55e827b!3m2!1d54.7766133!2d-1.5727195999999999!5e0!3m2!1sen!2suk!4v1719479657677!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ---

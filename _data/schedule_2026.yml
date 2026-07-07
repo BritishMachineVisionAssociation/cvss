@@ -120,7 +120,7 @@ days:
         theme: 2
 
       - time_slot: "Evening"
-        title: "Social: Durham Cathedral<br /> (19:00-21:00)"
+        title: "Social: Durham Cathedral<br /> (19:00-22:00)"
         session_type: social
         link: /attending/social/
         speaker: null
@@ -166,7 +166,7 @@ days:
         theme: 4
 
       - time_slot: "Evening"
-        title: "Dinner <br /> (19:00-21:00)"
+        title: "Dinner <br /> (18:30-21:00+)"
         session_type: dinner
         link: /attending/dinner/
         speaker: null

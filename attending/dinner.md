@@ -17,3 +17,8 @@ To St Chad's from the Maths and Computer Science building:
 
 
 Address: St Chad's College 18 N Bailey, Durham DH1 3RH
+
+## Agenda
+- 18:30 Arrival & Drinks Reception
+- 19:15 Take seats for dinner
+- 19:30 Dinner served
