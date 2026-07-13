@@ -9,6 +9,11 @@ index: 4
 
 The summer school dinner will be hosted in St Chad Moulsdale Hall. Moulsdale Hall in St Chad's is a beautiful venue for hosting events. It offers a spacious and elegant setting, perfect for a summer school dinner. The hall is well-maintained and provides a comfortable atmosphere for guests to enjoy their meal. With its charming architecture and picturesque surroundings, Moulsdale Hall adds a touch of sophistication to any event held there.
 
+Dinner timing:
+- 18:30 Arrival & Drinks Reception
+- 19:15 Take seats for dinner
+- 19:30 Dinner served
+
 ## Getting there
 To St Chad's from the Maths and Computer Science building:
 
@@ -18,7 +23,3 @@ To St Chad's from the Maths and Computer Science building:
 
 Address: St Chad's College 18 N Bailey, Durham DH1 3RH
 
-## Agenda
-- 18:30 Arrival & Drinks Reception
-- 19:15 Take seats for dinner
-- 19:30 Dinner served

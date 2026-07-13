@@ -223,8 +223,8 @@ days:
     date: 2026-07-17
     sessions:
       - time_slot: "09:30 - 11:00"
-        speaker_id: keynote-13
-        title: "Samet Akcay"
+        speaker_id: keynote-14
+        title:  "Cheng Zhang"
         session_type: keynote
         theme: 4
 
@@ -234,8 +234,8 @@ days:
         speaker: null
 
       - time_slot: "11:30 - 13:00"
-        speaker_id: keynote-14
-        title: "Cheng Zhang"
+        speaker_id: keynote-13
+        title: "Samet Akcay"
         session_type: keynote
         theme: 4
 
