@@ -32,7 +32,7 @@
     searchIndex.push({
       title: {{ page.title | jsonify }},
       url: {{ page.url | jsonify }},
-      excerpt: {{ page.excerpt | strip_html | normalize_whitespace | truncatewords: 20 | jsonify }},
+      excerpt: {{ page.content | strip_html | normalize_whitespace | truncatewords: 20 | jsonify }},
       type: "page"
     });
     {% endif %}
@@ -81,6 +81,19 @@
     excerpt: {{ person.job | default: "BMVA" | jsonify }},
     type: "people"
   });
+  {% endfor %}
+
+  {% for day in site.data.schedule_2026.days %}
+    {% for session in day.sessions %}
+      {% unless session.session_type == "break" %}
+      searchIndex.push({
+        title: {{ session.title | strip_html | jsonify }},
+        url: "/programme/schedule/",
+        excerpt: {{ day.day | append: " " | append: session.time_slot | jsonify }},
+        type: "schedule"
+      });
+      {% endunless %}
+    {% endfor %}
   {% endfor %}
 
   var searchInput = document.getElementById('globalSearchInput');
@@ -146,6 +159,9 @@
       } else if (page.type === 'people') {
         badgeColor = 'badge-success';
         badgeText = 'People';
+      } else if (page.type === 'schedule') {
+        badgeColor = 'badge-primary';
+        badgeText = 'Schedule';
       }
       
       html += '<li class="list-group-item"><a href="' + url + '" class="global-search-result-link">' +

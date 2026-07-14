@@ -172,7 +172,7 @@ days:
         speaker: null
 
       - time_slot: "Evening"
-        title: "World Cup Showing <br /> (20:00-21:00+) in St Chad's College Quad"
+        title: "World Cup Showing <br /> (20:00+) in St Chad's College Quad"
         session_type: dinner
         link: /attending/dinner/
         speaker: null
