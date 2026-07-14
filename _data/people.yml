@@ -74,8 +74,8 @@ helpers:
     img: /assets/images/mugshots/helpers/kaining_yao.jpg
     job: PhD Student @ Durham University
 
-  - name: Kaining Yao
-    img: /assets/images/mugshots/helpers/kaining_yao.jpg
+  - name: Jin Meng
+    img: /assets/images/mugshots/helpers/jin_meng.jpg
     job: PhD Student @ Durham University
 
   - name: Guodong Shen
@@ -85,6 +85,11 @@ helpers:
   - name: Enego Comley
     img: /assets/images/mugshots/helpers/enego_comley.jpg
     job:  MRes Student @ Durham University
+
+  - name: Wenke E.
+    img: /assets/images/mugshots/helpers/wenke_e.jpeg
+    job:  Post Doctoral Research Associate
+
 
 
 
