@@ -35,7 +35,7 @@ keynotes:
   - name: Dr Tanaya Guha
     id: keynote-05
     img: /assets/images/mugshots/tanaya-guha.jpg
-    url: "https://www.durham.ac.uk/staff/tanaya-guha/"
+    url: "https://www.tanayag.com/"
     bio: "Dr Tanaya Guha is a Senior Lecturer of Computing Science at University of Glasgow, where she is a founding member of the Social AI group. Her research focuses on developing socially intelligent systems that can recognize, model and generate human behaviour in social context combining Deep Learning, Computer Vision, and Signal/Speech Processing. She has published over 80 research articles, mostly in leading venues. She serves in the Editorial Boards of IEEE Transactions on Multimedia, Nature Scientific Reports and IEEE Pervasive Computing. She was a Program Chair for British Machine Vision Conference (BMVC) 2024 and ACM International Conference on Multimodal Interaction (ICMI) 2025."
     topic: "Multimodal Understanding of Social Interactions"
     job: University of Glasgow
