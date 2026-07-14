@@ -15,7 +15,7 @@ Dinner timing:
 - 18:30 Dinner served
 
 ### World Cup Showing
-We will be showing the World Cup Semi-Final, England vs Argentina in the St Chad's College Quad from 20:00.
+We will be showing the World Cup Semi-Final, England vs Argentina, in the St Chad's College Quad from 20:00.
 
 ## Getting there
 To St Chad's from the Maths and Computer Science building:
