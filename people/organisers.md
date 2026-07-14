@@ -57,7 +57,9 @@ index: 0
 {% for person in helper_list %}
     <div class="col-sm-12 col-md-3 col-lg-2">
         <div class="text-center">
-            <img src="{{ site.baseurl }}{{ person.img }}" class="rounded-circle img-fluid" style="max-width: 125px;">
+            <div style="width: 125px; height: 125px; margin: 0 auto; border-radius: 50%; overflow: hidden;">
+                <img src="{{ site.baseurl }}{{ person.img }}" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
             <h4 class="pt-2">{{ person.name }}</h4>
             <p class="pb-2">{{ person.job }}</p>
         </div>

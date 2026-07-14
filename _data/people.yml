@@ -62,6 +62,32 @@ bmva:
 
 
 helpers:
+  - name: Mingshen Li
+    img: /assets/images/mugshots/helpers/mingshen_li.jpg
+    job: PhD Student @ Durham University
+
+  - name: Zhefei Meng
+    img: /assets/images/mugshots/helpers/zhefei_meng.jpg
+    job: PhD Student @ Durham University
+
+  - name: Kaining Yao
+    img: /assets/images/mugshots/helpers/kaining_yao.jpg
+    job: PhD Student @ Durham University
+
+  - name: Kaining Yao
+    img: /assets/images/mugshots/helpers/kaining_yao.jpg
+    job: PhD Student @ Durham University
+
+  - name: Guodong Shen
+    img: /assets/images/mugshots/helpers/guodong_shen.jpg
+    job:  KTP Associate in Machine Learning
+
+  - name: Enego Comley
+    img: /assets/images/mugshots/helpers/enego_comley.jpg
+    job:  MRes Student @ Durham University
+
+
+
   # - name: Shuang (Chris) Chen
   #   img: /assets/images/mugshots/helpers/shuang_chen.jpg
   #   job: PhD Student @ Durham University
