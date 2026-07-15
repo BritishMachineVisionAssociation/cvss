@@ -90,6 +90,14 @@ helpers:
     img: /assets/images/mugshots/helpers/wenke_e.jpeg
     job:  Post Doctoral Research Associate
 
+  - name: Tristan Wilkinson
+    img: /assets/images/mugshots/helpers/tristan_wilkinson.jpeg
+    job: PhD Student @ Durham University
+
+  - name: Zikai Zhang
+    img: /assets/images/mugshots/helpers/zikai_zhang.jpg
+    job: PhD Student @ Durham University
+
 
 
 
