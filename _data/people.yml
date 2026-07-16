@@ -62,15 +62,15 @@ bmva:
 
 
 helpers:
-  - name: Mingshen Li
+  - name: Mr Mingshen Li
     img: /assets/images/mugshots/helpers/mingshen_li.jpg
     job: PhD Student @ Durham University
 
-  - name: Zhefei Meng
+  - name: Mr Zhefei Meng
     img: /assets/images/mugshots/helpers/zhefei_meng.jpg
     job: PhD Student @ Durham University
 
-  - name: Kaining Yao
+  - name: Mr Kaining Yao
     img: /assets/images/mugshots/helpers/kaining_yao.jpg
     job: PhD Student @ Durham University
 
@@ -82,7 +82,7 @@ helpers:
     img: /assets/images/mugshots/helpers/guodong_shen.jpg
     job:  KTP Associate in Machine Learning
 
-  - name: Enego Comley
+  - name: Mr Enego Comley
     img: /assets/images/mugshots/helpers/enego_comley.jpg
     job:  MRes Student @ Durham University
 
@@ -90,19 +90,19 @@ helpers:
     img: /assets/images/mugshots/helpers/wenke_e.jpeg
     job:  Post Doctoral Research Associate
 
-  - name: Tristan Wilkinson
+  - name: Mr Tristan Wilkinson
     img: /assets/images/mugshots/helpers/tristan_wilkinson.jpeg
     job: PhD Student @ Durham University
 
-  - name: Zikai Zhang
+  - name: Mr Zikai Zhang
     img: /assets/images/mugshots/helpers/zikai_zhang.jpg
     job: PhD Student @ Durham University
 
-  - name: Jiangtao Fan
+  - name: Mr Jiangtao Fan
     img: /assets/images/mugshots/helpers/jiangtao_fan.jpg
     job: PhD Student @ Durham University
 
-  - name: Jiaying Li
+  - name: Mr Jiaying Li
     img: /assets/images/mugshots/helpers/jiaying_li.jpg
     job: PhD Student @ Durham University
 
