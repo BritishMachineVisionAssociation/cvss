@@ -1,21 +1,21 @@
 chairs:
-  - name: Amir Atapour-Abarghouei
+  - name: Dr Amir Atapour-Abarghouei
     img: /assets/images/mugshots/amir_atapour-abarghouei.png
     url: "http://www.atapour.co.uk"
     job: Chair
-  - name: Cuong V. Nguyen
+  - name: Dr Cuong V. Nguyen
     img: /assets/images/mugshots/Cuong_V_Nguyen.jpg
     url: "https://nvcuong.github.io/"
     job: Co-Chair
-  - name: Nikos Mavrakis
+  - name: Dr Nikos Mavrakis
     img: /assets/images/mugshots/Nikos_Mavrakis.jpeg
     url: "https://www.durham.ac.uk/staff/nikolaos-mavrakis/"
     job: Co-Chair
-  - name: Stuart James
+  - name: Dr Stuart James
     img: /assets/images/mugshots/stuart_james.png
     url: "https://stuart-james.com"
     job: Co-Chair
-  - name: Ulrik Beierholm
+  - name: Prof. Ulrik Beierholm
     img: /assets/images/mugshots/ulrik_r_beierholm.jpg
     url: "https://sites.google.com/site/beierh/"
     job: Co-Chair
@@ -36,26 +36,26 @@ organisers:
   #   img: /assets/images/mugshots/miles-everett.jpeg
   #   url: "https://www.abdn.ac.uk/people/miles.everett"
   #   job: Co-Chair
-  - name: Georgios Leontidis
+  - name: Prof. Georgios Leontidis
     img: /assets/images/mugshots/georgios-leontidis.jpeg
     url: "https://www.abdn.ac.uk/people/georgios.leontidis"
     job: Co-Chair
-  - name: Aiden Durrant
+  - name: Dr Aiden Durrant
     img: /assets/images/mugshots/aiden-durrant.jpeg
     url: "https://www.abdn.ac.uk/people/aiden.durrant"
     job: Co-Chair
-  - name: Carlos Moreno-Garcia
+  - name: Dr Carlos Moreno-Garcia
     img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
     url: "https://cfmgcomputing.blogspot.com/p/home.html"
     job: Co-Chair
 
 bmva:
-  - name: Toby Breckon
+  - name: Prof. Toby Breckon
     img: /assets/images/mugshots/toby_breckon.jpg
     url: "https://www.durham.ac.uk/staff/toby-breckon/"
     job: Treasurer
 
-  - name: Andrew Gilbert
+  - name: Dr Andrew Gilbert
     img: /assets/images/mugshots/andrew_gilbert.jpg
     url: "https://www.surrey.ac.uk/people/andrew-gilbert"
     job: Payments Master General
@@ -78,7 +78,7 @@ helpers:
     img: /assets/images/mugshots/helpers/jin_meng.jpg
     job: PhD Student @ Durham University
 
-  - name: Guodong Shen
+  - name: Dr Guodong Shen
     img: /assets/images/mugshots/helpers/guodong_shen.jpg
     job:  KTP Associate in Machine Learning
 
@@ -86,7 +86,7 @@ helpers:
     img: /assets/images/mugshots/helpers/enego_comley.jpg
     job:  MRes Student @ Durham University
 
-  - name: Wenke E.
+  - name: Dr Wenke E.
     img: /assets/images/mugshots/helpers/wenke_e.jpeg
     job:  Post Doctoral Research Associate
 
