@@ -30,6 +30,9 @@ We know you might have lots of questions. Therefore, we have tried to provide as
 	</div>
 </div> -->
 
+## Computer Vision Summer School 2026 Group Photo
+<img src="{{ site.baseurl }}/assets/images/events/cvss-26/group_photo.JPG" class="img-fluid" style="max-width: 100%;">
+
 ## Programme
 
 This year's CVSS will be held over five days with a intensive program of oral talks each day.
