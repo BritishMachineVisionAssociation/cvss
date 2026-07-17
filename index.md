@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default_sidebar
+layout: default
 title: Home
 ---
 
@@ -50,4 +50,4 @@ Please see the [schedule]({{site.baseurl}}{% link programme/schedule.md %}) for 
 </div>
 
 
-<img src="{{ site.baseurl }}/assets/images/venue/86156.png" class="img-fluid" style="max-width: 100%;">
+<!-- <img src="{{ site.baseurl }}/assets/images/venue/86156.png" class="img-fluid center" style="max-width: 50%;"> -->
