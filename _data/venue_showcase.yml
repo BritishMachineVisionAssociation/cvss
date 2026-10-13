@@ -1,18 +1,12 @@
 images:
-  - url: /assets/images/venue/86153.png
-    alt: "Durham University"
+  - url: /assets/images/venue/rgu/campus_aerial.png
+    alt: "Aerial view of Robert Gordon University's Garthdee campus beside the River Dee"
     focus: "active"
-  - url: /assets/images/venue/Durham_Aerial.jpg
-    alt: "Durham"
-  - url: /assets/images/venue/86154.png
-    alt: "Durham University"
-  - url: /assets/images/venue/86156.png
-    alt: "Durham University"
-  - url: /assets/images/venue/Durham_CS.jpg
-    alt: "Durham University Computer Science"
-  - url: /assets/images/venue/86157.png
-    alt: "Durham University"
-  - url: /assets/images/venue/86164.png
-    alt: "Durham University"
-  - url: /assets/images/venue/Durham_CS2.jpg
-    alt: "Durham"
+  - url: /assets/images/venue/rgu/campus_siwb.jpg
+    alt: "The Sir Ian Wood Building at Robert Gordon University in autumn"
+  - url: /assets/images/venue/rgu/campus_siwb_indoors.jpg
+    alt: "The bright atrium inside the Sir Ian Wood Building"
+  - url: /assets/images/venue/rgu/campus_igb.jpg
+    alt: "The Ishbel Gordon building at Robert Gordon University in autumn"
+  - url: /assets/images/venue/rgu/campus_nature.png
+    alt: "Tree-lined parkland on the Garthdee campus in autumn"
