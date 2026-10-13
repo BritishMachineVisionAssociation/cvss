@@ -15,7 +15,7 @@ In addition to the academic content, the Summer School provides a networking opp
 
 <hr />
 <!-- TODO: Add in Aberdeen Blurb -->
-
+Robert Gordon University is located in Aberdeen in the North East of Scotland. The Garthdee campus sits on the banks of the River Dee, and is a short bus or taxi ride from the city centre. Aberdeen, known as the "Granite City" for its distinctive silver-grey buildings, combines a historic city centre and old town with a long sandy beach and easy access to the Highlands and Royal Deeside. The city is well connected, with the Aberdeen International Airport which serves both domestic and international flights, as well as direct trains which connect to Edinburgh and Glasgow (around 2½ hours) as well as long-distance trains to London. 
 <!-- Durham University is situated about twenty miles south-west of Newcastle in the North East of England. A number of train operators offer direct and regular routes to Durham Railway Station, including London and Edinburgh. Durham is around 3 hours from London, just over 3 hours from Birmingham, 2½ hours from Manchester, 1½ hours from Edinburgh and 45 minutes from York. Durham University is an internationally renowned university based across Durham that provides top-quality academic, social and cultural facilities to over 20,000 students.  -->
 
 {% if site.data.programme.keynotes %}
