@@ -31,11 +31,11 @@ formattd-edition: 30<sup>th</sup>
 brand: CVSS&thinsp;2027
 short-title: "CVSS 2027"
 host-name: Robert Gordon University
-host-name-city: Abderdeen, England, UK
+host-name-city: Aberdeen, Scotland, UK
 conf_year: 2027
 email: bmva-cvss@durham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the 30<sup>th</sup> BMVA Computer Vision Summer School 2027, 7<sup>th</sup> - 11<sup>th</sup> July 2027.
+  The website for the 30<sup>th</sup> BMVA Computer Vision Summer School 2027, 12<sup>th</sup> - 16<sup>th</sup> July 2027.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
 #url: "https://britishmachinevisionassociation.github.io" #"http://cs.bath.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/"
