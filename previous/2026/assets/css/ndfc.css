@@ -1,0 +1,564 @@
+
+/* Fix for header offset on anchors.. */
+/*[id]::before {
+  content: '';
+  display: block;
+  height:      175px;
+  margin-top: -175px;
+  visibility: hidden;
+}*/
+/*:target::before {
+    content: '';
+    display: block;
+    height:      180px;
+    margin-top: -180px;
+}*/
+a.anchor { display: block; position: relative; top: -150px; visibility: hidden; }
+
+.ndfc-brand {
+	color: #68246D;/*#555676; /*#EF8232;*/ /*Dark colour - 7F004B*/
+}
+
+a {
+	color: #68246D;/*#7b4dcd; /*#6293A6;/*#6DB3E4;*/
+}
+
+a:hover {
+	color: #DC0082;/*#555676; /*#3D5B67;/*#3D5B67;*/
+}
+
+/*
+Nice bright orange: EF8232 ; 
+Nice cyan: 77B3CA ;
+
+a
+6DB3E4
+3D5B67
+
+cyan getting darker as you go down..
+6DB3E4
+6293A6
+4C7180
+3D5B67
+
+tf dkblue
+2F508A
+445064
+*/
+
+/* Decrease heading sizes */
+@media (max-width: 575.98px) {
+	h1, h2, h3 { text-align: center; }
+	h1 { font-size: 2rem; }
+	h2 { font-size: 1.75rem; }
+	h3 { font-size: 1.5rem; }	
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+	h1 { font-size: 2rem; }
+	h2 { font-size: 1.75rem; }
+	h3 { font-size: 1.5rem; }	
+}
+
+/* Sticky footer START */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 130px;
+}
+@media (max-width: 575.98px) {
+	body {
+	  /* Margin bottom by footer height */
+	  margin-bottom: 280px;
+	}	
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+	body {
+	  /* Margin bottom by footer height */
+	  margin-bottom: 180px;
+	}	
+}	
+@media (min-width: 768px) and (max-width: 991.98px) {
+	body {
+	  /* Margin bottom by footer height */
+	  margin-bottom: 160px;
+	}	
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  /* Set the fixed height of the footer here */
+  min-height: 100px;
+  /*height: auto;*/
+  /*line-height: 60px; /* Vertically center the text there */
+  /*background-color: #f5f5f5;*/
+}
+.footer-row {
+	min-height: 100px;
+	/*background-color: #f5f5f5;*/
+}
+/* Sticky footer END */
+
+
+/* Hover effects for group page! 
+   https://www.w3schools.com/howto/howto_css_image_overlay.asp
+ */
+.hovereffect {
+  position: relative;
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #6293A6; /*#008CBA;*/
+}
+
+.hovereffect:hover .overlay {
+  opacity: 0.9;
+}
+
+.overlay-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 1;
+  font-weight: bold;
+}
+
+
+/* YouTube Embed */
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; 
+margin-bottom: 30px; 
+height: 0; 
+overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+/* Schedule table styles */
+.schedule-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 2rem 0;
+  --schedule-slot-height: 108px;
+}
+
+.schedule-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  background: white;
+  font-size: 0.95rem;
+}
+
+.schedule-table th:first-child {
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+}
+
+.schedule-table th {
+  background-color: #999;
+  color: white;
+  padding: 0.75rem;
+  text-align: center;
+  font-weight: 600;
+  border: 1px solid #ccc;
+}
+
+.schedule-table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.schedule-table td.session-cell {
+  padding: 0;
+  vertical-align: top;
+}
+
+.session-cell-inner {
+  height: var(--schedule-slot-height);
+  min-height: 42px;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.session-stack-item {
+  flex: 1 1 0;
+  min-height: 0;
+  display: flex;
+}
+
+.session-cell-inner.has-multiple-sessions .session {
+  padding: 0.45rem;
+}
+
+.session-cell-inner.has-multiple-sessions .session-subtitle {
+  display: none;
+}
+
+.time-cell {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+}
+
+.session {
+  padding: 0.75rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+a.session {
+  color: inherit;
+}
+
+a.session:hover {
+  text-decoration: none;
+  filter: brightness(0.95);
+}
+
+.session-keynote {
+  background-color: #e8e8e8;
+  color: #333;
+  border: 1px solid #999;
+}
+
+.session-keynote.theme-1 {
+  background-color: #d8edd2;
+  border-color: #2d5d1f;
+}
+
+.session-keynote.theme-2 {
+  background-color: #f7e4c5;
+  border-color: #b8860b;
+}
+
+.session-keynote.theme-3 {
+  background-color: #d7e9fb;
+  border-color: #1f5a8d;
+}
+
+.session-keynote.theme-4 {
+  background-color: #f8d9d8;
+  border-color: #b54a45;
+}
+
+.session-practical {
+  background-color: #e8e8e8;
+  color: #333;
+  border: 1px solid #ccc;
+}
+
+.session-coffee,
+.session-lunch {
+  background-color: #d4a574;
+  color: #333;
+}
+
+.session-registration,
+.session-opening,
+.session-closing {
+  background-color: #9966cc;
+  color: white;
+}
+
+.session-posters {
+  background-color: #5b3a8e;
+  color: white;
+}
+
+.session-social {
+  background-color: #0f766e;
+  color: white;
+}
+
+a.session-social,
+a.session-dinner {
+  color: white !important;
+}
+
+.session-social .session-title {
+  color: white !important;
+}
+
+.session-dinner {
+  background-color: #00a9ce;
+  color: white;
+}
+
+.session-dinner .session-title {
+  color: white !important;
+}
+
+.session-special {
+  background-color: #9966cc;
+  color: white;
+}
+
+.session-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.session-subtitle {
+  font-size: 0.8rem;
+  font-style: italic;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.session-keynote .session-subtitle {
+  color: #0066cc;
+}
+
+@media (max-width: 359px) {
+  .schedule-table-wrapper {
+    --schedule-slot-height: 80px;
+    margin: 1rem 0;
+  }
+
+  .schedule-table {
+    min-width: 760px;
+    font-size: 0.75rem;
+  }
+
+  .schedule-table th {
+    padding: 0.4rem 0.2rem;
+  }
+
+  .schedule-table td {
+    padding: 0.25rem;
+  }
+
+  .time-cell {
+    width: 60px;
+    min-width: 60px;
+    max-width: 60px;
+    font-size: 0.7rem;
+  }
+
+  .schedule-table th:first-child {
+    width: 60px;
+    min-width: 60px;
+    max-width: 60px;
+  }
+
+  .session-cell-inner {
+    padding: 0.2rem;
+  }
+
+  .session {
+    padding: 0.4rem;
+  }
+
+  .session-title {
+    font-size: 0.7rem;
+  }
+
+  .session-subtitle {
+    display: none;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 480px) {
+  .schedule-table-wrapper {
+    --schedule-slot-height: 85px;
+    margin: 1rem 0;
+  }
+
+  .schedule-table {
+    min-width: 820px;
+    font-size: 0.8rem;
+  }
+
+  .schedule-table th {
+    padding: 0.5rem 0.3rem;
+    font-size: 0.75rem;
+  }
+
+  .schedule-table th small {
+    font-size: 0.65rem;
+    display: block;
+    margin-top: 0.2rem;
+  }
+
+  .schedule-table td {
+    padding: 0.3rem;
+  }
+
+  .time-cell {
+    width: 70px;
+    min-width: 70px;
+    max-width: 70px;
+    font-size: 0.75rem;
+    padding: 0.3rem;
+  }
+
+  .schedule-table th:first-child {
+    width: 70px;
+    min-width: 70px;
+    max-width: 70px;
+  }
+
+  .session-cell-inner {
+    padding: 0.25rem;
+  }
+
+  .session {
+    padding: 0.5rem;
+  }
+
+  .session-title {
+    font-size: 0.75rem;
+  }
+
+  .session-subtitle {
+    display: none;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .schedule-table-wrapper {
+    --schedule-slot-height: 95px;
+    margin: 1.5rem 0;
+  }
+
+  .schedule-table {
+    min-width: 900px;
+    font-size: 0.88rem;
+  }
+
+  .schedule-table th {
+    padding: 0.6rem;
+    font-size: 0.85rem;
+  }
+
+  .schedule-table th small {
+    font-size: 0.72rem;
+  }
+
+  .schedule-table td {
+    padding: 0.4rem;
+  }
+
+  .time-cell {
+    width: 90px;
+    min-width: 90px;
+    max-width: 90px;
+    font-size: 0.82rem;
+  }
+
+  .schedule-table th:first-child {
+    width: 90px;
+    min-width: 90px;
+    max-width: 90px;
+  }
+
+  .session-cell-inner {
+    padding: 0.35rem;
+  }
+
+  .session {
+    padding: 0.6rem;
+  }
+
+  .session-title {
+    font-size: 0.82rem;
+  }
+
+  .session-subtitle {
+    display: none;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .schedule-table-wrapper {
+    --schedule-slot-height: 100px;
+    margin: 1.5rem 0;
+  }
+
+  .schedule-table {
+    font-size: 0.9rem;
+  }
+
+  .time-cell {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+  }
+
+  .schedule-table th:first-child {
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+  }
+
+  .session-title {
+    font-size: 0.88rem;
+  }
+
+  .session-subtitle {
+    font-size: 0.75rem;
+  }
+}
+
+@media (min-width: 1025px) {
+  .schedule-table-wrapper {
+    --schedule-slot-height: 108px;
+  }
+}
+
+.tag{
+  margin: 0.2em;
+  text-align: center;
+}

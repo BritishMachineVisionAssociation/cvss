@@ -1,53 +1,18 @@
 chairs:
-  - name: Dr Amir Atapour-Abarghouei
-    img: /assets/images/mugshots/amir_atapour-abarghouei.png
-    url: "http://www.atapour.co.uk"
-    job: Chair
-  - name: Dr Cuong V. Nguyen
-    img: /assets/images/mugshots/Cuong_V_Nguyen.jpg
-    url: "https://nvcuong.github.io/"
-    job: Co-Chair
-  - name: Dr Nikos Mavrakis
-    img: /assets/images/mugshots/Nikos_Mavrakis.jpeg
-    url: "https://www.durham.ac.uk/staff/nikolaos-mavrakis/"
-    job: Co-Chair
-  - name: Dr Stuart James
-    img: /assets/images/mugshots/stuart_james.png
-    url: "https://stuart-james.com"
-    job: Co-Chair
-  - name: Prof. Ulrik Beierholm
-    img: /assets/images/mugshots/ulrik_r_beierholm.jpg
-    url: "https://sites.google.com/site/beierh/"
-    job: Co-Chair
-
-
-
-organisers:
-
-  # - name: Tryphon Lambrou
-  #   img: /assets/images/mugshots/tryphon-lambrou.jpeg
-  #   url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
-  #   job: Co-Chair
-  # - name: Pam Johnston
-  #   img: /assets/images/mugshots/pam-johnston.jpeg
-  #   url: "https://rgu-repository.worktribe.com/person/355897/pam-johnston"
-  #   job: Co-Chair
-  # - name: Miles Everett
-  #   img: /assets/images/mugshots/miles-everett.jpeg
-  #   url: "https://www.abdn.ac.uk/people/miles.everett"
-  #   job: Co-Chair
-  - name: Prof. Georgios Leontidis
-    img: /assets/images/mugshots/georgios-leontidis.jpeg
-    url: "https://www.abdn.ac.uk/people/georgios.leontidis"
-    job: Co-Chair
-  - name: Dr Aiden Durrant
-    img: /assets/images/mugshots/aiden-durrant.jpeg
-    url: "https://www.abdn.ac.uk/people/aiden.durrant"
-    job: Co-Chair
   - name: Dr Carlos Moreno-Garcia
     img: /assets/images/mugshots/carlos-moreno-garcia.jpeg
     url: "https://cfmgcomputing.blogspot.com/p/home.html"
     job: Co-Chair
+
+  - name: Tryphon Lambrou
+    img: /assets/images/mugshots/tryphon-lambrou.jpeg
+    url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
+    job: Co-Chair
+
+organisers:
+
+
+
 
 bmva:
   - name: Prof. Toby Breckon
@@ -62,49 +27,7 @@ bmva:
 
 
 helpers:
-  - name: Mr Mingshen Li
-    img: /assets/images/mugshots/helpers/mingshen_li.jpg
-    job: PhD Student @ Durham University
 
-  - name: Mr Zhefei Meng
-    img: /assets/images/mugshots/helpers/zhefei_meng.jpg
-    job: PhD Student @ Durham University
-
-  - name: Mr Kaining Yao
-    img: /assets/images/mugshots/helpers/kaining_yao.jpg
-    job: PhD Student @ Durham University
-
-  - name: Jin Meng
-    img: /assets/images/mugshots/helpers/jin_meng.jpg
-    job: PhD Student @ Durham University
-
-  - name: Dr Guodong Shen
-    img: /assets/images/mugshots/helpers/guodong_shen.jpg
-    job:  KTP Associate in Machine Learning
-
-  - name: Mr Enego Comley
-    img: /assets/images/mugshots/helpers/enego_comley.jpg
-    job:  MRes Student @ Durham University
-
-  - name: Dr Wenke E.
-    img: /assets/images/mugshots/helpers/wenke_e.jpeg
-    job:  Post Doctoral Research Associate
-
-  - name: Mr Tristan Wilkinson
-    img: /assets/images/mugshots/helpers/tristan_wilkinson.jpeg
-    job: PhD Student @ Durham University
-
-  - name: Mr Zikai Zhang
-    img: /assets/images/mugshots/helpers/zikai_zhang.jpg
-    job: PhD Student @ Durham University
-
-  - name: Mr Jiangtao Fan
-    img: /assets/images/mugshots/helpers/jiangtao_fan.jpg
-    job: PhD Student @ Durham University
-
-  - name: Mr Jiaying Li
-    img: /assets/images/mugshots/helpers/jiaying_li.jpg
-    job: PhD Student @ Durham University
 
 
 

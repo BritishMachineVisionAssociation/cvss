@@ -4,7 +4,11 @@ title: Social Events
 permalink: /attending/social/
 index: 3
 ---
-## Social Events at a Glance
+
+TBA
+
+
+<!-- ## Social Events at a Glance
 
 CVSS 2026 includes two social events:
 
@@ -78,4 +82,4 @@ As the boat will move timing is important, therefore carefully follow the below 
 
 {% include event_social_carousel.html %}
 
-Images and content courtesy of Prince Bishop River Cruiser and Browns Rowing Boats and Durham Cathedral. This is Durham.
+Images and content courtesy of Prince Bishop River Cruiser and Browns Rowing Boats and Durham Cathedral. This is Durham. -->

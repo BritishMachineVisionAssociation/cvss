@@ -5,8 +5,9 @@ permalink: /attending/location/
 index: 1
 ---
 
+TBA
 
-# Directions
+<!-- # Directions
 
 
 <div class="accordion" id="accordionExample">
@@ -241,4 +242,4 @@ The historic city of Durham is compact, yet varied. Easy to get around, it offer
 
 <hr />
 
-{% include venue_carousel.html %}
+{% include venue_carousel.html %} -->

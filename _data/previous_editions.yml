@@ -1,4 +1,10 @@
 editions:
+  - year: 2026
+    title: "CVSS 2026"
+    formatted-title: "CVSS 2026"
+    host-name: "Durham University"
+    description: "The website for the 29<sup>th</sup> BMVA Computer Vision Summer School 2026, 13<sup>th</sup> - 17<sup>th</sup> July 2026."
+    url: "https://cvss.bmva.org/previous/2026/"
   - year: 2025
     title: "CVSS 2025"
     formatted-title: "CVSS 2025"

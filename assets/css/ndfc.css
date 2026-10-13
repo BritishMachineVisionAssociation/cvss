@@ -557,3 +557,8 @@ a.session-dinner {
     --schedule-slot-height: 108px;
   }
 }
+
+.tag{
+  margin: 0.2em;
+  text-align: center;
+}

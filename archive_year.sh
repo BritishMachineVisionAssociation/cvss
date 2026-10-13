@@ -26,6 +26,19 @@ cp "$CONFIG_FILE" "${CONFIG_FILE}.bak"
 # Mac
 sed -i '' "s|^baseurl:.*|baseurl: /$PREV_DIR/$conf_year|" "$CONFIG_FILE"
 
+# jekyll build has no --exclude flag, so add entries to the config's exclude list instead
+awk -v prev="$PREV_DIR" '
+  { print }
+  /^exclude:/ && !done {
+    print "  - " prev
+    print "  - README"
+    print "  - archive_year.sh"
+    print "  - CNAME"
+    print "  - google7c42f887f4801f47.html"
+    done=1
+  }
+' "$CONFIG_FILE" > "$CONFIG_FILE.tmp" && mv "$CONFIG_FILE.tmp" "$CONFIG_FILE"
+
 # Create the output directory using conf_year
 OUTPUT_DIR="$PREV_DIR/$conf_year"
 mkdir -p "$OUTPUT_DIR"

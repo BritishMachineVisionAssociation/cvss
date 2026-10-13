@@ -7,6 +7,6 @@ index: 4
 
 TBA
 
-<hr />
+<!-- <hr />
 
-{% include venue_carousel.html %}
+{% include venue_carousel.html %} -->

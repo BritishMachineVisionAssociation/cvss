@@ -5,7 +5,9 @@ permalink: /attending/accommodation/
 index: 2
 ---
 
-The main accommodation for the {{ site.brand }} is provided by St Chad's College\*. At St Chad’s they pride themselves on their friendly, welcoming and attentive service.
+TBA
+
+<!-- The main accommodation for the {{ site.brand }} is provided by St Chad's College\*. At St Chad’s they pride themselves on their friendly, welcoming and attentive service.
 
 [![St Chad's Logo](/assets/images/venue/st_chads_logo.png){: width="50%"}](https://www.stchads.ac.uk)
 
@@ -24,4 +26,4 @@ Breakfast is served in the Moulsdale Hall from 08:00 – 09:30. A choice of Full
 
 \* Please note the accommodation is subject to change depending on the availability of rooms and the number of attendees. The accommodation may alternatively be provided in alternative nearby venues.
 
-\*\* Information is taken from St Chad's College website https://www.stchads.ac.uk/commercial/bed-breakfast/ and is subject to change.
+\*\* Information is taken from St Chad's College website https://www.stchads.ac.uk/commercial/bed-breakfast/ and is subject to change. -->

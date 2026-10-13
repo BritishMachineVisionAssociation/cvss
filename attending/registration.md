@@ -5,7 +5,9 @@ permalink: /attending/registration/
 index: 0
 ---
 
-<div class="alert alert-danger">
+TBA
+
+<!-- <div class="alert alert-danger">
 <strong>Registration is now closed.</strong> Despite increased capacity for this year (+10% on last year, +30% on 2024 CVSS in Durham), we have already reached our maximum capacity for attendees. The event is now fully booked, therefore the only way to have a chance of attending is to be added to the waiting list, this is a fire code maximum with no flexability for specific circumstances. If you would like to be added to the waiting list, please see the information below.
 </div>
 
@@ -40,10 +42,10 @@ Early bird Industry registration until **31<sup>st</sup> May 2026**:
 - Summer School + Residential (Single Occupant Room): 830 GBP (£) -->
 
 
-<p style="text-align: center;"><a class="btn btn-primary disabled" role="button" href="{{site.payment-link}}">Register Here!</a>
+<!-- <p style="text-align: center;"><a class="btn btn-primary disabled" role="button" href="{{site.payment-link}}">Register Here!</a>
 <a class="btn btn-secondary" role="button" href="mailto:{{site.email}}">{{site.email}}</a>
 <a href="/attending/faq/" class="btn btn-secondary" role="button">Have a question? check the FAQ</a>
-</p>
+</p> --> 
 
 
 
@@ -76,4 +78,4 @@ Late registration until **30<sup>th</sup> Jun 2024**:
 
 <hr /> 
 
-{% include venue_carousel.html %}
+<!-- {% include venue_carousel.html %} -->

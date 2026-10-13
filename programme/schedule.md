@@ -5,12 +5,13 @@ permalink: /programme/schedule/
 index: 0
 ---
 
+TBA
 
-
+<!-- 
 ## Schedule
 
 The CVSS 2025 programme will consist of a series of keynote lectures and  hands-on lab sessions covering a wide range of topics in computer vision. The programme is designed to provide attendees with both theoretical knowledge and practical skills in the field.
-{% include schedule_table.html schedule_data=site.data.schedule_2026 speakers=site.data.programme.keynotes %}
+
 
 The core themes which drive the programme are outlined below:
 
@@ -49,4 +50,4 @@ Multimodal learning (vision-language, video-language, audio-visual, sensor fusio
 Vision-language models and grounding (captioning, VQA, referring expressions, prompt-based perception)
 Reasoning and agentic multimodal systems (tool use, planning, compositional reasoning over images/video)
 Transfer / low-shot / continual / long-tail learning (domain shift, adaptation, incremental learning, data imbalance)
-Self-, semi-, meta- and unsupervised learning (self-supervised pretraining, weak supervision, meta-learning)
+Self-, semi-, meta- and unsupervised learning (self-supervised pretraining, weak supervision, meta-learning) -->
