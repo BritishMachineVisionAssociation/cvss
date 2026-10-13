@@ -9,3 +9,5 @@ node_modules
 .bundle
 .ruby-version
 vendor
+TODO.md
+
