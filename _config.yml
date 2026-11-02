@@ -33,7 +33,7 @@ short-title: "CVSS 2027"
 host-name: Robert Gordon University
 host-name-city: Aberdeen, Scotland, UK
 conf_year: 2027
-email: bmva-cvss@durham.ac.uk
+email: cvss-aberdeen@bmva.org
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the 30<sup>th</sup> BMVA Computer Vision Summer School 2027, 12<sup>th</sup> - 16<sup>th</sup> July 2027.
 #baseurl: "/BMVC2021" #"/~nc537/bmvc_test" # "/bmva-website" # the subpath of your site, e.g. /blog
@@ -52,7 +52,7 @@ logo-host: "/assets/images/layout/rgu-logo.png"
 logo-host-alt: "/assets/images/layout/rgu-logo.png"
 logo-link: "https://www.rgu.ac.uk/study/academic-schools/school-of-computing-engineering-and-technology/"
 payment-link: "#"
-pc-email: "bmva-cvss@durham.ac.uk"
+pc-email: "cvss-aberdeen@bmva.org"
 twitter_username: BmvaCvss
 #github_username:  BritishMachineVisionAssociation
 #facebook_username: thebmva

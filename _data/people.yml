@@ -4,11 +4,50 @@ chairs:
     url: "https://cfmgcomputing.blogspot.com/p/home.html"
     job: Co-Chair
 
-  - name: Tryphon Lambrou
+  - name: Dr Shahana Bano
+    img: /assets/images/mugshots/shahana_bano.jpg
+    url: "https://rgu-repository.worktribe.com/person/1804884/shahana-bano"
+    job: Co-Chair
+
+  - name: Dr Tryphon Lambrou
     img: /assets/images/mugshots/tryphon-lambrou.jpeg
     url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
     job: Co-Chair
 
+  - name: Rachel Elliott
+    img: /assets/images/mugshots/rachel_elliott.jpg
+    url: "https://www.abdn.ac.uk/people/rachel.elliott/"
+    job: Co-Chair
+
+  - name: Miles Everett
+    img: /assets/images/mugshots/miles-everett.jpeg
+    url: "https://www.abdn.ac.uk/people/miles.everett"
+    job: Co-Chair
+
+  - name: Prof. Toby Breckon
+    img: /assets/images/mugshots/toby_breckon.jpg
+    url: "https://www.durham.ac.uk/staff/toby-breckon/"
+    job: Co-Chair
+
+  - name: Dr Stuart James
+    img: /assets/images/mugshots/stuart_james.png
+    url: "https://www.durham.ac.uk/staff/stuart-a-james/"
+    job: Co-Chair
+
+  - name: Dr Amir Atapour-Abarghouei
+    img: /assets/images/mugshots/amir_atapour-abarghouei.png
+    url: "https://www.durham.ac.uk/staff/amir-atapour-abarghouei/"
+    job: Co-Chair
+
+  - name: Prof. Ulrik Beierholm
+    img: /assets/images/mugshots/ulrik_r_beierholm.jpg
+    url: "https://www.durham.ac.uk/staff/ulrik-beierholm/"
+    job: Co-Chair
+
+  - name: Dr Sophie Crawford Haynes
+    img: /assets/images/mugshots/sophie_haynes.jpg
+    url: "https://rgu-repository.worktribe.com/person/1380694/sophie-haynes"
+    job: Co-Chair
 organisers:
 
 
