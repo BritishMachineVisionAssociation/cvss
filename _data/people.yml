@@ -14,12 +14,7 @@ chairs:
     url: "https://www.abdn.ac.uk/people/tryphon.lambrou"
     job: Co-Chair
 
-  - name: Rachel Elliott
-    img: /assets/images/mugshots/rachel_elliott.jpg
-    url: "https://www.abdn.ac.uk/people/rachel.elliott/"
-    job: Co-Chair
-
-  - name: Miles Everett
+  - name: Dr Miles Everett
     img: /assets/images/mugshots/miles-everett.jpeg
     url: "https://www.abdn.ac.uk/people/miles.everett"
     job: Co-Chair
@@ -43,6 +38,17 @@ chairs:
     img: /assets/images/mugshots/sophie_haynes.jpg
     url: "https://rgu-repository.worktribe.com/person/1380694/sophie-haynes"
     job: Co-Chair
+
+  - name: Rachel Elliott
+    img: /assets/images/mugshots/rachel_elliott.jpg
+    url: "https://www.abdn.ac.uk/people/rachel.elliott/"
+    job: CPD
+
+  - name: Shona Clark
+    img: /assets/images/mugshots/shona_clark.jpg
+    url: "https://uk.linkedin.com/in/shona-clark"
+    job: Events
+
 organisers:
 
 
